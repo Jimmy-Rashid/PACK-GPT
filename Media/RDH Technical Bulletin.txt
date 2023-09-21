@@ -1,0 +1,349 @@
+Housing provider organizations are seeking to provide fast housing solutions to underserved communities in Canada that have inadequate housing. The push to provide sustainable, affordable housing has led the construction industry to innovate new strategies for delivering housing solutions. Prefabrication, including volumetric modular construction, is one solution to address the need for fast, affordable housing that also meets energy performance targets such as the BC Energy Step Code and Passive House standards.
+
+Prefabricated modular construction differs from site-built construction in that the building modules are constructed off-site in a manufacturing facility, then transported to site and assembled to create the final building product. Volumetric modular refers to 3D modules, while panelization refers to prefabricated enclosure assemblies (the focus of this technical bulletin is on volumetric modular). In both cases, although site services still need to be connected and landscaping and finishes still need to be completed, the overall project timeline can be greatly reduced due to the short assembly time on-site (as short as a few days). While the modules are being manufactured off-site, the site can be prepared, and the foundation can be placed. Figure 1 shows a module that is being craned into place onto a modular building.
+
+Modular construction is one solution to address the need for fast, affordable housing that also meets energy performance targets such as the BC Energy Step Code and Passive House.
+
+Several companies that had previously provided temporary worker housing for remote resource extraction and development projects have now turned their focus toward providing housing products to a broader set of people in a variety of urban, rural, and remote locations. Other companies have started developing modular housing products based on experience in other manufacturing industries.
+
+Figure 1: Schematic depicting the craning of a module (coloured red) onto a modular building.
+
+This technical bulletin outlines lessons learned from some early modular housing projects, describes three case studies of modular construction in Canada, and summarizes key takeaways for scaling up projects like these across Canada.
+
+Opportunities for Modular Construction
+
+Modular construction has been used for a variety of applications. The project goals may vary, and the design and manufacturing of modules may be adapted according to the needs of the specific project.
+
+Variety of Housing Applications
+
+Modular construction may be used for either temporary or permanent housing structures. Temporary modular buildings may be repurposed and relocated for changing housing needs. Examples of building use applications include:
+
+Permanent affordable housing
+Rural and remote communities
+Student residences
+Temporary workforce housing
+Hotels and lodges
+Temporary transitional housing
+Energy Efficiency
+
+In addition to these housing applications, modular construction can be used to achieve various project energy target goals, including Passive House standards, Net Zero Energy, and the BC Energy Step Code, and assist with obtaining energy points as part of LEED certification. In particular, the airtightness targets that are required in some energy performance programs and policies may be easier to meet when constructing wall assemblies and installing windows in the controlled construction environment of a manufacturing facility, compared to the unpredictable and uncontrolled environment of on-site construction.
+
+Meeting energy efficiency and airtightness targets with modular construction is contingent on the quality of module-to-module joints and attachments on site. Attention to sealing these joints is integral to meeting performance targets.
+
+Remote Areas
+
+Remote communities, such as indigenous communities and sparsely populated areas of Northern Canada, have limited resources and are generally underserved with respect to adequate housing. Remote locations typically have difficulty accessing labor and building materials to solve their housing needs. Modular construction is a potential solution for remote communities because the modules are prebuilt in regions with adequate resources and then shipped to remote areas for fast assembly. This approach has the added advantage of minimally disrupting small communities with large development projects.
+
+Technical Challenges
+
+Using prefabricated modular construction to provide affordable housing has its advantages and disadvantages. Early projects have seen technical challenges from which project teams can now learn and develop risk mitigation strategies. High-level examples of technical challenges and lessons learned are provided below for all project phases starting with initial engagement and planning all the way through project handoff and the tenant experience.
+
+Engagement
+
+The construction timeline for modular housing can be very short compared to site-framed buildings, although the development permits and rezoning process are not shortened and can often slow down the timeline of modular projects. In some cases, municipalities can be educated about the modular process to accelerate the permitting and rezoning process in alignment with a commitment to deliver housing faster.
+
+Along with educating municipalities, it is critical to engage with the local community and stakeholders of the neighborhood for the development. The fast construction of modular housing has a shorter impact on the neighborhood during construction and provides a more stable environment for at-risk populations who may not have had consistent housing, potentially leading to a decrease in incidents such as thefts and disruptions in the area once the community members are housed.
+
+The information collected from project teams about their experiences with pre-construction engagement led to the following lessons learned:
+
+Lessons Learned
+
+Educate neighborhood groups on the benefits and successes of using modular construction.
+Encourage municipalities to streamline the permitting process for modular housing projects to accommodate faster construction timelines.
+Suggest that municipalities dedicate one building inspector for affordable housing sites to facilitate inspections of similarly designed projects.
+Site Selection
+
+When contractors are involved during site selection, they can help identify the constraints of potential sites (e.g., proximity of power lines or lot line constraints). Geotechnical reviews and servicing requirements also need to be considered when selecting the site. Many modular building designs for social housing do not include underground parking, which minimizes the site work required below the foundation. One benefit of modular designs with minimal below-grade preparation work is that the soil characteristics may be more flexible. For example, sites with minor environmental contamination may be used since the soil does not need to be significantly disturbed for the assembly of modules above grade.
+
+If the project site requires delivery of the modules in greater numbers or faster than they can be craned into place, the modules will likely need to be staged in an area close to the project before craning to avoid delaying the delivery process. This means that an area must be allocated adjacent to the project site that is suitable to lay the modules down. If delivery is scheduled to align with the craning sequence (i.e., “just-in-time” delivery), this staging space can be minimized.
+
+Figure 9: Barge used to transport modules for one remote project.
+
+Typically, the modules are transported by truck and may also be transported by ship or
+barge when remote or island sites are involved. The process of loading and securing the
+modules on trucks and ships should be carefully planned and executed to avoid damage
+during transport. Specialized trailers, cranes, and lifting equipment are often required to
+load and secure the modules safely for transport.
+
+Site Work
+
+Site work includes all the activities that need to be completed on-site after the modules
+arrive and before the building is ready for occupancy. This includes installing foundations,
+connecting utilities, completing module-to-module joints, finishing exteriors, and
+landscaping. Effective planning and coordination are essential to ensure that site work is
+completed efficiently and on schedule.
+
+Tenant Experience
+
+The tenant experience is a critical aspect of modular housing projects, especially for social
+housing where vulnerable populations may be housed. It is important to consider the needs
+and preferences of the tenants when designing and building modular housing. This includes
+considerations for accessibility, security, privacy, and community amenities. Engaging with
+the housing operator and potential tenants early in the design process can help ensure that
+the final building meets the needs of its occupants.
+
+The information collected from project teams about their experiences with site selection led to the following lessons learned:
+
+Lessons Learned
+
+Engage with the contractors early on to get their insights about site selection.
+
+Consider each site’s capability for temporarily storing modules prior to craning, especially for remote sites or sites with more than one module delivered at a time.
+
+Ensure that sites are set up to provide protection for modules while staging, prior to craning.
+
+Design
+
+Modular construction is a unique combination of premanufactured building components and on-site assembly and detailing. In the manufacturing stage, most typical construction challenges that might occur on-site can be addressed in the controlled environment. However, the relatively small scale of the units, the speed at which they can be built, the modular unit shipping requirements, and the on-site assembly all must be designed for from the beginning of the project so that manufacturing, assembly, and eventually the building operation works well. A few different design considerations are described below.
+
+Design Considerations for Fast Manufacturing
+
+In the manufacturing plant, modular construction progresses quickly on a unit-by-unit basis. It is essential that every detail is designed upfront with the most consultant involvement happening at this stage. Traditional construction often progresses at a reasonably steady pace so that quality control and building details can be worked out throughout the project. However, with modular construction, almost all building design decisions need to be made before manufacturing starts, and issues need to be resolved during the construction of the first few modular units.
+
+Size and Shape Limitations
+
+Typical modular construction layout uses long narrow units stacked in parallel rows with no offsets or rotation. While this simplifies manufacturing and assembly, the resulting overall shape of the building will reflect this utilitarian approach. On the other hand, if building articulation is sought, the modular units must be designed to provide structural and building enclosure continuity. The reduced interior usable floor space due to double walls throughout the building, the increased building height due to double floors and ceilings, and the reduced architectural flexibility due to modular limitations all must be accounted for.
+
+The width of the modules has a significant impact on shipping constraints as well, which are further described below.
+
+Design for Shipping
+
+Shipping limitations for the modules impact their size and shape. For example, an extra 1 or 2 inches in width may trigger additional requirements for road safety. The units are generally shipped via roadways and ships/barges, so the size of each unit is typically limited by overhead powerlines, overpasses, and general road restrictions; therefore, the units are often built to optimize their dimensions: 15’4” high once loaded onto a truck, under 70’ long, and under 14’ to 15’ wide depending on the transport routes (some will allow up to 16’4”). The ability to transport two or more modules at once may impact the design for module height (if the modules will be stacked during transportation) and for length (if the modules will be lined up lengthwise during transportation). The units may require additional framing to minimize shifting of their rough openings and connection points during transportation and to accommodate top-pick points or lift straps, regardless of the structural requirements of the completed building. After initial manufacturing, all sides of the completed unit should be prepared to be exposed to the outdoor elements, sometimes in severe conditions. Water protection membranes and other building materials should be selected and installed with transportation in mind so they are able to withstand wet, windy and often dirty conditions during shipping (this is discussed further in the Transportation section below).
+
+Figure 2: Photo illustrating the exposure of the bottom corner of one module to rain and dirt during transportation. This may impact durability of the assembled building and should be considered during the design of modules for shipping.
+
+Figure 3: Photo illustrating a module being placed on the Bella Bella staff housing. The module was designed to be protected on all six sides during transportation with self-adhered membrane that also served as a water-resistive barrier for the completed building.
+
+Design for On-Site Assembly
+
+Each module must be designed to act as both a durable weatherproof single unit during shipping and as part of a completed building that resembles one designed with typical construction approaches and building operations. The building enclosure should be designed to protect the entire unit, regardless of the assembly strategy. Once the modules are on-site, critical module-to-module tie-ins for the structural systems, water-resistive barrier, air barrier, thermal insulation, and cladding play a major role in the quality and durability of the completed building. Details should be designed to allow ease of installation for site elements that cannot be included on the shipped module. Since the exterior water resistive barrier and often air barrier often cannot be reliably sealed without large portions of cladding and membranes being left off, it is generally simpler to design the units as individually airtight units, including areas along the abutting walls and floors. This enables a mid-construction airtightness test in the factory where details with air leakage may be repaired. The thermal, water-resistive, and cladding component tie-ins must be connected on-site, and continuation of the air barrier between modules should also be completed to ensure whole building airtightness.
+
+Figure 4: Detail of a wall tie-in joint before site work finishing (left) and after the final detail is completed (right) for air, water, thermal, and cladding continuity.
+
+Figure 5: Cross section details showing the floor-to-ceiling connection, starting with the top of one module (left), then the addition of another module on the next floor (middle), and the site work to establish continuity of the critical barriers (right).
+
+Figure 6: Cross section details showing the prepared foundation (left), the placement of a module on the foundation pile (middle), and the end detail completing the water barrier and protecting the ventilated cavity under the modules (right).
+
+Design for Social Housing
+
+It is also beneficial to involve the housing operator in the early design stage. The housing operator may offer unique perspectives from working closely with the tenants (i.e., at-risk and underserved populations) and understanding the needs of the facility. This is especially important if temporary housing is to be repurposed, because its initial use may not suit the needs of the second use (e.g., converting temporary worker housing for social housing).
+
+Specific design considerations for social housing that may be overlooked include secure office space for staff, walled-off kitchen space that can be locked, placement locations and sightlines of on-site cameras, and accessibility needs. With respect to accessibility, sharp angles and steep ramps should be avoided since these can be challenging for a wheelchair. Elevators are often not incorporated into modular design, though this option may be considered more often in the future as the population in affordable housing ages.
+
+As with many compact multifamily buildings with high-density dwelling units and high-performance enclosures, there is a risk of overheating. Shading and other solar control strategies should be built into the design. This is especially important for social housing as vulnerable populations are more at risk of adverse health impacts from overheating.
+
+The information collected from project teams about their experiences with design led to the following lessons learned:
+
+Lessons Learned
+
+Front-load the design work to determine all design details prior to manufacturing the modules.
+
+Consider the building shape and size limitations from constructing them with modular units. The size of each unit may also be limited by shipping constraints.
+
+Design each module to withstand the impact of transportation,
+
+e.g., placing water-resistive barrier on all six sides that may be rinsed upon arrival, and reinforcing the rough openings and structure to prevent shifting.
+
+Design for on-site module-to-module tie-ins for the structural systems, water-resistive barrier, air barrier, thermal insulation, and cladding (see Figure 4, Figure 5, and Figure 6).
+
+Engage with housing operators early on to determine project-specific needs.
+
+Consider accessibility requirements and unique modular details in the design stages (double walls and ceilings/floors, and wood-framed modules at grade).
+
+Manufacturing
+
+Replicability and consistency can improve with repeatability from working on multiple, similar affordable housing projects. When a project’s floorplan and materials are the same as in previous projects, this efficiency is built into the cost of the project and can drive down the cost of construction.
+
+It is important to consider the anticipated tenant profile for the building when choosing materials and finishes. BC Housing has noted that vulnerable populations may put more wear and tear on buildings, so it is important to use robust materials in the construction of these buildings. According to the National Collaborating Centre for Determinants of Health, vulnerable populations are groups and communities at a higher risk for poor health as a result of the barriers they experience to social, economic, political and environmental resources, as well as limitations due to illness or disability.
+
+Because the manufacturing facility is a controlled environment, it can be easier to meet high-performance requirements, such as airtightness targets, in the factory than with sequential construction of enclosure assemblies on-site. This controlled environment has been found to be beneficial for consistent membrane application and detailing, especially when using exterior insulation, though site joints still need to be detailed well for module-to-module continuity. Figure 7 shows a module during installation of exterior insulation while it is being finalized in the factory and Figure 8 shows modules assembled on site, awaiting the completion of module-to-module joints.
+
+Figure 8: Photo of assembled modules for housing at Yale First Nation, BC, prior to sealing the module-to-module joints on site.
+
+The information collected from project teams about their experiences with module manufacturing led to the following lessons learned:
+
+Lessons Learned
+
+Batch multiple building projects with similar floor plans and materials to provide consistency and cost effectiveness.
+
+Since the manufacturing process can be relatively fast, finalize all designs and train all trades prior to beginning the manufacturing stage.
+
+Take extra care for precise measurements since small errors may be compounded during the assembly of several modules, which may impact the component tie-ins.
+
+The CAN/CSA-A277 standard may be used for quality assurance for portions of modular buildings that are constructed in the factory.
+
+Consider that high-performance targets may be more achievable using controlled manufacturing—aim high!
+
+Transportation
+
+The inherent need to transport manufactured modules for modular construction poses a risk to the durability of modular buildings. Standard housewrap and basic sealants may be adequate for site-built construction, but they may not withstand the transportation conditions used for modular construction. This is especially important when modules are shipped long distances (e.g., across oceans) and in wet conditions (e.g., the Pacific Northwest). Figure 9 shows the barge used to transport modules for one remote project.
+
+Lessons Learned for Construction:
+
+Engage early on with groups servicing the site, and account for the installation of service connections for the assembled modules in the project timeline.
+
+Manage moisture throughout the construction process to avoid trapping construction moisture between the modules or damaging finishes.
+
+Connect and seal module-to-module connections as fast as possible once erected to prevent water ingress into concealed spaces. Water that does bypass joints can be a challenge to dry out by evaporation, especially if temporary waterproofing membranes are left in place.
+
+Commissioning/Handoff:
+
+Modular units are assembled prefurnished with interior finishes complete, which allows for occupancy to happen quickly (within three months from craning). In contrast, similar social housing buildings built by traditional site construction may require 6 months between post-construction and occupancy to complete interior finishes. Although the modular construction process is faster than traditional construction, additional items such as landscaping and sidewalks, sewer connections, and utility services such as water and power can take the same amount of time to complete, so it is important to allow for these items in the project timeline. Commissioning the building and training site staff for building operation will also need to be considered in the project timeline, though instructions for site operation may be streamlined for projects that have been batched for replicability.
+
+If site work such as landscaping and HVAC commissioning occurs post-occupancy, this work may negatively impact the tenants. Landscaping may impede accessibility and not commissioning HVAC systems may contribute to operating and possibly overheating issues. Overheating and inadequate ventilation may lead to health concerns for at-risk populations. It is important to consider the safety of occupants with respect to temperatures, indoor air quality, and accessibility if further site work occurs after move-in dates.
+
+Since the prefabricated parts of these buildings often come from all over Canada, building operators have found it difficult to order replacement parts when needed. Site-built construction may pose similar issues when products are shipped from all over Canada or from other countries. To avoid this challenge, a central repository for parts is needed—perhaps managed by the local housing organization.
+
+Lessons Learned for Commissioning/Handoff:
+
+Schedule for occupancy very soon after the modules are assembled, but allow time for site work (e.g., landscaping, walkways) and commissioning in the project timeline.
+
+Consider the safety of occupants with respect to temperatures, indoor air quality, and accessibility if further site work occurs after move-in dates.
+
+Create a central repository for spare parts, managed by the local housing organization.
+
+Tenant Experience
+
+Due to the flexibility of modular construction, modular housing can be put in virtually any neighbourhood. The greenery and the neighbourhood environment of some locations that have been selected for modular social housing have helped vulnerable populations feel happier and more stable. According to research by BC Housing,1 in general, tenants of modular buildings have been very happy with the housing. In BC Housing projects, previously homeless tenants have commented that the common area of these particular modular building designs has helped them build relationships and that having their own bathrooms and kitchens has allowed them the privacy and independence they were lacking before.
+
+In early iterations of modular buildings for vulnerable populations, the materials were found to lack durability. Some walls were easily damaged. Since vulnerable populations often put more wear and tear on buildings, it is important to use sturdy materials in the construction of these buildings and to consider the anticipated tenant profile for the building.
+
+Many tenants of modular buildings in BC are reporting overheating, particularly on south and west facing upper floors. This issue needs to be considered in the design of these buildings, especially in BC where there is a code requirement to minimize overheating; it would be beneficial (and in some cases necessary) to perform an overheating analysis of all modular buildings prior to construction. Tenants have requested increased operability of the windows or mechanical cooling for these buildings. In some cases, this overheating has caused tenants to leave their doors open for cooling, which has sometimes resulted in thefts.
+
+In some cases where temporary worker housing has been repurposed for affordable housing projects, the design of the building has been inadequate for the new application. It is important to consider the space use when repurposing temporary modular buildings and make modifications where necessary.
+
+The information collected from project teams about their experiences with tenant occupancy led to the following lessons learned:
+
+Lessons Learned
+
+Use durable materials in construction for buildings to house vulnerable populations and follow specifications such as the BC Housing Design Guidelines and Construction Standards.2
+
+Follow energy modeling guidelines,3 or other requirements as applicable, to minimize the risk of overheating.
+
+Include shading, ventilation, and cooling strategies in the design-development phase to minimize overheating or implement mechanical cooling solutions such as packaged terminal air conditioners or centralized cooling systems.
+
+Consider the space use when repurposing temporary modular buildings and make modifications where necessary.
+
+Case Study 1: Bella Bella Staff Housing Facility
+
+In early 2015, the Vancouver Coastal Health Authority began seeking staff housing solutions in Bella Bella, BC. The project team set out to build Canada's first multi-unit modular Passive House4. Figure 15 shows the completed facility, and Figure 16 shows a module being placed during on-site construction.
+
+Owner: Vancouver Coastal Health Authority
+Location: Bella Bella, BC (rural)
+Operator: Vancouver Coastal Health Authority
+Construction year: 2015
+Building type: 6-unit staff accommodations
+Manufacturer/builder: Britco/Spani Developments
+This project faced several challenges. The housing operator wanted it to be built to Passive House standards, and the building needed to be completed quickly so that Vancouver Coastal Health Authority staff could move in as soon as possible. In addition, Bella Bella experiences some of the wettest weather conditions in the province, and this rural location has extremely limited access to trades and materials. Figure 17 shows the modules being shipped in by barge to the project location.
+
+Project Goals
+
+Modular construction helped the owner achieve the following project goals:
+
+Passive House certification (pending): One project goal was to achieve the Passive House standards in the project's remote location before the end of September 2015. Passive House is a rigorous concept where a building's enclosure achieves a balance between the climate conditions impacting the building and the needs of the building's occupants. This balance results in the building requiring only a small amount of energy beyond what the occupants use for their daily needs, delivering a comfortable, healthy, and durable structure that uses minimal energy. The building must meet strict criteria, including space heat demand, primary energy demand, and pressurization testing. Using modular construction allowed a trained workforce to build to the Passive House standard in a controlled environment off-site.
+
+Fast construction: The Vancouver Coastal Health Authority needed the building to be completed quickly so that staff could move in as soon as possible. Since the building had to be completed within a short timeframe, modular construction was the optimal choice. Figure 18 shows a module being placed on the housing facility.
+
+Minimal disruption to the community: The manufacturing of modules off-site and fast assembly on-site minimized the amount of time that workers and crews were present in the quiet community of Bella Bella. It is estimated that the project would have taken two years to build using traditional on-site construction methods compared to the seven months it took from start to finish using modular construction.
+
+Key Challenges and Solutions
+
+Table 1 provides an overview of project-specific issues related to using modular construction for the Bella Bella Staff Housing Facility project.
+
+TABLE 1
+
+CASE STUDY 1—CHALLENGES AND SOLUTIONS FOR USING MODULAR CONSTRUCTION
+
+CHALLENGES	SOLUTIONS
+The local construction team was pursuing Passive House for the first time and lacked experience in this design approach.	The modules were prefabricated within a controlled factory environment. This enabled Britco to combine the required resources with the right materials, quality controls, and correct installation—verified by project consultants—resulting in a successful Passive House project. New enclosure details needed to be designed to achieve the Passive House level performance using modular construction, but the details can now be standardized for future projects.
+Bella Bella experiences some of the wettest weather conditions in BC.	The modules were protected on all six sides for shipping with a highly water-repellant but vapor-permeable sheathing membrane. This membrane doubled as the air and water-resistive barrier for the assembled building as well. Completing the on-site module-to-module air and water sealing was especially challenging in the wet weather and required more effort by the construction team.
+
+TABLE 1
+CASE STUDY 1—CHALLENGES AND SOLUTIONS FOR USING MODULAR CONSTRUCTION
+
+CHALLENGES	SOLUTIONS
+Off-site construction meant that the large amounts of exterior insulation required for Passive House performance could be installed without taking additional construction time or requiring additional training of labor on-site. Raw materials also did not need to be shipped and assembled on-site.	The project location had extremely limited access to trades and materials. The modules were prefabricated within a controlled factory environment. This enabled Britco to combine the required resources with the right materials, quality controls, and correct installation—verified by project consultants—resulting in a successful Passive House project. New enclosure details needed to be designed to achieve the Passive House level performance using modular construction, but the details can now be standardized for future projects.
+The stringent airtightness requirements in the Passive House standard (0.6 ACH50) had to be met.	Attention to detail in the controlled manufacturing plant made it easier to meet the airtightness target than it would have been in the rugged weather conditions of the Pacific Northwest.
+Challenges with performing mid-construction airtightness testing when using modular construction needed to be addressed.	Mid-construction airtightness testing is typically carried out when aiming for high-performance targets to help identify issues early on and make repairs before the building is clad. Due to the tight module assembly timeline, this mid-construction testing had to occur in the facility on the individual modules. As a result, each module was made as airtight as possible on all six sides.
+The site had only beach access with no easy trucking access.	The modules were shipped in via barge. (See Figure 17)
+Figure 18: Module being placed on the Bella Bella Vancouver Coastal Health staff housing facility.
+
+Monitoring work has shown that the Bella Bella Vancouver Coastal Health staff housing facility uses approximately 90 kWh/m²/yr of energy, and the energy consumption is mostly driven by internal loads, e.g., televisions and other plug loads.
+
+Case Study 2: Abbotsford Temporary Modular Residence
+
+The City of Abbotsford, BC, was searching for options to combat homelessness in their city. The province, along with BC Housing and Lookout Housing and Health Society, set out to design and construct a temporary modular building to be used as transitional housing in an effort to move people beyond homelessness.
+
+The three-storey modular apartment building (see Figure 19) features 44 units, including eight units designed for people with disabilities. Each unit is private, with a washroom and kitchenette. The ground floor includes a commercial-grade kitchen, common dining area, laundry facilities, and support service rooms. The building was also designed to meet Step 3 of the BC Energy Step Code, meeting rigorous energy requirements and airtightness targets.
+
+Owner: City of Abbotsford	Location: Abbotsford, BC (urban)
+Operator: Lookout Housing + Health Society	Construction year: 2019
+Building type: temporary transitional housing	Manufacturer/builder: Metric Modular
+Project Goals
+
+Modular construction helped the owner achieve the following project goals:
+
+BC Energy Step Code—Step 3: BC Housing actively supports the provincial government's actions leading to the creation of a low-carbon economy and sustainable future. As such, BC Housing projects must meet BC Energy Step Code performance targets, such as Step 3 in the case of the Abbotsford project. The controlled factory environment used for modular construction helped meet the stringent airtightness targets.
+
+Fast construction: In Iqaluit, the building season is very short due to the temporary marine shipping routes that freeze over in the long winter and the harsh winter conditions that make construction impractical. The development team was also keen to open the hotel as soon as possible because lodging in Canada's Far North is very limited. The site preparation during manufacturing at the facility and the fast assembly of modules on-site allowed for a faster construction time than conventional site-built construction.
+
+Control/reduce cost: Modular construction was able to deliver the project under budget and one year earlier than conventional construction alone. Costs were reduced by leveraging off-site labor rates and expediting build times to reduce general conditions. Off-site construction was also able to leverage a lower cost of materials relative to locally supplied goods.
+
+TABLE 2
+CASE STUDY 2—CHALLENGES AND SOLUTIONS FOR USING MODULAR CONSTRUCTION
+
+CHALLENGES	SOLUTIONS
+The permitting and rezoning process required collaboration and facilitation.	Early engagement with local jurisdictions and collaboration with other jurisdictions that facilitate these projects was helpful for future projects.
+The local development cost charges needed to be accounted for.	The project budgeting needed to include local development costs, which may be different from jurisdiction to jurisdiction.
+The energy efficiency requirements of the BC Energy Step Code needed to be met.	Early energy analysis and collaboration with the design team and BC Housing helped to inform the design approach.
+The BC Housing airtightness targets needed to be met.	Having controlled construction in the manufacturing facility—protected from wind, rain, and other elements on-site—allowed the team to apply the air barrier consistently and meet the airtightness targets.
+Case Study 3: Iqaluit Hotel
+
+The 102-room Iqaluit Hotel project in northern Canada is to be completed in the spring of 2020. Like other hotels in underserved communities of Canada's Far North, the modular Iqaluit Hotel may be used as temporary residences, alleviating a local shortage of hotel spaces to provide temporary housing to locals when needed.
+
+This energy-efficient hotel will provide urban comfort to its future guests. The client selected modular construction as the most viable solution to the short building season on Baffin Island. Given the short Iqaluit construction season, site preparation was started two years prior to module assembly. The modules were built during the winter and shipped in the summer for arrival at just the right time in Iqaluit (see Figure 20). The site was prepared during the 4.5 months of fabrication in a factory. A convention center is also being erected that will be attached to the modular hotel.
+
+Owner: QC (Qikiqtaaluck Business Development Corporation)	Location: Iqaluit, Nunavut (remote Far North)
+Building type: Hotel	Construction year: 2020
+Manufacturer/Builder: Stack Modular/Bird Construction	
+Upon completion of module construction in the factory, the modules were loaded onto a break bulk vessel at the port of Shanghai. The vessel traveled across the Pacific Ocean, through the Panama Canal, and up the Atlantic coast to Baffin Island in northern Canada (see Figure 22). In total, the journey took 41 days passing through multiple climate zones.
+
+Upon arrival, the modules were erected in nine days, and subsequent finishing work was completed on the building's exterior, plumbing, mechanical systems, and electrical services. This streamlined process allowed the hotel to open significantly faster than would have been possible using conventional construction methods.
+
+Project Goals
+
+Modular construction helped the owner achieve the following project goals:
+
+Exceed energy performance targets: The intent of the design team is to exceed the thermal performance requirements of the National Building Code and the 2015 National Energy Code for Buildings (NECB). This intent is founded on creating an energy efficient, durable, and sustainable facility in a very cold climate with a design temperature below -40°C. The wall assemblies have an effective R-value of R-35 with 9 inches of exterior insulation, and the stainless steel cladding attachment clips and roof assemblies have an R-value of R-57, exceeding the NECB requirements of R-31 and R-40 for walls and roofs, respectively. Figure 23 shows the project mid-construction after installation of the insulation.
+
+Fast construction: In Iqaluit, the building season is very short due to the temporary marine shipping routes that freeze over in the long winter and the harsh winter conditions that make construction impractical. The development team was also keen to open the hotel as soon as possible because lodging in Canada’s Far North is very limited. The site preparation during manufacturing at the facility and the fast assembly of modules on-site allowed for a faster construction time than conventional site-built construction.
+
+Control/reduce cost: Modular construction was able to deliver the project under budget and one year earlier than conventional construction alone. Costs were reduced by leveraging off-site labor rates and expediting build times to reduce general conditions. Off-site construction was also able to leverage a lower cost of materials relative to locally supplied goods.
+
+Key Challenges and Solutions
+
+Table 3 provides an overview of project-specific issues related to using modular construction for the Iqaluit Hotel project.
+
+CHALLENGES	SOLUTIONS
+The project had a very short build time due to the extreme northern climate and land/sea access to site.	Modular construction was leveraged for podium-up, which expedited the construction schedule by over one year. The manufacturing and logistics schedule was aligned with the two-month window, including considerations for no port/dock facilities. The team used a deep-water anchor, then craned two units onto prebuilt trailers, and transported the trailers via barge to the high tide shoreline for truck transport to site.
+The remote northern location allowed only a two-month window for a ship to deliver modular units to site, leading to challenging logistics.	In addition to Stack Modular’s manufacturing cost savings, the team leveraged Stack’s supply chain to finish all interiors, including the furniture, fixtures, and equipment, to reduce the cost of all finishes.
+The project costs needed to be controlled.	Thermal bridging was controlled with all exterior insulation. The exterior insulation was installed on-site to achieve a continuous layer and to minimize the thermal bridging at tie-ins.
+Figure 23: Exterior insulation installed on the Iqaluit modular hotel/residence to achieve the desired thermal performance using steel-framed modules, shown mid-construction as cladding is added.
+
+Considerations for Scaling Up Across Canada
+
+The three case studies outlined above are examples of using modular construction to provide housing for three different use types—permanent staff housing, a temporary residence for homelessness, and a hotel that can support temporary residence—in three different locations (rural, urban, and remote). These cases offer several key takeaways that should be considered if modular housing solutions are used across Canada. These takeaways are summarized below:
+
+Modular product manufacturers should standardize design details for modular Passive House projects (or other energy performance targets) to help streamline delivery and minimize design time and effort.
+
+Moisture protection and management during transportation and construction are key to minimize the risk of water damage and increase durability.
+
+Municipalities need to be educated on modular construction and encouraged to adopt policies for faster approval of housing to take advantage of fast, affordable housing.
+
+Energy analysis needs to be incorporated early in the design process to achieve high-performance energy targets. Additionally, all stakeholders should be brought into the early schematic designs because early decision-making speeds up the overall construction process and alleviates future delays on-site.
+
+Sites should be selected that are not constrained by limiting access to the installation of modular buildings (i.e., overhead powerlines that would prevent craning).
+
+A combination of conventional and modular construction can be leveraged to move forward with this construction method when suitable, while standard on-site construction can be implemented for unique circumstances of modular projects.
+
+Close collaboration with all stakeholders (owner, general contractor, architect, lender, authority having jurisdiction, and manufacturer) on design, scope, logistics, and schedule is key to a successful project.

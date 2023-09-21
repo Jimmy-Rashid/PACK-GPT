@@ -1,0 +1,151 @@
+Design for Automated Modular Manufacturing w/ Brave Control Solutions
+
+John McMullen
+
+Welcome, everyone. My name is John McMullen. And I'm the Marketing Director here at MBI. Today, I'm joined by Brent McPhail of Brave Control Solutions. Brent is here to talk more about the potential of automation in the construction industry, and how it specifically can benefit the modular construction industry. Brent, welcome back to the podcast.
+
+Brent McPhail
+
+Thank you, John. Glad to be back.
+
+John McMullen
+
+For those who did not hear our previous conversation, tell me briefly about yourself and about Brave Control Solutions.
+
+Brent McPhail
+
+Sure. So at a high level, I own a company called Brave Control Solutions and we develop automated solutions for manufacturers. Historically, we've built a lot of equipment for the automotive industry for manufacturing, as well as some food and beverage and, general industry. About three years ago, we started to make a pivot towards automating for construction. And as anybody who's listened to this podcast already knows, it's the next wave of the future for the modular and offsite construction industry. So, we've developed a number of solutions and systems for the offsite construction market.
+
+John McMullen
+
+So the last time we spoke, we talked about automation in general and the obvious potential benefits for modular construction. But, there are significant challenges to automation, especially for buildings, right?
+
+Brent McPhail
+
+Yeah. So briefly, I guess we with a previous podcast sort of focused on was what we called Snowflake Manufacturing. From our experience in traditional automating for manufacturers, and then into construction automation, one of the things that we learned early was this little quick little analogy I talked about, which is the F 150 story. The F 150 is a very complicated piece of equipment. However, you would never build a factory without knowing each and every component that's going to go into that f150. When you look at the construction industry, and what we call Snowflake Manufacturing is before your first factory is built, you've already designed a new building to run in that factory. While there's a lot of parallels between the two industries, there are some unique and significant challenges with offsite construction that we've got to address specifically.
+
+John McMullen
+
+So what are some of the specific hurdles that you as an automation company face with construction projects?
+
+Brent McPhail
+
+So a specific hurdle would be the flexibility challenge. So because of the nature of the way that we build these Snowflakes, we have to build automation that's able to react as quickly as a consumer demand reacts. As a new building comes in, as an architect is designed a new type of building, we need to make sure that we can leverage as many tools as we can to sort of change our fixturing and have our robotic systems able to adapt to handle that flexibility. One of the things that we want to talk about today is this term that gets thrown around, which is designed for manufacturing. I hear it said, but when you want to design for automated manufacturing it adds an even additional layer to a subject that architects are already sort of struggling with in the modular industry.
+
+John McMullen
+
+So what ideas do you have to help design and automation sort of meet in the middle?
+
+Brent McPhail
+
+Basically, in a perfect situation, what we would do is we would adopt the offsite construction industry to make everything exactly the same. So there would be no variability, every building would be the same. Then we could use our traditional automation methodologies that we use for, say, making cars. Of course, that's not possible. So then the other side is the construction industry would come to me and say, Brent, we need you to make a machine that is 100%, flexible, like a Star Trek replicator that can make anything that we demand. That's far off in the future so that's also not possible. In order for us to meet in the middle, we've got to find that area where there's enough flexibility in the product that the consumers will buy it and that the architects can continue to build it, but also that there's not so much flexibility that we can design automated systems to work in that environment.
+
+John McMullen
+
+Gotcha. So it sounds like there really needs to be a change in thinking maybe for design professionals, architects in particular. What suggestions do you have?
+
+Brent McPhail
+
+Yeah. What I would say is that the challenge that I see coming down the road is that when I hear the term of “design for manufacturing” thrown around, I think that what's happening right now is architects that are working in the modular industry, they're savvy to this. They’re smart people. What they're doing is they're now going down to the floor and they're asking the framer, or the welder, hey, this last project I designed, why are you guys putting more hours into assembling it? One advantage they have is that that guy is incredibly flexible and he's incredibly resilient. So if they don't do the best job of designing for the manufacturing process, they can still accomplish that process, it just, you know, make somebody's job a little bit worse. And so that's kind of the situation that we're at right now. The humans have the flexibility to pick up the slack, the architects have the time to start to learn what they need to do to help them that design for manufacturing.
+
+When we move to the next step, which is designing for automated manufacturing, robots are incredibly flexible, but they are not very adaptable on the fly in situations. If we don't consider the design for manufacturing of that robotic cell at that time, we have to then bring in humans to make up the slack for the robots are. And so if you can imagine the investments that a company has made in putting robots in a system, and then to have to go back and use a human, to basically pick up the slack, because that robot doesn't have that adaptability on the fly. There's a lot of frustration there. And so us as robotic designers, what we are trying to push, and what we're trying to say is okay, guys, but if you work with the robotic designer, to help create the envelope of what needs to be the flexible requirements for your system, then you have something that you can design within those parameters to be able to get the best out of your automated system. And so it's a lot smoother, but it takes a lot of conversation at the beginning.
+
+John McMullen
+
+It sounds like it. What would be the process for implementing these sorts of changes in the short term?
+
+Brent McPhail 
+
+So what we've been doing is we, my company specifically, you know, we go through this solutioning process where we define the requirements. So what that means, and what this is driven by is that, you know, there's a lot of smart people, architects, specifically, that are making really bad choices right now. And so the question you have to ask is, why would a smart person who certainly doesn't want to make his job harder, or anyone else in this organization shop harder to make a bad choice, and the reason is, because they can't see it. So when you think about, you know, traditional automotive manufacturing, there's nobody that, you know, you're not designing a car to work in a factory, that's never been done before. Even when Elon Musk is making his factories, he's still using techniques that have been around for 50-60 years of automation. So you've got this designer who is in the automotive industry who comes in, and he knows that in order for him to get over the parts located in all the gaps and everything correct, there's a whole bunch of detailed work that happens behind the scenes. Behind the door panel, if you peel that door panel off, you see all kinds of locating pins and holes and things for the robots to grip onto.
+
+Well, architects don't see that because that's not their past. And because we don't have a pre-existing system to show them that. So what we do is we try to get the details required for the project at the high level. And so the mins and maxes, some of the basically the business rules or the design rules, that's the starting point. And then what happens is, we have to then make a concept of a machine at a very high level that we can put into a digital twin or digital model so that we can simulate so that the architect can now give us better feedback, as we're designing this machine.
+
+Once that machine has been agreed upon to work within the parameters that are given, then what happens is the architect has the ability now to see it, he has the ability to do a design, to put it in this virtual environment and try it and test it and see what the robot's limitations are see where you know, a limitation or robot, for example, would be a reach. So you've, you've decided that you want to put two structures a few inches apart, while the robot might be a foot and a half wide. And so if it can't reach inside that area, he can't perform that task. And so then that means that that automated system is going to be instead of 100% completely automated, it's going to have to have some manual intervention component. Well, if you can't see that, and you can't visualize that you can't make a better design choice. And what we're finding is that the architects look at it, they say, Well, I don't have to put that structural piece there, I could put it over here and it would have the same effect from what I'm trying to achieve. But from the automation side, it then gives them another piece of that puzzle that can be more fully automated.
+
+So giving them that environment. And it is early stages. So it's sort of you know, the opposite of a good design really, but but it's where we're at right now, because of this early nature is we give them the ability to trial and error, their design in a virtual environment instead of trial and error and on the actual floor. There's there's ways we can do it better in the future. But this is the stage that we're at right now that we're finding is working pretty quite successfully.
+
+John McMullen
+
+What's that process been like communicating with architects that you've been with? Have they enjoyed this process? Have they looked at this product and said, hey, there's a lot of potential here. What's, what's the feedback that you've gotten so far?
+
+Brent McPhail
+
+Yeah. So So generally what happens is, they know the challenge, they know the problem. And we all know that it's happening right now. And it's, we don't have generations to wait for this, right. It's, we can't pass this tribal knowledge down. So so they know the problem. Generally, what's happened is there's a lack of communication, because the manufacturing guys are sitting apart from the architecture guys, which are sitting apart from the automation guys. So what we're really pushing for is to have that conversation upfront.
+
+The way it's been happening now is the manufacturing guys guide, and direct us on how to make that machine that first step of the process, the mins and the maximums. And the architects aren't necessarily involved in that. And so then what happens is, when the architects do get involved, they don't realize the limitations of the machine. And so they're busy doing their design. And so we end up with a machine that's capable of running, say, 80% 70%, automated and the rest has to be done off site, well, then that'll facilitate the meeting with the architect, the architect will then sit down and say, Well, if you guys had to show me these rules ahead of time, then I would have able to, you know, make better design choices. And so as they go into their next project of their next project, the quality of the quantity and quality of how much they can automate goes up.
+
+So that's been historically what we've been sort of seeing so far. What our push right now is, is now that we're aware of this is to just get everybody in the room that needs to be in that room up front, so that they can see what's going on, so that we can show them how to use the tools and so that they can start off making their designs better. But But to be honest, there's a an active business cases going on, where a lot of times when we get involved, a building has been sold, it's already partially designed. And then people are trying to scramble to manufacture it. So you know, it's not that I don't feel that it's people aren't doing it wrong. It's some of it that they don't know. And some of it is just market driven, business driven. like everything's working in parallel, instead of you know, nobody has time to line everything up in the perfect order. So so that's just an iterative process that that we go through.
+
+John McMullen
+
+So I asked you about the implementing these changes in the short term. So what's on the flip side? What what's the ideal that you guys are striving for? What's the long term solution?
+
+Brent McPhail
+
+Well, so the long term solution is a couple of different things. First of all, as we learn, and as we keep developing applications, we're able to make our robots do more and more and more things, right. So it's still very early days. So in the longer term solution, there will be less limitations. But I really don't see a point where we eliminate all the limitations. So the part that I would like to change, I guess, in sort of a longer term as we get get through this is that, instead of us giving the architect sandbox that he can try his design and see if it passes or fails, we need to integrate with the data systems with the BIM models, we need to integrate with sort of the tools that they're using to make their design decisions the same way that they would, you know, from a cost point or a bill of materials point, we need to build in the design limitations of the automated system at that point. Now, the reason that's such a long way away is the same as we're at right now. It's just there's, there's a lot of balls up in the air. And that's a lot of integrated work. So So we believe we've got a short term solution right now, that's a visual tool that will help the architects design better once it's been established. But I believe the long term has to be how do we not even need that too? How do we just limit his choices at design time, so that they work with the automation?
+
+John McMullen
+
+So here's a fun thought experiment. We've had the benefit of seeing lots of other industries evolve into automation over the past century, you brought up automobiles, and we're just getting to the point now, where we're automating building construction. So tell me about modular construction in 50 years, how does that work?
+
+Brent McPhail
+
+Yeah, so 50 years from now is going to be almost impossible for me to predict because I think the rate of change of our technology, it's, it's exponential. But it is an interesting question. So I can talk about where I can see sort of this, you know, the modular going, and what I would say is that, what I found is with, you know, technological innovations, we always tend to overestimate in the short term, what their impact is going to be. But then I believe we underestimate in the long term of what their impact is going to be. And so, you know, I believe that Brave is a front runner in developing some of this technology, but I know that we're not alone. And I know that as the market demands that there'll be more companies like brave in the next three to five years that are jumping in with their own version of their CAD the fab product or their, you know, sort of digital twin design tools.
+
+So what's going to start to happen is we're going to see a lot of changes really quickly, what I believe is that in traditional manufacturing, there's a movement to start to go towards a decentralized model. And so what the modular construction industry is doing right now is they're sort of following the path of traditional manufacturing, which is a centralized model, big factories, pumping out product, and then shipping the product. And, you know, there's always a debate of, you know, 3d volumetric versus 2d, do you ship or do you not ship there, but I think what's going to happen is that the beta is going to start to change. And as you see, people that are putting up, you know, 500 1000 2000, house subdivisions, and then they move, you know, after a year or two to the next site, and they do the same thing over and over again. But there's going to be a demand for a more mobile, modular factory that not only provides flexibility in the products that it can produce, but it provides flexibility and where it can be established.
+
+And so I have this vision of transport trucks that are flatbeds that we connect together that have a structure that forms sort of our factory bed, and we input raw materials into those transport trucks, and then we spit out the product that we want, right localized at the jobsite. So that's kind of my at some point of time on that. I mean, we have the technology to do that right now, I don't know that we have, we don't have the market for it. But I think as housing costs go up, and labor shortages increase, you know, that changes the game. So we can be three 510 years old, as we're starting to build these type of applications and the more decentralized manner.
+
+John McMullen
+
+Well, I love that idea of the the mobile factory, I know some of our other members, rent spaces, you know, they don't have a centralized factory, they rent buildings, they create modules, close to the job site, but I really liked the idea of one that you put on truck beds and you take wherever you need it. I'll be honest, though, I was kind of hoping you tell me in 50 years, we'd have Star Trek replicators, because I'm really looking forward that.
+
+Brent McPhail
+
+Well, we will but but it's hard to sort of quantify that. And it's certainly hard for people to understand it. But when I talk about like it sort of in our traditional manufacturing discussion, you know, there's been some talk, there's been some talk that in this decentralized model, what you're going to end up with is a factory where you just input raw materials. And so those raw materials, whether you're, you know, using 3d printing technologies, and that 3d printing, in a lot of ways, our 3d volumetric machine is actually just a 3d printer. It just doesn't use the traditional, you know, melted wire or lasers to form the gallery. It basically just uses, you know, a methodology where it takes the CAD data, assembles the fixture assembles the product, and then facets it together using other robots.
+
+So in a way, that is a very, very, very, very crude Star Trek replicator, it is as we get more advanced, and we start to say, okay, we're going to put glass into this factory, we're going to put wood into this factory, we're going to put steel into this factory, and we're going to start making windows and structures and these other things, but it's just sort of like a raw materials in and the kind of product. But we're obviously a ways away from that. But I think that's that's the future of manufacturing. You know, broadly speaking,
+
+John McMullen
+
+I love it. Maybe one day, we'll get some Earl Grey tea hot with it. I'm sure my friends will get that one.
+
+Brent McPhail 
+
+Ha! Yeah, exactly.
+
+John McMullen
+
+So what do design professionals and manufacturers need to do today to prepare for this future that is rapidly coming upon us?
+
+Brent McPhail
+
+Yeah, so actually, we did touch on it a little bit, where I think we need to sort of bring the parties together sooner. So there's certainly a more collaborative look that we want to have at the design of the machine, the design of the product, you know, as I, as I talked about the architects, they really, up until this point, have only really focused on, you know, the aesthetics, the structural, the space utilization, you know, the business case, but now there's this design for manufacturing component that they're working on with the modular aside. And it's only going to get deeper as we have, you know, we've got more restrictions, with the robotic systems that are going to require more choices. So so there's certainly a collaborative approach.
+
+The other thing I think that design professionals need to do is they need to accept that there is a paradigm shift. This is not a minor change in the way that we're building things. This is a major change. And so I think that it's easy for us to just say the words Yeah, yeah, we know it's gonna change, we know that this is what's going to happen, and we're cool with it.
+
+But that's just words, really, this is a monumental paradigm shift in the way that we are going to manufacture buildings. And so I don't know that there's really a call to action there other than it's more of a like, buckle up your chin strap and get ready because it's a big shift. It's a big change. And, and then I think just having an eagerness to be on the front of that wave, right. So there's a lot of frustration, a lot of pain, a lot of mistakes happen on the front of that wave, but there's a ton of excitement and a ton of opportunity there as well.
+
+John McMullen 
+
+I think there's a tremendous amount of opportunity. It's just a matter of how we get there and how soon we get there. So tell me about what BCS is working on now. And what's in the pipeline.
+
+Brent McPhail
+
+Yeah, so. So since, you know, we kind of got our feet wet in 3d, volumetric, we've continued to refine different fastening applications. So instead of just welding, we've now got an application that's doing some screwing, nailing, gluing. We're working on clinching, which is a forming of metal and some different types of welding techniques. So we're doing some application development there.
+
+We're doing some consulting with a number of clients that one thing we didn't touch on is that while design for manufacturing is kind of the current challenge we're facing, there's another challenge in manufacturing, which is what I call the manufacturing organizational structure. And so that's another topic maybe for a future podcast, but but really quickly, that's just, you know, manufacturing doesn't just happen. And so we've got to prepare our clients that you're not just building a construction job site under a roof, there's a complete different philosophy in the way that we manufacture within an organization. And so that's a different thing.
+
+So we're doing some consulting there, we've got an interesting machine right now that we're building, which is to do copper pipe cutting, processing, and fascinating to help a plumbing contractor. So save them a lot of time with their kidding. And then the volumetric we're working on some projects, that's not necessarily 3d volumetric. Now, by using the same concept, the same sort of flexible precision, automated fabrication methodology to work with cylindrical type of objects, and in to the, to the object. So, so I mean, a lot has changed within brave in the last, you know, three and a half years from, you know, not being involved in the construction industry, to building systems for the construction industry to now, you know, developing and innovating new types of systems to solve challenges that, you know, we weren't even aware even on our radar three years ago. So it's very, very exciting times for myself and my engineers.
+
+John McMullen
+
+It sounds like there's tons of potential there. We're excited to have you guys as members. Thanks so much, Brent, I really appreciate your time today.
+
+Brent McPhail
+
+Well, thank you very much. I appreciate your time as well. You know, I love these podcasts because it's always a good time for me to even get my thoughts out that are swimming around in my head. I have to sit down and organize it so it's very enjoyable for me. Thank you.
+
+John McMullen
+
+Well, I look forward to talking to you again. My name is John McMullen and this has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.

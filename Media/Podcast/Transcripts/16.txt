@@ -1,0 +1,172 @@
+The Potential of Automation in the Modular Construction Industry w/ Brave Control Solutions
+
+John McMullen
+
+Hello and welcome to Inside Modular: The Podcast of Commercial Modular Construction brought to you by the Modular Building Institute.
+Welcome everyone. My name is John McMullen and I'm the Marketing Director here at MBI. Today, I'm joined by Brent McPhail of Brave Control Solutions. Brent is here to talk about the role of automation in the construction industry, and specifically how it can be applied to modular construction. Brent, welcome to the podcast.
+
+Brent McPhail
+
+Good morning, John. How are you today?
+
+John McMullen
+
+I am very well how are you?
+
+Brent McPhail
+
+I'm doing pretty good.
+
+John McMullen
+
+Excellent. So let's dive right in. Tell me about yourself Brent. What's your background and what's the genesis of Brave Control Solutions?
+
+Brent McPhail
+
+Sure. So, I’m Canadian and grew up in southwestern Ontario, on a small farm. I had an entrepreneurial background and some small businesses before I was even 16 years old. I went away to college, took a technology program. Basically, it was electrical engineering technology, where we learned how to program mechatronics systems and from there moved on to beginning a career automating processes in the automotive industry. Now, the genesis of Brave back in 2008, I decided to go off on my own and start my own engineering company called Brave Control Solutions, named after my two kids, Bryson and Avery. Coincidentally, the name Brave also signifies courage, which we tend to take a lot of weird sort of tough challenges, tight timelines, things that maybe a lot of my competition don't necessarily want to try to tackle. That's sort of what's landed us here in looking at the offsite and modular construction industry and the automation requirements.
+
+John McMullen
+
+Very good. As you mentioned, Brave is in Canada, but you're actually only a few minutes from Detroit. Is that right?
+
+Brent McPhail
+
+That's right. So, when you talk automation, and you talk historically, I always say that within 150 miles of the Ambassador Bridge, which is the bridge between Windsor and Detroit, which is the largest volume commercial border crossing in the world. We do more automation within 150 miles of that bridge than anywhere on the planet. So, when you look at the history of the automotive in both Canada, United States, a lot of that manufacturing originated right here. Along with that came the supporting industries, and just in Windsor alone, there's 300 companies that do what I do. In Detroit, there's 3000. So, there's certainly a lot of automation experience within this 150 mile radius.
+
+John McMullen
+
+Nice. So here's an obvious question, but I think it'll help us get the ball rolling a little bit. In a nutshell, what's the advantage of automation?
+
+Brent McPhail
+
+Well so keep in mind John you're speaking to a guy who designs, builds and sells automated systems. I would ask the question of what's not an advantage?
+
+John McMullen
+
+Well, we can do that too.
+
+Brent McPhail
+
+Yeah, but the thing is, that really automation in 2021, it's used to empower people. Historically, automation has got a bad rap of taking jobs. I remember my early days, you'd install a robot in a place and the workers would come in, and they'd say, hey, that robot’s name is Bob. Right away, you'd know, oh, Bob was the name of the guy who used to do that job. I would always say to them, look, guys, my robots don't take jobs. My robots help companies be more efficient and more effective. They help companies be safer, they help them be more efficient, they help them be more productive, so that they can hire more Bob's to put in other areas where Bob's are supposed to be used. So, the biggest thing that I'll always say about automation and empowering automation, that's the term I call automating responsibly, and the biggest thing that I always say about that is the human being is the best robot possible that there could ever be for flexible situations. Robots are really good at repetitive, dirty, unsafe, heavy areas of a manufacturing process.
+
+The key is, make sure that you've got your robots doing the jobs that robots are supposed to do and your humans doing the job that humans are supposed to do and you've got a great automated process. So, that's kind of in a nutshell, my sort of higher level view on automating any processes that there's opportunities everywhere. You just got to be careful to make sure that you're applying it in the right way.
+
+John McMullen
+
+Gotcha. So historically with the construction industry, even with modular construction and prefabrication which is known really for speedier processes and time savings, the adoption of automation has really been pretty slow. Why is that?
+
+Brent McPhail
+
+So that is actually a really good question. One of the first things that struck me back in 2018, as we started to look at our first modular construction problem. I have a little analogy now. This is two and a half years later, or three years later, almost. So, I have a story that I tell to sort of explain it. So, I call it my F150 story. When we first started looking at this, and when you think about an F150, F150 is a very complicated piece of equipment, let's say there's 10,000 different variants, when you consider all the paint options, interior options, motor options, wheel options, and everything that's involved. It's a very sophisticated piece of equipment, but there's one rule that is always true with an F150. That is it and all of its options are 100% known before you build a factory to build a million of them, and also build one every 54 seconds. So, when we started doing our first project in modular, the company came to us and said, hey, we've got 150 different modules that we need to build in this automated system. We looked at it and said, Okay, 150 modules, that's quite a few, but there's probably only really about 12 to 15 major variations, and then there's some minor variations. So that's not too bad, we can handle that.
+
+As we started into our design, they came to us and said, Hey, good news, guys. We want another building. Of course, my team was like, Yeah, that's great news. This is really going to take off. I said, okay, so as soon as all of the architects have designed the new modules, we'll send them off to you guys, you can build on your machine. That's when everybody in my team went, oh, wait a second, guys. It doesn't work that way. You can't send us things to build in our machine after we've already built the machine. That's just not how automation works. Fortunately, or unfortunately, this company said to us, well, that's the machine we bought, so you guys are going to have to figure it out. Effectively, that's what we've done. So, as I now look back and I look at the automation industry and the construction industry knowing that automation, computer controller automation has been around since the late 60s. Yet there's next to no adoption in the construction industry. What strikes me is it's not the construction industry’s issue. It's the automation industries issue.
+
+That analogy where when you're a hammer, everything looks like a nail. Well, what that means is the guys that are sitting in my seat, keep going to the construction guys and saying no, you don't understand, you've got to build your products more consistent, you've got to build them like an F150. But the construction guys are saying, well, you don't understand, our customers don't want to buy products like that. They want the variability; they want the flexibility in it. So, the real challenge with automating in the construction industry is automation has to be able to provide the flexibility, but it's impossible to provide complete flexibility. On the other hand, construction needs to get some standardization in place so that where we meet in the middle will be where we can do a really good automated integrated project.
+
+John McMullen
+
+Gotcha. So let's talk about the advantages of automation, specifically, for the modular industry. Are there some examples that you give me about how automation could benefit a modular manufacturer?
+
+Brent McPhail
+
+Oh, for sure, yeah. So, what I'm basically saying is I work with my clients in the stages of automation companies. So, a modular company that has no automation, it would be a bit of a risk for them to put in a fully integrated system. But there's a lot of stuff that you can do before that. So, we've got some stuff we're calling Build Tech, intelligence around, helping to kick things, make decisions, track product. These are tools that are already available prior to Brave entering the market. One of the biggest advantages I think that Brave brings, because we're an automation company not a software company, we're the group that helps bridge like that touching. So, we take the digital and we touch the product with it. We push that up to the digital so we can give a better layer of integration there. You move from that to a next level of automation, which would be some smart tools, but that aren't necessarily a programmable tool. So, there's some products that are available, we're developing some of our own but to help prep material, cut material, sort of do one or two steps in a process to make it a little bit simpler.
+
+Then you go to stage three, which would be a programmable or like a smart jig. Something that maybe helps with some air proofing take some of the challenge of setting up new equipment as you as you have your variation of products. Then you move all the way to the end which is like a fully integrated product. So, in the modular industry we're doing, some of the machines that we built right now are for precision fabrication. So, we're welding the steel chassis together. We're building wooden cassettes, they call them panel walls, things of that nature. So, the biggest thing is, there's low hanging fruit in every modular factory that I've seen so far. It’s just about doing a discovery and understanding where some of the challenges are, that are the right size for the client, what their technical capability is at this exact moment, and sizing them up with a piece of automation that can help them.
+
+John McMullen
+
+Gotcha. You alluded to this some in your previous answer, but I'll ask anyway. Are there some specific portions of the modular construction process that benefit most from automation?
+
+Brent McPhail
+
+Yeah. What I would say is, generally speaking humans are the most sophisticated robot there is. There is a nice little story I say. You don't have to program a human when he's working next to another human to see that human on fire, and him just automatically go and grab a fire extinguisher. But you could have two robots working side by side, one of them burning up and the other one just keeps working. It's funny, but that's the reality. A robot does what it's directed to do. The best situations for a robot are things that are sort of heavy and dirty. When you think about a welding robot, welding is something that in the automotive industry we know how to do very well, it requires a skill. A robot can basically do that type of thing, repetitively, quite easily. The other thing I do want to stress as well, robots are the fun thing to talk about in automation, but really, there's so much automation that happens that doesn't have anything to do with the robot. Material handling, moving things around, just using some software intelligence to help make better decisions. That's part of the roadmap that you'd expect to see as well. As soon as you're going from no automation to fully integrated, you want to have a good balance of robotic automation, but also just normal automation without robotics. So, there's kind of two sides to it.
+
+John McMullen
+
+Gotcha. You mentioned in your answer systems intelligence. Tell me, just for the uninitiated, a little bit more about how robots, and I'll use that simple term, can use their systems intelligence to make decisions. What variables can they see, deal with and make decisions about?
+
+Brent McPhail
+
+Okay, so actually, you maybe aren't going to be asking for technical answers I'll give you here. So, I'll try to keep it high level, but robots don't necessarily make a decision other than what they've been programmed or directed to do. So that's maybe one of the misconceptions about a robot. People talk about artificial intelligence, but it's still quite a ways away, except for maybe a few small applications. What we're talking about is a robot can only do as it's directed or has been pre conditioned to do. So, the job of a system integrator, such as Brave, is to examine the entire world of the process that we're looking at and pre anticipate all of the potential decisions that will need to be made. Then, we give the robot options to deal within those. It is about a question and why I say a human is a much more sophisticated robot because humans have that intuitive thinking. They can do that type of work on their own.
+
+One of the challenges that we find in automating a system is that if you try to model a robot after a human exactly the way a human operates, you're going to fail because the human is so sophisticated in what they can do with their vision system, which we call eyes. I don't want to talk too much like a nerd, but you know what I mean? What we have to do is make sure that we have the 20 years experience in automating automotive manufacturing, to look at the challenges right off the bat. I think a lot of people when they sort of see the high level, the glossy brochure of what automation can do in the construction industry, they're like, okay, I want a robot to do that. We quickly look at and go, no, guys, that's not your low hanging fruit right there, that's going to cause you nothing but problems. However, if we simplify this down, we can find an ROI for you using a robot or some other type of automation over here, that's going to pay itself back and everybody's going to be happy. It's going to increase your automation IQ and get you ready for a more sophisticated solution as we go.
+
+John McMullen
+
+Tell me about the adoption process for manufacturer when it comes to automation. Can they phase aspects of it in or does it need to be done all at one time?
+
+Brent McPhail
+
+Yeah, so that's actually a really good question. It’s something that's come up with our experience and something we're working on with some clients right now. What I would say is that there's probably two different approaches to take. You know, if you are a modular company and you are looking to go from zero to 100%, a fully automated facility, a fully automated plant, then there's a process to do that. There's a methodology that we can take, you know, three years to do that. What I think the majority that we've been running across so far are people that already have some form of manufacturing, or offsite construction going on and they're looking to try to increase their automation IQ. So what we're finding with these guys is, a phased in approach is absolutely the best way, but it's more than just a phase of the technology. The real challenge of the underlying challenges is that there's a manufacturing organizational structure that happens in a manufacturing plant, such as Ford, and this organizational structure has been in play for 60 years.
+
+Well, what we have to admit was that when we walk into a, I'll say, construction or modular construction facility, we see a factory, you know, I see a factory. But what I'm, what we miss a lot of times are some of the specific roles, process engineering, maintenance, engineering, you know, industrial engineering, things of this nature, that are crucial in the success of an automated facility but aren't necessarily needed when you're building an offsite construction facility that doesn't have automation in it. And so why that's so crucial. Crucial is, we have to intentionally help our clients get that level of intelligence, when it comes to the actual sort of administrative skills.
+
+The analogy I always use is, you know, you, you, everybody loves babies, and, but we know, every morning, when a baby wakes up, it should have diaper, and you've got to change that diaper. And automation is like that, in a lot of ways, automation, robots will catch themselves on fire pull their wires out. But what happens is, once we once we love that automation, and once we have preventative maintenance in place, and we have spare parts in place, and we have the technicians required to, you know, to make sure that that stuff can work efficiently, you know, the ROI, including all of that is still there. But it's something that it's not intuitive, right? It's one of those things is logical, but not intuitive. And so the job of a consultant like myself, is to is to help bring that in with intention. So, but certainly phasing it in, you know, getting the, you know, a building upon, you know, one technology on top of the next and also changing around the manufacturing organizational structure is, you know, the kind of the ways you've got to get there.
+
+John McMullen
+
+Is there, is there a timeline that you generally work with or recommend? Or have seen other manufacturers? Sort of adopt, in aggregate, I suppose, is it? Is it a years of five years? Is it six months? What have you seen?
+
+Brent McPhail
+
+So, so, you know, what timeline is a great question. And because, you know, we're relatively new on our pivot from automotive manufacturing, or automotive automation to construction, you know, we haven't gone through enough iterations of this for me to answer that. But I will say that there is certainly one very crucial component, when it comes to timeline, and that is this automation, for the most part, we're not selling a coffeemaker we're not selling a photocopier. So meaning we don't have an inventory of these things sitting on the shelf. And when you decide this time is right to purchase, you just come and buy it, and away you go.
+
+When we're selling an integrated solution, even if it's based on an architecture that we've already made many times, there's still a, you know, a customization, there's still tooling that needs to be designed things need to be fabricated. So the common thing that we hear a lot of times is, you know, speaking with a client, and they'll say, "Yeah, okay, we want to just kind of touch base with you right now. But, you know, we're not going to be ready for automation until next year. And so but we just want to start to, you know, get a feeling or an understanding of some ideas." And we look at them and say, "Guys, you could be anywhere from six to 18 months, from the time we go through a discovery process with you, you know, put a proposal together, simulate it, validate it, start building, fabricating, run it off and buy it off in our facility and ship it to your facility. Depending on the sophistication, it could be six to 18 months."
+
+And so, you know, with that in mind, when should we be talking about what you're trying to automate? Right? So the thing about automation is, it'll never happen. From a design standpoint as quickly I think, as you know, the customer wants to. And that's just something to note.
+
+John McMullen
+
+All right, let's, I'm glad I asked them. Speaking of design, it leads me to my next question. Are there design considerations that other professionals in the modular industry and I'm talking about architects and structural engineers, are there other design considerations that they would have to consider when working with an automated process?
+
+Brent McPhail
+
+Yeah, so with the automated process, basically, the word that we use is, you know, the product has to speak to the automation. And so simply what that means is, you know, a structural engineer, an architect, they can design a module and in a lot of different ways, ways that I don't even fully understand, but I'm just starting to learn but so, but we have limitations and constraints in our automation.
+
+And so what the trade off is, is, can we automate a process 100% Yes, but it has to be a very rigid process. So In the levels of flexibility that we're talking, we might only be able to automate 75 80% we have, you know, a robot arm that's doing material handling, maybe a foot wide. And so if an architect doesn't realize this, and he designs, you know, spacing between two, two joints or two supports that are less than a foot, well, you've already run into a collision that the robot can operate. In reality, it's, it's probably more than a foot not not probably definitely more than a foot because you've got other clearances and other issues at play. So one of the things again, that, you know, we sort of take for granted in the automotive industry is, there's this tribal knowledge about how to manufacture, tooling, and parts.
+
+And so when you look at a vehicle being built, you'll see the product, you know, if you, if you open up the door, your car and you look inside, you see the supporting structure in there, you'll see lots of little like dimples and holes and other things that have really no bearing on the actual car product itself. Well, those are all things that are made to assist at some point in the manufacturing process. And so the interesting thing about the automotive industry is, that's sort of like a tribal knowledge, or they just, they know that they pass it down, senior designers teach Junior designers, hey, you have to have a locating point here, you have to have a clearance here. So the robot tooling can pick this up. Well, we're not at that point yet in this industry. And so one of the ways that we're trying to compensate for that is by building what we call a digital factory. So it's a digital representation of the actual machine. And then that way, we give the architects the ability to see it with their own eyes. So as they're designing their product, they can run some tests on their product. And they can actually see this thing as though they're sitting right next to a machine. And so that's how we're going to evolve, you know, their choices and their decisions, and their designs that they're making to help it speak to the automation.
+
+So that's a really good question, John, because that's a very...what we see sort of coming down the pipe is the next sort of big thing. Once we can get you know, more and more of these, more and more of these guys using automation. That'll be the next big thing is the design.
+
+John McMullen
+
+So what's your pitch to those considering automation? How do you describe the ROI?
+
+Brent McPhail
+
+Okay, so the pitch, I guess, or what I would say is, it's this thing, like you don't know what you don't know. So every facility that I walked through, I see things happening, that I go home, guys, like, you can't build it this way. They also look at what I'm building and it and they say, Oh, we didn't know that you had this flexibility. So we have this huge gap right now between the understanding of what the requirements are on a offsite construction, you know, facility, and what we can do. So what we've been doing our pitches, we need to do a discovery. And the discovery always works, where we have potential problems with low hanging fruit ROI, my engineering team, and their manufacturing teams sit together, they vet those out, we build simulations, so that everything is very visible, so they can see what it looks like. And then we just have open discussions.
+
+So what we do in that discovery is we first, you know, we identify the problem, then we define it, then we propose a solution. And then we build the solution. And it's amazing how that path takes us. But along with that are, you know, these two things, I always say it's this ROI value based, you know, solutioning approach. And so what I mean by that is, if I can't find an ROI on a piece of equipment that has a payback, that the person who's going to buy that equipment is, except then we're wasting our time. And number two, if I were to say, okay, so your payback is two and a half years. All right, so let's do a billion dollars. And it'll pay itself back in two and a half years. But it's also not practical, because there's always the risk component, you know, what someone's prepared, prepared to put up. So what I will always say is, as we're doing the discovery, part of the discovery is, you know, what is your budget? What is your payback? And then we go through and figure out, Okay, what are the cost inputs? Like, you know, where are your costs being lost?
+
+Once we understand that, and we can quantify that, then we go ahead, and we can put together a piece of, you know, simulated automation, and we can then definitively say, look, all the risks have been identified, and proven that the risks are not here, as far as a lot of the risks come with, like the material handling, or the fastening technology, whatever it might be. And then we look at the, you know, the cost and the production throughput, and all that type of stuff and say, Look, the business cases here and the technologies here, you know, let's go. So that's my pitch is there's not a lot that we can do at this stage without doing a discovery and working together to try to understand the core of the problem and then put together a solution.
+
+John McMullen
+
+That makes sense. So what's next for BCS? What are your goals in the next five years?
+
+Brent McPhail
+
+So now you're going to catch me talking to the other side of my mouth. So my goal is to identify those project builders problems, the more folks that I'm speaking with, the more I'm seeing sort of some consistent trends in some of the challenges that they're facing. And the more I do believe that we have the ability to make some standard products. So as much as I say, what we don't do is make a coffeemaker or a photocopier. Wouldn't it be cool if we were making photocopiers or coffee makers that we could just basically say, Here, take this and plug this in, and this will get you your first step. So the next five years, we've got our CAD path product currently, but we're developing some other products as well. So that's sort of on one vertical.
+
+And then on the other vertical, we are building a system to basically assist the other side of the spectrum, which is the modular guy who wants to go from zero to 100. So when I say how can we intentionally get you there, what we're doing is we're building the intentional system, I kind of name it, you know, I sound like it's like a rocket launching. So you know, you've got your, you got your lift off. But if you work backwards, you know, t minus 18 months, bring in a, you know, HR, recruiting person, t minus 16 months, you know, bringing your manufacturing engineering, you know, and sort of we're we're, we're putting together our best brains from a manufacturing standpoint, and trying to build out this intentional process to be able to assist in setting up a factory from zero to 100%.
+
+John McMullen
+
+Why I just wanted to thank you for your time today, Brent, this has really been a learning experience. For me, it's a fascinating look into a fast growing portion of this industry. So I appreciate your time. Thank you.
+
+Brent McPhail
+
+Yeah, yeah, you know, what, thanks for having me. And, you know, this is it's, it's very exciting for us to be a part of this, you know, I, for years, we basically had a company that its sole purpose is to increase shareholder value for automotive plants, you know, we find our ways to, you know, make ourselves happy by the new technologies we introduce and whatnot. But truly, at the end of the day, that's what it was. And the thing that has so excited about being a part of this offsite construction industry, is that there is a global labor shortage, there is a global housing crisis. And so we feel that we now can use our technology to really impact something much bigger than our shareholders. Now, for all the business owners out there, don't get me wrong. We're still trying to impact the shareholders as well. But but but basically, it's just it's a really, it's very exciting for us as well to be a part of this industry. So...
+
+John McMullen
+
+Well, thanks. And you guys are new MBI members, I believe, right?
+
+Brent McPhail
+
+We are correct. Yep. And actually, I'm going to be speaking at the show the World of Modular virtual show. Some more, some, some more topics about this coming up, so very good.
+
+John McMullen
+
+Very good. And thanks for thanks for coming on. And thanks for presenting at World of Modular. We're always happy to talk to a presenter and we're very excited about that show ourselves. So thanks again. My name is John McMullen. This has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.

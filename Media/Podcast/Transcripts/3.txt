@@ -1,0 +1,77 @@
+Hello and welcome to "Inside Modular," the podcast of commercial modular construction, brought to you by the Modular Building Institute. My name is John McMullen, and I'm the Marketing Director here at MBI. Today, I'm joined by Cliff Hokanson, Executive VP at HHI Corporation. Cliff is here today to talk about HHI and the medical triage units they've developed in response to COVID-19. Cliff, welcome! How are you today?
+
+Cliff: I'm doing great, John. Thanks for having me on this podcast. This is great.
+
+John: It's my pleasure. I also wanted to extend a warm welcome as very new members of MBI.
+
+Cliff: That's correct. We are so excited to be members. The Modular Building Institute is just a great opportunity for us to expand what we've been doing for the last 50 years and just expand into doing modular building along with everything else we've been doing.
+
+John: Well, welcome! Thanks for welcoming us. So, let's dive in.
+
+About HHI Corporation
+
+John: Tell me about HHI. How did it start?
+
+Cliff: So, 50 years ago, HHI started building cabins in Utah up in the mountains. My mom and dad were the founders; they started the company and started building cabins. About two years after they started the company, they started doing federal contracting and industrial contracting, where we did a number of different projects for the Department of Defense. And a lot of stuff in... So, a number of years, we were building lots of different projects, and for the last 30 years, we've been doing a lot of chemical and biological testing facilities across the country. So, we get along with that. We also build a lot of buildings, hangars for airplanes, and all kinds of support structures that would be required for anything that the Department of Defense would use, either Air Force or the Army and the Navy. So, we've been doing a lot of work like that for 50 years.
+
+As we've been going about doing all this work, about 15 years ago, we started building modular airplane maintenance stands. So, you kind of see the construction site over 50 years being developed. About 15 years ago, we started doing in-house construction or fabrication of aluminum and steel structures for maintaining planes like the C-17 and C-130 and air fighter jets like the F-16 and helicopters like the Apache or the Chinook and the UH-60 helicopters. So, we do a lot of projects, and our products that we manufacture have gone across the world.
+
+John: That's kind of amazing, starting with cabins in Utah and now being involved in all these different aspects of construction and manufacturing, especially for the Department of Defense. That's really fascinating.
+
+Cliff: Yeah, it's been quite a journey, and it's amazing to see how the company has evolved over the years.
+
+COVID-19 Challenges
+
+John: Absolutely. And speaking of challenges, with the past few months and everything we've been dealing with COVID-19, can you tell me about the challenges that HHI has faced? What's changed?
+
+Cliff: I think, for us and for a lot of everybody else, we've had the problem of getting supplies. Our suppliers have had COVID hit their supply houses or their fabrication plants, and they have shut down, and we have not been able to get some of the materials that we needed. And that's been a game-changer for some places where only one manufacturer manufactured the materials we needed. And we just had to go back to our clients and say, "Hey, the manufacturer, the only manufacturer, can't get it to us, so we can't finish the project." And we've had to reschedule, and that's been extremely difficult. But they've been understanding for the most part. We've been really good.
+
+But the supply chain has definitely changed, and we've had to go to different markets across the country to get new supplies. And then, as far as in-house, we used to do a lot of meetings in-house. We are very virtual. We've done a lot of virtual meetings because we work around the globe; we've been doing it for years. But we've, where we had clients close by, we'd like to meet with them, and we've changed it to where we don't see them that often. Even our inspectors on critical sites, we've had to do some type of a Zoom meeting or GoToMeeting or just a FaceTime, where we should be able to show what they wanted to see before we closed up something.
+
+So, the world's changing, and we've been very fortunate to be able to adapt quickly, and most of it we were already doing, so it was easy for us just to move forward in. But there's definitely some challenges. We have some new stringent policies here on our campus. We have about 85 people on our campus where we manufacture, and we make sure that they have, every day, we go through a COVID test, a screen, to make sure that they are clear and they're good to basically work here. So, it's different; you know, we didn't use to do that, now if we kind of do it kind of at a necessity.
+
+Inspiration
+
+John: Absolutely, yeah. It's been a challenging time for many, and it's great to hear how you've been adapting. Now, speaking of COVID, what inspired HHI to create the mobile triage unit? Was it entirely new, or was it based on previous work? How was it designed? Tell me more about that.
+
+Cliff: That's a great... I guess the inspiration came a few months before we started. A little background, so we built a container called a containerized biocontainment system for the Department of State a number of years ago when Ebola broke out in Africa. So, when that happened, the State Department was given some money, and with that money, they wanted to come up with a way to bring the doctors and nurses home who were going and treating patients for Ebola in Africa. So, it was about 2016, 2015, about five years ago.
+
+And they contracted with a partner of ours to get some... to have us fabricate this container that would hold and contain Ebola patients, four patients, and doctors and nurses, keep them all safe, and transport them on a C-17 or a C-5 or a 747 cargo plane and ship them home. That background is kind of interesting. Why were we qualified? For the last 30 years, we've been working in a chemical-biological arena, and we're one of the best in the world at building containment for chemicals or biological problems, stuff like anthrax, ricin, Ebola, so high-level bio-contaminants. So when you heard about COVID, they said, "Well, it's really not that infectious of a disease compared to anthrax or at a high level." So when we kind of heard about the COVID, we said, "Well, we could do something about it."
+
+But we found that the ship that was in the Japanese harbor, the cruise ship, all those patients from the United States got shipped home on a 747. The ones that weren't infected were in the seats that you saw in the pictures. But next to the picture was our box. It looks like a shipping container. It's not a shipping container. It's very expensive. It has a biocontainment system, which basically you walk in and you can decontaminate the people. You walk in, you get locked in, you can decontaminate the doctors and nurses, and you can keep the patient separate. And it's very sophisticated. We build them with a partner of ours that specializes in biocontainment systems for the Department of Defense, and this unit was designed. So, we built 50 of them for the State Department, and we were able to put them on these cargo planes and ship them overseas.
+
+COVID-19 Response with Mobile Triage Units
+
+John: That's really interesting. And it's fascinating how your previous experience with these high-level bio-contaminants and containment systems kind of translated into something that could be used for COVID-19. So, can you tell me more about the mobile triage unit itself, how it works, and how it's been used in response to COVID-19?
+
+Cliff: Yeah, that's a great question. So, we have our partner, which is a subsidiary of ours, it's called ISOVAC, and they make the containment systems for us, and they're the ones that kind of developed the product for us. We reached out to some clients that we were already working with, and they wanted to ship it on a cargo plane. And so, that's kind of how it was developed. It's got a shower in it. So, when we get a patient, the first thing you do is you go in and you put your patient in the unit, and you isolate the patient. So, we've got an isolation room where the patient's room is isolated. And that's great because you can go in and out of the unit; you can go in and see the patient, and they're isolated. So, you can just, if they need to be isolated, you can isolate them in there. But when they get in there, we can shower them off with our shower system. We can decontaminate the unit. We can take the patient out, and we can take the biocontamination system out. And all that's included in the unit. So, the shower is a real big deal because once they're contaminated, you don't want to touch them, and you want to be able to shower them off and get them clean so you can take them to a hospital or a care facility that's close by.
+
+John: That's really important, especially considering the contagious nature of COVID-19. So, how have these units been received and utilized by healthcare facilities or organizations? Have you seen them in action?
+
+Cliff: Yeah, that's been... The Department of State took them to Africa, and they were able to transport a lot of patients, get them in the unit, and get them transported safely home to get treatment. Here in the United States, we have clients that are using them. We've sent some to New York City, sent some to Alabama, Arizona. We've got a number of different clients that are using them. So, they can transport patients. They've got, as I mentioned, all the decontamination systems with showers, and they're able to transport them to a care facility safely. That's been great. I think, for the most part, everybody's pretty happy with them. We were able to move on it fairly quickly, and we think they're great. So, they've been working really well for everybody.
+
+John: That's great to hear, and it's fantastic that these units have been able to be deployed so quickly and effectively to help with this crisis.
+
+Cliff: Yeah, we were fortunate to be able to use what we already had. When the COVID came out, we just had to adapt it a little bit and go forward. So, we were able to... We thought that was kind of our duty.
+
+Modular Construction
+
+John: Absolutely, and it's great that you could adapt your existing technology and expertise to meet this new challenge. Now, shifting gears a bit, HHI has recently joined the Modular Building Institute. Can you tell me more about the role of modular construction in your projects and your experience with it?
+
+Cliff: Yeah, we're pretty new to the Modular Building Institute. We've just started with you guys, and we're excited to be here, and we think it's a great opportunity for us. We've been manufacturing buildings for 50 years, but most of the buildings have been site-built. About 15 years ago, we got into the market of manufacturing airplane maintenance stands and these bio-containment systems. And so, we had to figure out a way to manufacture them, and we thought, "You know, maybe we can put it on wheels." We had this partnership with this company, ISOVAC, and they specialize in manufacturing bio-containment systems. So, we were able to get together and put a unit together that had a shower, an isolation room, and all the decontamination system. We could manufacture that. We could put it on wheels, and we could ship it, so it had its own transport. So, it was easily transportable. And so, we've got a number of clients across the country that have picked it up and are using them in their facilities. So, for us, that was a natural move.
+
+Future of Modular Construction
+
+John: Absolutely, and it's great to see how modular construction can be adapted and applied to different sectors and different needs. So, looking forward, what do you see as the future of modular construction, especially in light of your experience with these mobile triage units and your partnership with MBI?
+
+Cliff: Well, I think... I was thinking about this. I think we've got... It's a great opportunity. When you've got these COVID-19 situations or these healthcare emergencies, I think a lot of people are starting to realize that you need to have some type of flexible system. And the nice thing about modular construction is you can build them and you can put them anywhere. And you're able to move them. And that's where I think it's a great opportunity. I think the future is really bright for modular construction, especially with the adaptability of the units. You know, you can use them for healthcare facilities, like we've got. You can use them for airplane maintenance stands, which we do. There are just so many different opportunities, and the sky's the limit for modular construction, so it's a great opportunity for everybody.
+
+John: Absolutely, and it's exciting to see how modular construction can continue to grow and adapt to meet the changing needs of society, especially in these times when flexibility and adaptability are so important.
+
+Cliff: Yeah, we're excited to be part of the association, and we look forward to working with you guys more and having a lot of success with modular construction.
+
+John: Absolutely, we're excited to have you as part of the MBI community, and we look forward to working with you as well. Cliff, thank you so much for joining us today and for sharing your insights and the great work that HHI is doing with these mobile triage units. It's been a pleasure talking to you.
+
+Cliff: Yeah, it's been a pleasure being here, and thank you so much for having me. I appreciate it.
+
+John: My pleasure. And thank you to our listeners for tuning in to this episode of the Modular Building Institute podcast. We hope you found this discussion informative and insightful. If you'd like to learn more about HHI or the Modular Building Institute, please visit our respective websites. And be sure to subscribe to our podcast for more episodes covering a wide range of topics related to the modular construction industry. Thanks for listening, and we'll catch you next time.

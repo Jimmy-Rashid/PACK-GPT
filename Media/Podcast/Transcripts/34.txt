@@ -1,0 +1,189 @@
+Inside the Fascinating World of Fire-Rated Assemblies for Modular Buildings w/ Banksia
+
+John McMullen 
+
+Welcome, everyone. My name is John McMullen. And I'm the Marketing Director here at MBI. Today, I'm talking with John Barrett, President at Banksia. John joins us today to talk about the state of current fire safety codes, and how to choose the best fire-rated assembly for a modular building. John, welcome.
+
+John Barrot 
+
+Yeah, thanks a lot.
+
+John McMullen 
+
+So tell me about yourself, John . How did you get your start in the industry? And how were you introduced to modular construction?
+
+John Barrot 
+
+So I was studying mechanical engineering at University of Sydney, in Australia. And I started interning for fire risk for some time, and then eventually started full time there for a couple of years. And then I moved over to New York in around 2006, where I've been for about 15 years now. And I work for a design firm called Arup, a global design firm. So it was there in around 2012, that I got involved in my first modular project, 461 Dean Street, which, you know, for folks that haven't heard of that project, it's a 32-story, volumetric modular project, located in Brooklyn.
+
+John McMullen 
+
+And so tell me about your role with Banksia. Now, what does Banksia focus on as a company?
+
+John Barrot 
+
+Yes, Banksia is a fire life safety consulting firm that provides consulting, performance-based fire engineering, fire protection, design and inspections.
+
+John McMullen 
+
+What's the landscape now for fire codes in the US? Is it state by state? Or their federal standards that you guys?
+
+John Barrot 
+
+Yeah, great question. So that there isn't a federal code that that governs all all buildings, that would be nice, it would be nice, that would be great. But for the time being, the the ICC produces model codes. So the International Building Code, etc. Those are then adopted by the states. And they do have variations from state to state. And those are for two reasons. One, each of the states might adopt a different version or edition of the code, it could be the 2018 or 2021. And then they make their own amendments to those those codes and standards, as well.  There are some exceptions to that. So for federal projects, you might have GSA Design Standards or Department of Defense standards that are federal, but they're usually an extra layer.
+
+John McMullen 
+
+Gotcha. So the the ICC building codes and the fire safety codes are really one in the same?
+
+John Barrot 
+
+That's right. That's right. And the amendments could be that, you know, in states like Wyoming, there aren't any amendments to the model code. But in in a city like New York or state of California, the amendments are really substantive, and they vary substantially.
+
+John McMullen 
+
+So how often do the fire safety codes get updated? Is it any more often than the building codes themselves?
+
+John Barrot 
+
+They're similar. So it's usually a three-year cycle for the model code for ICC. And many states adopt on a similar cycle, some locations like New York City are on a [different] code, and so for like six years.
+
+John McMullen 
+
+So as the president of Banksia, and as a consulting firm, what challenges do you face when dealing with modular buildings? Are they different from traditionally-built buildings?
+
+John Barrot 
+
+Great question. So I mean, the end state with modular is always the same. You're trying to build a space that people love, and that's functional. And all those those things. It's really about, about the process, thinking about design in terms of manufacturing and assembly.  So how does that process influence your design? So for us, that means thinking about the types of materials that you're using for fire rated assemblies. In modular construction. It's about thinking of which aspects of the fire rated assemblies are being constructed in the factory versus which elements are being done on site and finishing of those those assemblies.  And then, I think lastly, things came through some things that you don't need to think about for traditional construction, which is, how do you take care of those materials during transportation and storage on site?
+
+John McMullen 
+
+Gotcha. So tell me about the fire-rated assemblies themselves. What options are manufacturers and builders typically working with when they're constructing a modular building?
+
+John Barrot 
+
+Yeah, so it certainly varies. And each modular manufacturer has different preferences. And also, it varies by their their process. So they may have different priorities and what they're doing. By and large, though, most manufacturers are trying to avoid wet trades. So things like spray applied cementitious coatings, or factory applied intumescent paints, because they have they have to dry and they have to cure and sometimes they require additional coats have to achieve their fire resistance. So what we typically see are fairly common materials like gift panels or gypsum boards, cement boards for floor systems. And you know, those are the primary ones. But we're also see innovations in the marketplace, though, folks like USG developing the STRUCTO-CRETE® product, which is very tailored to modular; we see other manufacturers that have started to think about products that could be more modular friendly. So it continues to evolve.
+
+John McMullen 
+
+Awesome, so and this may be of interest to some of our members who deal with buildings and container buildings: What can you tell me about the differences between the fire-rated assemblies for modular and for container-based buildings? Are they are that different?
+
+John Barrot 
+
+Yeah, the many of the concepts are similar. But it still comes back to how the structure performs. And shipping container based structures do have a slightly different way in which they perform structurally and thinking about that. So you're thinking about the container itself, it has a corrugated metal panel on all six sides. And you need to be thinking about how to maintain continuity of the floor system, the FIFO, the floor system and the walls themselves, which is a slightly different challenge to volumetric modular, you're still thinking about continuity of the floor system of continuity of the walls, but the underlying structures is different.
+
+John McMullen 
+
+So whether it's whether it's modular or container, how do you go about determining what kind of fire-rated assembly is right for a particular project? Is it based on the size or material or the layout of the building?
+
+John Barrot 
+
+Yeah, so that piece of it is, is very similar to conventional construction. So, how many stories? What's the height of the building? The use or occupancy of the building? Those are still the ways in which the building codes tell you what fire ratings you need.
+
+John Barrot 
+
+But ultimately, for modular construction, where it varies, I think, is where we start to think about what's the modular manufacturers process? How are we going to design the systems to be really suitable for that process, and where they're at in terms of their, their design and their purposes. And then I think some other things that are even more critical for modulus thinking about supply chain, both in terms of its reliability, not just the COVID, but free COVID. And the diversity of that supply chain. So there might be specific products that are that are really effective. But if there's only one supplier, it's a proprietary product. There's pros and cons to that. So if you want competitive pricing, think about alternatives.
+
+John McMullen 
+
+How about the units themselves, the prefabricated units,? An individual module of a building, for example. Does each unit need to be tested and inspected before installation? Or is testing only done when a building is complete?
+
+John Barrot 
+
+Great question. So if we're talking about inspections, there's kind of two aspects: there's thinking about the work that's done in the factory or in the manufacturing plant, and then the work that's done at the site. And so typically, for modular projects, you'll have a combination of both types of inspection. The portion of the work needs to be inspected in the factory where you still have MEP systems and structure exposed fireproofing as well fire stuff. And then when you're doing finish--worksite--work that work needs to be inspected as well at the site.
+
+John McMullen 
+
+I was wondering if you could describe how the inspections are done. I was preparing for this interview and it made me think...I used to work for a mattress manufacturer and I was thinking about the mattress burn test: they burn the top and they burn the side. And it's got to pass this very specific kind of test. What's the, what's the process for a building or a module? What are you looking at specifically? How does the building pass?
+
+John Barrot 
+
+Yeah, well, if we're talking about a special inspections and, and those kinds of things, it's really similar to conventional building so that you're, you're making sure that the constructed condition matches the the approved plans. So whether that be for fireproofing, or structure or plumbing or whatever, you know, and, and so I think that's, that's that is a bit.
+
+John Barrot 
+
+And then your example of sort of the mattress, I think you're also perhaps talking about fire-rated tests as well, or fire testing. And that piece of it gets really interesting for modular construction, because you do have to think about the connections between modules. And how to test those. There are procedures, necessarily the test for joints between modules, and joints between walls in quite the same way as conventional so there is a lot of thought given to how to do that for modular projects, and how to test those effectively.
+
+John McMullen 
+
+Is there a project that you've worked on that sticks out in your mind as being particularly challenging or complex? And what were you able to learn from that experience?
+
+John Barrot 
+
+Yeah, I think most modular practitioners would say their first module project was where they learnt a lot. And I think that's the same for me. 461 Dean Street was a really, you know, an amazing project. But a lot of challenges. The devil is certainly in the details, and thinking about lessons learned, you're thinking about, you know, the design and thinking about variations that you might have, to various system, various wall assemblies or floors, for different conditions in the building, thinking about how to deal with tolerances in the field, how to make adjustments there. And we did a tremendous amount of fire testing on that project. And thinking about how you can design those five tests, whether it be instruments like thermocouples, or just the way in which you test it so that you could use that data for future optimization that you might do for that project or another project.
+
+So there was really a lot there on that one, but I think other projects that that I've, I've learned a great deal on as well. I did some work on Citizen M in New York, which was an 18-story project; different structural system, that one of the key differences was the modular manufacturers based in Poland for that project. So we had to think about the supply- chain aspect of it thinking through not just the fire- rated  assemblies, but also each of the different components that might be getting sourced from a different country or different location. And they might need to meet component-level tests. So fire-spread rating, or combustibility, and things like that. So it really added a different layer of complexity. And we continue to learn on every project that we did.
+
+John McMullen 
+
+How do you conduct those tests? Well, you just mentioned, you know, taking an individual component, is that done in a in a laboratory somewhere? Is that done? In a some sort of facility that you guys have? Or is it you work with other people? How does that work?
+
+John Barrot 
+
+We typically help modular manufacturers figure out what tests they need to do. And the best way to do that. We don't conduct the tests ourselves, we typically work with...for a couple of different vendors that might be able to do that for them there. There are many in the US and elsewhere. The test standards are a specific procedure. It's very prescriptive in terms of what they need to do. So, for combustibility tests, there's a certain apparatus that needs to test for that. And it has Pass/Fail criteria, and so on.
+
+Where it becomes more complex is when you're dealing with assemblies, I mentioned earlier floor assembly or joints between floor assemblies. That's where there's a lot of potential customization and thought that we put in to help manufacturers set those tests up. And we'll work together with them and the test facility to get the right setup.
+
+John McMullen 
+
+Gotcha. So if I'm a builder, I'm a manufacturer, when am I calling you? Am I calling you when I'm designing the building? Or do I have a building?
+
+John Barrot 
+
+Yeah, so we, we certainly advocate for being involved during research and development for module manufacturers. When there's a little less pressure on, you know, they're not on the clock. We certainly do get involved in projects or with clients for the first time on a project and that's fine. We just need to really work quickly and in an effective way to make sure they get this work done. And the reason why is because by testing takes time, these, these facilities have long lead times--really long lead times for some of the bigger ones like UL and at Intertek. And so you need planning you to figure out what the design is what we're going to test, you need to test it, and if it passes, great; if it doesn't, you need to do some optimization. And you have to factor that in.
+
+John Barrot 
+
+So with modular, one of the big selling points is the speed of construction. Right? And so if you're adding fire testing, and you're starting from zero, you know, at the beginning of a project that puts pressure on that schedule, so we are always advocating for getting involved before project status.
+
+John McMullen 
+
+Gotcha. So if you're getting involved before a project starts, are you able to do any sort of testing at the, at the digital stage? If a company has a project and they've they've got it in BIM? Are you able to to look at that and and apply any sort of tests or look for any weaknesses there? Do you have to have something to test physically?
+
+John Barrot 
+
+Yeah, that's, that makes sense. Yeah. So we can do a couple of different things. So we can do basic kind of qualitative analysis, looking at other testing for those materials or assemblies that might have existing UL listings or so on and we could start to figure out, you know, what the likelihood of success is for a given component or assembly, we can also do calculations that can support that. So hand calculations. And depending on the material and the arrangement, we can also do fire modeling, which is looking at a transfer of elements, we typically don't need to do that early on, we can use some of those other methods I mentioned before fire testing, but on occasion, we can do that as well, if needed. Cool.
+
+John McMullen 
+
+What's the future of fire resistance and testing? You mentioned near the top of the interview, new materials the USG was coming out with? I was wondering if you could revisit that just for a second? What are those new materials or processes that we should be looking out for in the next few years?
+
+John Barrot 
+
+Yeah, I think what, what we've started to see is, is I gave a few of those examples where suppliers are starting to think more about modular construction and tailoring their products, I think that's going to that trend is going to continue, there are only a few that are really thinking about that.
+
+We've had a couple of examples where there's really more of a co-development between suppliers of fire-stop systems of fire-rated products and modular manufacturers. So they're working together to develop a product that works for that manufacturer. So I think that'll continue.  I also think, to my point around R&D, I think that more and more module manufacturers are going to be including their fire-rated R&D development in their "secret sauce". So that's really, you know, traditionally you hear them talk about structural connections and things of that nature being part of their "secret sauce" so it's I think the fire-rated assemblies are more and more going to be part of that.
+
+The other couple of things I think, is mass timber, there's an increasing interest in volumetric and modular mass timber, we haven't really seen that in the US market yet. And then also how decarbonization as that starts to enter the, you know, the development of these products. How that changes, how these different components will be developed, is going to introduce a new wave of testing that needs to take place. So lots to come?
+
+John McMullen 
+
+Very cool. What's something you wish your clients knew about fire safety and fire protection plans?
+
+John Barrot 
+
+So, I kind of touched on the the R&D piece. That's really critical, is really thinking about this for projects.
+
+The other thing I probably want to cover: Architects are typically responsible for documenting the code compliance, including life safety, and things like fire-rated walls and the like. And fire protection engineering is really a specialist area. So we're always trying to advocate for someone like Banksia, to be involved in these projects to help deal with that architects have a lot on their plate. And this is just one, one piece of their responsibility. So we can really help to get projects on the right track in this regard, particularly for modular.
+
+John McMullen 
+
+That makes sense. That makes sense. So we're almost done. But I would be remiss if I didn't mention that you will be joining us at our World of Modular conference in April. You'll be presenting there. Tell me about your World of Modular presentation. What will attendees learn and what are you excited to share?
+
+John Barrot 
+
+Thanks, John. It's my third year at World of Modular, so I'm really really looking forward to it again, it's a great event. And so my the title of my presentation is Fire-Rated Assemblies for Modular Construction. It will cover some of the things that we've talked about today with a real emphasis on carefully considering fire-rated assemblies in modular construction and the differences that are in modular construction, in more detail that we've covered today, some of the key challenges. I'll cover some of the lessons learned from some of the projects I've mentioned, and some some more recent projects we've been involved with. And then some of the best practices that we've also learned on this project.
+
+So we presented in the past that World of Modular, and I find that we get new questions and folks that haven't heard this before. And so just tried to beat the drum.
+
+John McMullen 
+
+Well, hopefully we can send a few people your way. If  you're listening, and this has been at all interesting, please find John at World of Modular I'm sure he has much more to say. Thanks, John. I really appreciate you taking some time out of your day for me, and I look forward to seeing you in April at World of Modular.
+
+John Barrot 
+
+Thanks, John. Thanks so much.
+
+John McMullen 
+
+My name is John McMullen. And this has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.

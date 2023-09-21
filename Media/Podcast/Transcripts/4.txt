@@ -1,0 +1,121 @@
+[Assistant]
+Hello and welcome to Inside Modular, the podcast of commercial modular construction, brought to you by the Modular Building Institute. Today's episode is also brought to you by the now virtual Off-Site Construction Expo, sponsored by the Modular Building Institute. There's no better opportunity to see focused presentations and exhibits from the off-site construction industry. Visit offsiteconstructionexpo.com today to register for one of their three upcoming virtual events. That's offsiteconstructionexpo.com.
+
+Welcome, everyone. My name is John McMullen, and I am the Marketing Director here at MBI. Today, I'm joined by Amanda Gattenbee, Vice President of Development at CRATE Modular in Southern California. Amanda is here to talk about container-based modular buildings and all of their many different applications. Amanda, welcome!
+
+[Amanda]
+Hi, John. Thanks for having me. Such a pleasure.
+
+[John]
+It is my pleasure. Thank you very much. So, let's dive right in. Tell me about CRATE Modular. How did it start?
+
+[Amanda]
+CRATE Modular acquired a predecessor company, and that predecessor company started in the education sector, replacing the old modulars that you see all over Southern California, specifically in LAUSD. It was a sustainable answer for these schools, and they had pretty good success with that. Then I came along in 2016, and the focus really shifted to housing.
+
+[John]
+Gotcha. Have you guys always been in Southern California?
+
+[Amanda]
+Yes, we started in a 10,000-square-foot metal building on the banks of the LA River, and we now have a 110,000-square-foot facility in Carson, California, in the Los Angeles metro at the 405 and 710 junctions.
+
+[John]
+That's quite a bit of growth. Congratulations.
+
+[Amanda]
+Thank you.
+
+[John]
+Why shipping containers? What's special about those?
+
+[Amanda]
+Our company is founded on sustainability. There are so many available containers. There's a trade deficit in the United States where we import way more containers than we export. Countries overseas would rather sell us a new container full of goods than pay to ship an empty one back. So, we have these steel boxes laying fallow, made to hold 65,000 pounds of material, rigorously tested and stackable. That just seemed like a really perfect building block.
+
+[John]
+I'm a big fan of container-based buildings myself. I think they're just cool to look at, if nothing else. How do you source these containers? Do you work with shipping yards or other providers?
+
+[Amanda]
+Yes, our factory is about 10 miles away from the Port of Long Beach and the Port of LA. We only source one-way dry goods containers—containers that have been used for one-way dry goods trade. Every container has a serial number, and as I mentioned, they're rigorously tested by several different agencies for seaworthiness and safety. So, our containers are definitely more inspected and tested than traditional building materials. We source the containers that have been used only for one-way dry goods, and every container has a serial number, so you can track its history.
+
+[John]
+That's fascinating. I had no idea that they were only 90 days old. That's awesome that you guys are able to reuse these containers. It's a shame that they can't be reused as part of trade. It seems like that would be the obvious thing to do, but I understand that it's cheaper not to.
+
+[Amanda]
+Some of them are diverted for storage containers on construction sites, but we're using 500 to 1,000 of them a year.
+
+[John]
+Wow, that's quite a number. So, tell me about the people in your company. I've heard a lot now about containers, but what about the people? What kind of trades are involved in bringing a container-based building to life?
+
+[Amanda]
+We are nothing without our people; they're our greatest asset. Our workforce includes welders, ironworkers, demo welders, metal stub framers, insulation experts (both spray foam and batt), licensed electricians, and a licensed plumber on staff. We also use vendors for fire sprinklers and roofing. All of our labor is in-house.
+
+[John]
+Approximately how many people do you have on staff?
+
+[Amanda]
+We have 75 people on the floor and 25 people on the office side.
+
+[John]
+What's the design process like for these buildings? Do you use BIM or other methods, and how has that evolved over time?
+
+[Amanda]
+Design is something very special because we have the state approval from HCD, like many other modular companies. So, we create our own set of drawings for the modular building only. We include the design of the foundation in that. We design the building in a vacuum, and then that's the set that gets state-approved. There's still a local submission and approval for the site-specific placement of our state-approved building on that lot. We design very quickly, usually within 90 to 120 days for the modular set. We get approvals anywhere from 48 hours to 10 days max. So, we have an expedited timeline for design. We use Revit and CAD for our design work.
+
+[John]
+Great. Now, speaking of foundations, are there any foundational requirements for container-based buildings as opposed to traditional buildings?
+
+[Amanda]
+We use a typical stem wall foundation, usually 18 to 30 inches. The reason we do that is we need that crawl space for under building utility connections. The stem wall usually has embedded hardware that the containers weld to. We can also go on a podium with a similar type of assembly.
+
+[John]
+And you touched on this before, but how long does it take, start to finish, to convert a shipping container into a habitable space? How fast is that turnaround?
+
+[Amanda]
+We can produce 15 modules a day, but it takes one module between 14 and 21 days to make its way down the assembly line. That includes taking a brand-new shipping container and turning it into livable or workable space.
+
+[John]
+That's right. You mentioned you have a factory where manufacturing meets construction. So, it takes 14 to 21 days to transform one container. That's fascinating. I hadn't realized the details of the process. Now, I know you've been involved in some exciting projects. Could you tell me about your Potter's Lane project? How did that come about, and what has the reception been?
+
+[Amanda]
+Potter's Lane is the first affordable housing project in the nation using shipping containers. It houses 16 formerly homeless veterans and provides access to social services. It's an unincorporated area of Orange County. It's a flagship project for us and the reception has been phenomenal. We were on the front page of the LA Times, and even though the project was four years ago, I heard mention of it on 60 Minutes a few months ago.
+
+[John]
+It's still getting recognition, which is fantastic. I think it's one of those projects that's really making an impact and changing perceptions. Now, you also have the Coldin Avenue project, which is a multi-family building. Tell me about that and how it's different from Potter's Lane.
+
+[Amanda]
+Coldin Avenue was the first multi-story container development in the city of Los Angeles, three stories tall. It's permanent supportive housing, and the developer used an interesting model where they leveraged crowdfunding and social impact equity to fund the building. They then master-lease it to a social service provider. The project serves formerly homeless individuals and families in the local area in South Valley.
+
+[John]
+That's impressive. Now, in more general terms, where do you think container-based modular construction fits in the overall construction landscape? Is it more suited for certain projects over others? What's the best use for containers?
+
+[Amanda]
+We can do containers for almost any type of project. If you can build it, you can build it with CRATE. We've had several different uses, but I would say that container modular is most useful in scenarios where time is a critical factor, and you need your project done very quickly. We recently had the opportunity to deploy a homeless shelter for the City of Buena Park. This was a 15,000-square-foot facility, and we designed not only the building but also the site, including civil and landscape, in just 60 days. We got approval in 48 hours. It was fabricated in four months, and the contractor took four months to finish it once it was delivered to the site. So, time seems to be the common denominator. We also excel in tight sites or projects where you want something very strong with great energy values and sound attenuation. Our thermal envelope makes our buildings virtually silent from unit to unit and floor to floor.
+
+[John]
+That's fascinating. I hadn't thought of sound attenuation as one of the benefits of container-based construction. What other projects have you recently completed or do you have any more in the pipeline?
+
+[Amanda]
+We recently completed the grand opening for the Buena Park Emergency Navigation Center, which was two weeks ago. We currently have another shelter in the factory that we're replicating for another jurisdiction. Once we design and engineer a building, and we have factory approval to build it, we can replicate it for different clients. We're also working on a five-story building in Los Angeles. Additionally, we have an opportunity zone project with 21 units of single-room occupancy (SRO) housing in San Diego.
+
+[John]
+That's impressive. When you mentioned a five-story building, is that your first four-story building?
+
+[Amanda]
+Yes, it's our first four-story building.
+
+[John]
+Are there height limitations when it comes to container-based construction? I think earlier in the conversation, you mentioned containers could be stacked 10 high for shipping purposes. Could you potentially build a 10-story building?
+
+[Amanda]
+As of now, we are approved to go up to five stories. We've engineered up to five stories, which would be five stories over grade. To go higher, you would typically need to transition to Type I construction and tie into a concrete core. Currently, we're working within those limitations.
+
+[John]
+That's great to know. I had a couple more questions. You mentioned replicating a shelter for another jurisdiction. When you say "shelter," do you mean another development for homeless individuals?
+
+[Amanda]
+Yes, it's essentially the same shelter design, but for a different jurisdiction. We've leveraged our efficiencies and buying power to bring the project to the client at a slightly reduced cost since we've already done it once.
+
+[John]
+That's a great approach, especially when addressing the urgent need for shelters. Well, Amanda, I think that was all the questions I had. I really enjoyed this conversation, and I appreciate your time today. I'm looking forward to seeing your future projects.
+
+[Amanda]
+Thanks, John. Everyone can check us out at cratemodular.com and follow us on Instagram @cratemodular. My name is John McMullen, and this has been another episode of Inside Modular, the podcast of commercial modular construction. Until next time!

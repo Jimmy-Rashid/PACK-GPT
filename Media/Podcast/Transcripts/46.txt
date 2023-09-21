@@ -1,0 +1,179 @@
+Embracing Steel: How One Manufacturer is Transitioning from Containers to Full Volumetric Modular Construction w/ CRATE Modular
+
+John McMullen 
+
+Hello and welcome to Inside Modular, the Podcast of Commercial Modular Construction, brought to you by the Modular Building Institute.
+
+Welcome everyone. My name is John McMullen. And I'm the marketing director here at MBI. Today I'm talking with Rich Rozycki, CEO at CRATE Modular. Rich is here to talk about crates recent efforts to bring steel-framed modular projects to market and about the advantages that automation can offer modular manufacturers.
+
+John McMullen 
+
+Rich, thanks for being here.
+
+Rich Rozycki 
+
+Thanks, John. It's a pleasure to be on the podcast today. I'm excited about it.
+
+John McMullen 
+
+Well, me too. Let's, let's kick it off. Tell me about yourself, Rich. What led you to CRATE Modular?
+
+Rich Rozycki 
+
+So I started my career off as a construction lawyer and in the process of representing general contractors, subcontractors, governmental agencies, I ended up moving in house to Champion Homebuilders. And after a period of time there working primarily as attorney, I took over their commercial group and I ended up leading that group through the Marriott modular initiative and began working with Marriott Hotels. Then I ultimately moved on to Z Modular, which was a steel-based startup that had a proprietary connection technology that allowed us to build really precision based steel structures. And then, you know, as my career progressed, and as Z Modular grew, there became some pronounced opportunities for modular that existed, especially in some markets like California that have an acute need for housing and construction solutions. And a company like CRATE that is located right in the thick of things about 20 minutes from downtown Los Angeles, was a very attractive option here. And, and so here I am now with CRATE Modular had been here about a year. And as you correctly noted, we're making a transition from a container based solution which we were known for, to a more custom, dimensionally flexible, steel-based modular solution.
+
+John McMullen 
+
+Well, that's excellent. You've been all over the place. So that's an exciting history, I'm sure you're bringing a lot to CRATE. So let's talk about your your move into steel. Tell me about CRATE's recent inclusion of light-gauge steel, how was that decision made? And what kind of steel frame projects are you working on?
+
+Rich Rozycki 
+
+So it was really a customer-led decision. We had a customer approached us and asked us if we'd be willing to think outside of our container solution and develop a steel-based modular solution. And so just, you know, kind of looking at the market and understanding the economics of container based building, we thought that, you know, this was a good client that we wanted to grow with, and that this product type of building steel based module solutions, was where we think the company is going to go.
+
+And so our first project, which we're currently building is a four story, multifamily apartment project. It's right here in the heart of Los Angeles. And that's the first of what we think are going to be many projects, we have another one that we're going to be building here in the late fall, that we're also excited about. And honestly, we think it's the future, we think that the opportunity exists to really be able to build, you know, like gauge metal structures from, say, four storeys, and under two hybrid steel solutions that we can provide mid-rise and high-rise steel, modular solutions for.
+
+John McMullen 
+
+Awesome, awesome. So, as you mentioned, CRATE traditionally has been a container-based sort of company. And now you're moving into steel...What challenges, have you faced with steel framed containers--the frame is sort of inherent in the structure--but now you're building your own. What challenges have you faced? And how have you overcome them?
+
+Rich Rozycki 
+
+Yeah, so for us, the transition from a container based solution to a build your own module solution hasn't really been that big of a transition. That's because as CRATE grew, we started building taller multifamily, and education structures that were, you know, four-plus stories. And, you know, when you're doing that with a container, you have to do a lot of structural reinforcements. So there's welding, there's, you know, additions of support that that need to be added.
+
+And so, as we looked at things, and really, as we looked at the types of projects we were building, we thought that potentially we could come up with a more economical solution. And so when our customer came to us and said, you got this opportunity, we looked at and jumped at it. And so the challenges that we've faced have really been more in the, you know, as we look at more and more of these, these steel based projects, the challenges are really in the standardization of the designs and the assemblies. And so what I mean by that is really fire assemblies. You know, there's not a host of, you know, standardized, approved, UL Listed modular-rated fire assemblies. And so that leads to different interpretations of the code and potentially different details that a design team may put into the project to achieve a certain fire rate.
+
+And so, you know, what we're seeing is the need to try to bring some standards around that and that is one of the reasons why we are moving towards the creation of a "CRATEolog," which is essentially a rules-based design catalog that we're developing that has a lot of the information that a design team would need to be able to lay out a building around our CRATE system. And so what they would include is Revit models that have the options for, you know, your wall assemblies, floor assemblies, structural connections, all of the things that you know, kind of are a mystery to a lot of folks, when you go into working on the design of a modular structure, essentially, what we're doing is trying to take that information, do the upfront research and be able to provide that to clients so that we can serve in a design-assist capacity that helps them really get a project designed efficiently around our system, but also on the back end, helps drive the standardization of our product and ultimately increases the throughput through our facility.
+
+John McMullen 
+
+I think it's a great idea. It's an outstanding resource, an outstanding marketing piece, really. I'd love to see a copy whenever it's completed.
+
+I would go back to your history a little bit, you've been all around the modular industry. And I know you've been doing some speaking lately. So I wanted to ask about how to start manufacturing for offsite. Let's use CRATE's inclusion of steel framing as an example. What can you tell other manufacturers who want to start building for offsite construction? Where do they start? And what should they be focusing on?
+
+Rich Rozycki 
+
+Sure, that's a great question. Yeah, where you got to start as the product, you have to have a product that is designed because you need to set all of your company up or all of your manufacturing operations up around that product that you've designed. And so really, what I call that as nailing it, before you scale it, you need to figure out, okay, you know, what are the dimensions going to be? What are the assemblies going to be? What are the order of construction that you're going to perform? And how are those processes going to play out across your production line, and everything really ties back to how the product is designed. Because, you know, in my experience, when we've seen when you run into production issues on the floor, you know, there's a couple of explanations for it.
+
+But a lot of times, it comes back to the fact that maybe there was a detail that hadn't been thought through, or there was more information needed to needed in order to properly complete a installation of a material item. So really, it's all about going back to having that product that is standardized, because then at the end of the day, you can set not only your operations up, but you can set the future of your company up around around that product. Because the more you standardize, the more you can eventually automate. And the easier things become.
+
+John McMullen 
+
+Gotcha. Are there major differences between setting up a factory for wood framing and steel framing, or framing in general, versus a container-based solution like CRATE is known for?
+
+Rich Rozycki 
+
+Yeah, there's, there are differences. You know, take CRATE, for example, the transition from containers to hybrid and light-gauge metal structures that impacted the initial portions of our line and the bat at the really the end of our line as well. So in the initial portions, with containers, you're doing a lot of demo work, you're having to go in the container and add structural steel versus what we're doing now where we have jigs where we build the frame, the structural framing those we have walls, jigs that we build wall assemblies offline, and then crane them into place. So that has changed a little bit.
+
+And then you know, the the end of the line changes in the sense that with containers, you have really a built in facade with the corrugated metal that's inherent in those with you know, the the modules where you're building them, you have to figure out okay, what is your exterior sheathing, insulation and potentially facade system going to require? So it does, you know, require you to think around, okay, "what are you doing, that you weren't doing before?" So you know, that's a good example.
+
+And then really from from wood frame, you know, in my experience, especially with Champion with wood frame, you can really crank out high amount of value because it's a little less precise. The way that you can go about completing your order of assemblies is a little bit different. And it's a different product type. There's different requirements, that that you have in the building code because what is the type five product general type five building product and you're not necessarily dealing with you know, non combustible type, you know, assemblies and things like that, which are going to change your production processes.
+
+John McMullen 
+
+So you mentioned you mentioned sequencing, tell me how a factory should be laid out. Obviously, putting things in sequential order makes sense. You know, it's a factory setting. But what else do I need to know if I'm making my first offsite factory?
+
+Rich Rozycki 
+
+Yeah, there's a lot of things. Really, it's the fact that again, going back to the product, you got to be able to set your supply chain up about around that. And then how does that supply chain get distributed to the floor? So really going back to standardizing that product is going to dictate the layout, it's going to dictate how you consume materials, it's going to dictate how you stage and how you deliver. So there's a lot that goes into that. That piece of the equation.
+
+John McMullen 
+
+And I know, you mentioned this earlier, automation is something that is certainly becoming huge in the modular industry. What advantages does automation offer from a manufacturers point of view?
+
+Rich Rozycki 
+
+Yeah, well, obviously, it provides the ability to enhance your production throughput of certain assemblies. And that goes without saying, but it also allows you to do a couple of things, you get an extremely precise product, because it ends up allowing you to maybe have a higher level of quality control, given the fact that it's being done by a robot.
+
+The other thing is that it allows you to reallocate your workforce. So to the extent that you introduce automation, one of the things that I think is important when you're setting up a manufacturing plant is the ability to cross train your workers so that if you have bottlenecks in the line, you have the ability to rebalance it. And so that's one thing that automation allows you to be able to reallocate those human resources across other areas of the line that are not automated, that maybe are your bigger bottlenecks.
+
+And you know, the other thing is, too, and it kind of, I guess, is one of those things that I guess from a sales perspective, you look at it, when you bring customers through, there's there's really no better salesperson than a robot. So I guess, from that perspective, it does have some benefits as well.
+
+John McMullen 
+
+So going, going back to CRATE's inclusion of steel just for a moment, how did you guys have to change your factory to account for steel construction, whereas before you we're dealing primarily with containers?
+
+Rich Rozycki 
+
+Yeah. So we didn't necessarily have to adjust our workforce, what we had to do is adjust our processes. So rather than cutting apart a container, and station one, we built jigs, we're laying out steel, laying up floor joists, laying out our columns, and then welding that all in place. And so it's in some way, skipping a few steps from our traditional process with containers. Because we're starting from scratch rather than having to deconstruct something in order to start adding the materials to it that are going to lead to a finished product.
+
+So yeah, process is the biggest thing. At the end of the day, what we've seen is that, you know, whether it's a wood product, whether it's steel product, whether it's a container product, your bottlenecks are going to be the things that really aren't available to automation, yet, it's going to be your drywall, it's going to be your tile work. And it's going to be things like potentially flooring, but you know, the things that you can automate the framing, the welding, you know, those are all really good opportunities to increase and enhance your your throughput and your quality. But at the end of the day, if your products not standardized, the automation ends up being, you know, in a lot of ways, less efficient than what maybe human your human resources are able to produce.
+
+John McMullen 
+
+Well, I appreciate you bringing us back to automation. I took us on a little detour there. But I've another question for you. Is there a reason why a manufacturer would not want to incorporate some form of automation into their factory's workflow?
+
+Rich Rozycki 
+
+Yeah, definitely. I think it depends on what you're building and the volume of production that you're anticipating out of your facility. Smaller facilities, lower value, more bespoke products. Those probably lend themselves last automation, then high value repetitive type products. You know, I think that's where at the end of the day can make the most sense. And really the, the theory that we subscribe to CRATE is incremental automation. Our plan is to, you know, be able to standardize our product to the degree that we can, and then be able to do that around a design for manufacturing process, which will then ultimately lend itself to the incremental automation that will help drive the ultimate throughput in our facility.
+
+John McMullen 
+
+So you mentioned "incremental automation." I like that term. Would you recommend, if you had the choice, sort of an all-in attitude with automation? Or do you like the incremental automation that you guys are doing now?
+
+Rich Rozycki 
+
+You know, honestly, I think the incremental automation, at least from my perspective, is the best approach. And the reason being that, even once you introduce those robots, depending on what they are, there is going to be somewhat of a learning curve to understand how those operate, and then also how they fit into your production process. So, you know, the approach that that we're taking as, okay, let's, let's pick something that we know is ripe for automation, say, for example, like a steel framing, plenty of machines that do that, it's very, you know, relatively easy to introduce. And so that's going to be the first step in our process.
+
+But then, as we start to analyze our man hours and where we're getting our bottlenecks and especially now, where the market is going with the constant introduction of new technologies, we're gonna be on that kind of leading edge of "Okay, there's a new technology out there, we know we have a bottleneck here. How do we potentially integrate that new technology to help solve that problem?" Because at the end of the day, what we're trying to do is drive down the cost of building buildings. And and one of the ways of doing that is increased throughput, but also standardized design.
+
+John McMullen 
+
+So what are some of those new technologies that manufacturers have at their disposal besides automation? And how should they be leveraged for new manufacturers?
+
+Rich Rozycki 
+
+Yeah, I would say one thing, that's not necessarily a new technology, but something that is great, gaining increased adoption across the modular and prefabrication worlds is really the BIM modeling. BIM modeling, and given the advances with it, and the fact that companies like Autodesk are working on ways to have various design software, and manufacturing software talk together...I think we're on the verge of being at a point where you could design a product, an architect could design it, and then you know, we're not too far away from being able to have that automatically convert to some level of shop drawings that are then useful for the plant to be able to, to give, be able to produce the, the modular building.
+
+And so and that's kind of what we're trying to do with the CRATEolog is be able to take that mystery out of it be able to give folks these are the design standards, and by working within these rules, we can short circuit Well, you know, the shaft drying process, which can sometimes be a lengthy, you know, process depending on how much information is contained in the architectural drawings and structural engineer drawings. So, you know, that's one of the ways that I think can, it's not a necessarily a new technology, but at the end of the day, it's one that I think hasn't been melded well with the manufacturing operations. And that's one of the things that we're trying to drive.
+
+But there's also, you know, we're looking at technologies that allow the projected projection of plans onto the floor so that you can really just take all tape measures, really, in some ways, not all thinking, but, you know, that reliance on having some sort of plan that has to be visible, either in paper or on a screen somewhere, it's right there in front of everybody in real time.
+
+John McMullen 
+
+I've seen articles about those. That's super cool.
+
+John McMullen 
+
+What are some stumbling blocks, maybe, what's the biggest stumbling block for a new factory?
+
+Rich Rozycki 
+
+Yeah, honestly, it's, it's getting the people in place, getting them organized and getting them, you know, your processes nailed down about how you're going to put your product together. And along with that goes, obviously, the supply chain because you can't build anything if you don't have that. And so, you know, I think one of the most critical things is, and we've talked a lot about design being a critical piece of it, but is getting your supply chain established. And that's one of the ways that the BIM technology can help you get your, your supply chain established because of the fact that, you know, the nowadays you're able to basically do your BIM drawings and can put put together a precise bill of materials, which you know, can be digitally tagged to your procurement.
+
+And so utilizing those technologies to help serve your supply chain is really beneficial and that's something that we're, you know, in the process of creating and, you know, without your supply chain, especially in today's world where you have lead times that can extend beyond four or five months, it's very critical to being able to get your product out the door. So that you know if design is one, supply chain is two, and then ultimately, number three is your factory layout and the processes you're going to use to go about building your product.
+
+John McMullen 
+
+So I'm gonna wrap up by bringing everything back to you guys at CRATE. You started the top of the podcast and you told us about some of the new steel projects you're working on. What else is on the horizon at CRATE? Are you guys still doing containers? Have you switched completely to light-gauge steel? What's coming up?
+
+Rich Rozycki 
+
+Yeah, so we are increasingly building light-gauge and hybrid-steel solutions. That is our focus going forward. However, we still have container projects that we're building. And to the extent that our customers want to bill container projects, we're certainly willing to entertain that we've built award winning projects. We've been doing it for a long time. But we really think that based on the customer feedback, you know, folks we talked to in the market that, you know, our our solutions for more dimensionally flexible structures is really going to be driving the business going forward.
+
+John McMullen 
+
+Gotcha. And I know it's early yet, but you guys presented at MBI's World of Modular a few months back. I hope that was a good experience for you guys. Can we look forward to seeing you in 2023?
+
+Rich Rozycki 
+
+Definitely. It was a great experience. We will definitely be there in 2023 I think this year, the World of Modular is in Las Vegas, is that correct?
+
+John McMullen 
+
+That's right, at the Bellagio.
+
+Rich Rozycki 
+
+You can expect to see CRATE contingent, representing us strong there.
+
+John McMullen 
+
+Outstanding. Outstanding. Well, Rich. I really appreciate your time today. Thank you for coming on the show. I look forward to talking with you again soon. And I hope very much to see you at the Bellagio next spring.
+
+Rich Rozycki 
+
+Great. Thanks, John. It was a pleasure being on.
+
+John McMullen 
+
+My name is John McMullen. And this has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.

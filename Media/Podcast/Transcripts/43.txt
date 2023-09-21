@@ -1,0 +1,183 @@
+Getting from Offsite to Onsite: Inside the Logistics of Modular Construction w/ Stream Logistics
+
+John McMullen 
+
+Hello and welcome to Inside Modular: The Podcast of Commercial Modular Construction, brought to you by the Modular Building Institute.
+
+Welcome, everyone. My name is John McMullen and I'm the marketing director here at MBI. Today I'm talking with Carson Holmquist, CEO at Stream Logistics. Carson is here to talk about the critical role that logistics plays in the modular building process.
+
+Carson, thanks for being here.
+
+Carson Holmquist  
+
+Great to be here, John. I'm glad to be on the show and to talk about offsite construction.
+
+John McMullen 
+
+Well, it's great to have you and it was great to meet you and your team at World of Modular last month. You guys were exhibitors and I just wanted to ask before we get going: Was it a good experience for you? Was it a good show?
+
+Carson Holmquist  
+
+It was incredible. It was even better than we had thought. It was our first year at World of Modular. We met some incredible people had some fantastic conversations, and we will certainly be back next year.
+
+John McMullen 
+
+Excellent. Excellent. And I'll give a quick hat tip to your colleague, Mandy, she listens to the show and connected you and I, so I appreciate her efforts. And I look forward to seeing you both again next year.
+
+So, tell me about yourself. What's your background, Carson?
+
+Carson Holmquist  
+
+Well, I grew up in a small town in Arizona, I was the son of a small business owner. So, I always grew up knowing I wanted to start a business and didn't know at a young age what that would be. But I went to school at Arizona State University, studied Business and Entrepreneurship and landed an internship at a logistics company during college. They were a startup—a fast-growth company. And I not only fell in love with the entrepreneurial process, but with logistics and have dedicated my career to it ever since.
+
+John McMullen 
+
+So, what about logistics drew you into it? It's not something that maybe everyone, you know, is drawn to.
+
+Carson Holmquist  
+
+Yeah, I think the biggest thing that drew me to it was how challenging it is and could be. And it also presents a ton of opportunity. It's a massive part of what we do in our economy. I think at one point it was 10% of our GDP was built on the backbone of logistics and supply and supply chain. So a lot of opportunity. It was challenging. And every day, I could come in and learn something new. So the longer I was in it, the more I fell in love.
+
+John McMullen 
+
+That's awesome. That's awesome. And I was looking at your website before the interview and you use the term “high stakes freight.” Why did you choose that? And what does that mean to you?
+
+Carson Holmquist  
+
+Yes, that's a that's a term we coined for the type of freight we love to manage. The opposite of that would be routine freight, which is normal dock to dock freight, it's most of the freight that's shipped around the country. And that is relatively easier on a complexity scale. But “high stakes freight” is defined by the risk in the shipment. So, they have to go right or it's going to cost the manufacturer or the receiver of the product thousands of dollars in delays, or could cause reputational damage, or even could cause a relationship to be broken, if it's just not done well.
+
+So we love the challenge. I personally have a passion for solving difficult things. So in all of my logistics experience, I was always drawn to the challenge of creating solutions for things that were very difficult or high risk. So we would assume the risk and create processes that were more bulletproof than would otherwise be assumed. So we love high stakes freight. That's all we do here at Stream Logistics.
+
+John McMullen 
+
+So tell me about the logistical challenges of modular construction and offsite construction—that seems to fit the bill of “high stakes freight” pretty well. What all is involved for modular and offsite and what don't most people think about?
+
+Carson Holmquist  
+
+Yeah, it's a very complex environment. That's why we love working in the offsite industry. I like to think it is very similar to a symphony. And in a symphony, there's lots of different instruments from string to brass, woodwind, percussions, and there's dozens of individuals playing those instruments. And they all have to come together in perfect harmony and pitch in order to capture that, that perfect “symphony sound.” And if anything is off, it just becomes noise, right?
+
+So the symphony conductor plays that role of keeping pace and organizing all the individuals. And that's the role we play in offsite construction. We’re working with the factory and at the factory. We're working with several individuals like the project engineers, project managers, the team that's actually loading the modules onto the truck. And then obviously, we have to coordinate the driver and make sure they have all the information they need to be able to pick up and deliver successfully. And on the site, we're working with a site superintendent who's managing the flow of the project. And ultimately, we're working closest with the set crews because we have to keep pace with what the set crews are doing and makes or that they always have a box available when they're ready for the next one.
+
+So there's a lot more involved in it than people assume. Because if done well, we're playing the conductor for that entire process. And we're the central command of all communication and planning between all of those parties. So it's, it's a lot more intricate than would, then one would assume, if they hadn't experienced it.
+
+John McMullen 
+
+I like that analogy a lot of the symphony and the conductor—that makes a lot of sense.
+
+What role does the conductor have in conducting the technology, so to speak; what role does technology play in what you do?
+
+Carson Holmquist  
+
+Well, as a conductor, a lot of it is human interaction and human intelligence, creating the planning and doing the communication. But we are, we are a technology company, all of our tech talent technology is proprietary, we have a software that runs everything we do on the back end. And what we try to focus on is automating the things that are predictable and routine on the back end, to free up our team, to be incredible communicators, and to be able to fly out to job sites and problem solve. So we use technology to free up our people.
+
+We also have what we call a project command portal, where the whole process is summarized and visible for all stakeholders in the process. So they can log in and see the progress of individual trucks or the progress of the entire project as a whole. And it's a good way to organize all of that activity in one visual sight.
+
+John McMullen 
+
+Awesome, that sounds very cool. So, given all this technology at your disposal, and all these tools that you have, what are some of the factors you consider when you first get involved in a project? How do you apply all these tools that you have?
+
+Carson Holmquist  
+
+Well, I think the majority of the work—or at least the intellectual work—has to be done before a project even begins to make sure the project goes smoothly. So we have pre-project processes that that we follow with every project to make sure that we're setting ourselves up and all the stakeholders up for success. So it's really elaborate, we have to look at the constraints of the project, whether that's at the factory or the job site, we have to think about the pace. How many boxes are going to be shipped per day and delivered per day? What's at stake? Like, if something's late, what occurs? Is there a plan B? Or is it the job site shuts down? Or to think about the loading and unloading, we have to think about the site ingress and egress make sure trucks can get in and out efficiently, and the communication preferences between all the parties. So there's a lot involved.
+
+That's why we have our pre-project process, which also includes flying out to the jobsite and a factory to make sure that we see these loading processes and look for any ways to make improvements. We see the job site to make sure that trucks can pull in to the proper location where to the crane pick points and make sure that another truck can be staged right behind it to make sure we're being efficient. We want to look at the staging yard where these things are gonna be stored nearby. So, we invest a lot in the process in the beginning to make sure that things go smooth once the project begins. It's essentially making sure we can control the controllables because we know that the uncontrollables will still happen.
+
+John McMullen 
+
+So you've got these people on the job site. And you've got people I guess, at home base managing some things…What are they doing during the process? And at what point does your team get involved in the entire modular build?
+
+Carson Holmquist  
+
+Well, we get involved hopefully as early as possible, because if we think about offsite construction, as a system, we do want to consider transportation as early as possible, including in the design phase.
+
+There are opportunities to gain efficiencies by designing the module sizes or how they're handled, you can capture some transportation advantages if you think about it early enough. But we certainly get involved once things are starting to ship. Obviously, that's where our, our pre-project process begins. And our team is that central command for all communication and planning.
+
+So, the main thing we're doing is scheduling the trucks in the flow in which they need to come in and deliver to make sure the project is hitting its timeline milestones. That's the main thing we're doing. But during a project, a lot of things come up, whether it's delays at the factory, you know, weather delays or other delays at the job site. And so we're constantly changing the plan on the fly. Our job is to be adaptable and responsive to any changes in the process to make sure that everything downstream of that change also gets updated. To make sure there's no sacrificing in the quality or the impeccability of the delivery schedule, just because something comes up.
+
+John McMullen 
+
+So tell me about how you load and prepare a module for shipment what has to happen before the truck starts moving to the job site.
+
+Carson Holmquist  
+
+Well, that's part of the pre-planning process as well as we want to see what their normal processes are for loading for securing to make sure that the boxes are wrapped properly with some sort of boat wrapping or something that's going to make sure it's safe during transit. We've been inside of so many factories and been involved in so many projects, we often have some experience we can share to help that process if we see something being done. That puts the modules at risk or the schedule at risk.
+
+So, a lot of it is education, it's understanding, and it's also working with drivers that have experienced handling these projects, so that they can also add some advice. But we have to make sure that the trailer type matches what's needed, we have to make sure it's secured properly, and make sure it's ready for transit so that we don't have any unexpected damages or any delays that will affect the job site process flow.
+
+John McMullen 
+
+So backing up a step—and you alluded to this earlier—what can designers do and manufacturers do to make sure that their buildings are easier for you to get from A to B?
+
+Carson Holmquist  
+
+Well, I mean, we would certainly like the module to be as small as possible, so that there's more opportunity for different trailer types. And you're opening up the option pool as wide as possible. However, we know that there's trade-offs from a design standpoint. So those are things to be considered. The larger the module, the more limited you are on what types of trucks that it can fit on and the more expensive they become, because then you have to start getting permits for transport or police escorts or regular escorts, even route surveys. So these things add up and it becomes very expensive. And the more savvy manufacturers are starting to consider their box sizes in their earlier in the process.
+
+So, they can design to optimize for transportation, because even if you make them smaller, yes, you will have more shipments, but you could still capture cost savings, because it's so much less expensive. And you also increase the number of trailers available. So instead of using custom mod trailers with hydraulics, which are, you know, which are common in the industry, but they're very limited. You could put them on more common carriers like flatbeds, step decks, RGNs, and there's probably a couple orders of magnitude more trailers available out there. So it's easier to scale and easier to have the capacity you need to deliver.
+
+And it certainly opens up a wider delivery radius, if you have a box size is more reasonable, something like I think 12 feet wide, 10 feet tall, 40 feet long is pretty optimal to really increase your optionality and reduce costs and transportation. But that puts challenge on the designers to try to figure out, you know, how to capture the vision of the livable space while having a smaller box. Right?
+
+So those are all things for them to consider. We understand there's trade-offs, it can always happen. But the smaller the box has the user easier it is to manage the shipments.
+
+John McMullen 
+
+How about on the other end of the equation? What can the builders do to increase efficiency once the modules are on site and ready to be offloaded?
+
+Carson Holmquist  
+
+I think that's all about the site logistics plan. How well have they set up things, like the staging yard? And how much space do they have to stage the second truck behind the truck getting off loaded to make sure there's a proper flow? And how good is the set crew? That makes a really big difference as well. So I think those are big things to consider.
+
+We've consulted on all of those processes, because we've seen so much. But ideally, you have a staging yard that's close to a job site. And onsite, you know, you have your crane pick point where you want to have another truck staged right nearby that's getting prepped, you know, getting the wrapping taken off, getting everything prepped so that as soon as that module gets picked, that truck pulls out and the second one rolls underneath so that there's a nice flow to the project. And when think those things are done well, the project usually is very efficient, and the timeline goals are usually met.
+
+John McMullen 
+
+So I imagine it's clear: you have a lot of experience with what you're doing. With all that experience, I have to imagine that there have been some rather significant challenges that you've had to deal with over the past several years. Can you tell me about one of those? How did you meet that challenge?
+
+Carson Holmquist  
+
+Yes. I think every project has its own unique challenges to say they any of them go perfectly smooth, I think wouldn't be accurate. But yeah, we've we had one recently it was a affordable housing project in downtown LA and the accessory is really difficult. We were able to overcome that with a really good site plan. We had to get a staging yard nearby. Everything is set up. But like most projects, we ran into delay starting at the factory where production schedule is slower than anticipated. So we had everything planned with the drivers we have to make adjustments. Then once the modules started flowing to the staging yard, we started running into weather delays and we couldn't install on site. And it ended up being the better part of two weeks. And there ended up being 10 or 11 days where there were no deliveries when we're supposed to have four to six a day.
+
+So then all of the inventory started building up at the staging yard, we had put a hold on that we had to cancel drivers for during that time period. And ultimately, we were able to make up for a lot of those delays, because of how efficient we were by putting two, two shuttle drivers on from the staging yard to the job site where they're constantly flowing back and forth. And we had a really good staging area near the crane pick point so that that second truck was always ready. And the set crew, which happened to be pro set on this job, did a really good job, you know, being efficient and coordinating with us to make sure we were able to make up for that timeline. But it was because there was a lot of really good effort and recovery on our side and on set crusade and even at the factory level. So it can be done. But there will always be delays that are unexpected.
+
+John McMullen 
+
+You've been in the industry 10 years now, I think. How has logistics for offsite and modular changed in that time? What have you seen come? What have you seen go?
+
+Carson Holmquist  
+
+Well, the trend I see maybe I see it very clearly—because I'm kind of pushing for it—is kind of moving away from these custom mod trailers, these custom mod frames that a lot of companies were built off of. I think that was a model was primarily inherited through the mobile home industry. And there's already some infrastructure in place and a lot of manufacturers inherited that process, which does actually work well, when you have enough capacity.
+
+But what we're constantly hearing from factories today is that we don't have enough custom mods. And we don't have enough drivers who can hold these custom mods. And so they're kind of trapped in their own business model, and all of their processes in the factory have built around these custom mod frames. So a lot of our advice, especially with these early factory builds is, “Hey, really think critically about if you want to build that system, because you're going to kind of be married to it, or at least it can be difficult to change your processes.”
+
+And what we're trying to push for is leveraging these carriers that are already out there, these trailer types that are way more abundant. And you're basically tapping into infrastructure that's already in place so that you don't have to go buy custom mod frames as you scale every time you scale. Like there's a one of the biggest modular builders in the country, I heard just went bought 50 more frames, which shouldn't be something they need to spend their precious capital on when they're trying to grow. So if they have a different business model, they can tap into just public infrastructure that's already in place and leverage trailers that are that are readily available. So I think that's a trend I'm seeing. We're encouraging as well. I think there's more scalability, and there's cost savings to be captured there. But there's a lot of work to be done in that arena as well.
+
+John McMullen 
+
+Do you see anything coming up on the horizon, things that might, you know, change how logistics is done over the next 10 years?
+
+Carson Holmquist  
+
+Yeah, there's several things, I think, smaller pop-up factories, those are gonna be really critical, where they're putting the manufacturing near the demand. I think, obviously, shortening the miles traveled, puts less pressure on transportation, there's still all the same complexity, but you have less mileage for things to possibly go wrong, and it's a little less expensive. I think that's going to be critical. I think continuing to think about different ways to build whether it's, you know, smaller box sizes, or, you know, things like what box was doing, you know, something more collapsible for transport. Transportation is a critical component. And it's a very, it's an expensive blind item in the process. So anything you could do to make it less expensive and make it more efficient, the more successful I think a factory could be. So I know that people are considering more creative aspects than then were considered maybe in the last 10 years.
+
+John McMullen 
+
+So, last question. It’s something I like to ask: You were inspired to get into the logistics field many years ago. What advice would you have—not that you're looking for competition necessarily—but what advice would you have for the next Carson who is interested in logistics who wants to get into the module and offsite arena? What would he need to know that he might not know now, that would help him along in his career?
+
+Carson Holmquist  
+
+I think what helped us is when we solely focused on high stakes freight and offsite logistics, because then your whole day is consumed by thinking about the challenges and the opportunities within the industry. Because if you're trying to serve many different industries, you dilute the experience, you know, across different industries and right now we're seeing more than anyone else. So our density of repetition is really high.
+
+So, we're seeing project after project and every single time we learn something that makes us even better. So we've got a flywheel effect in place. But it's only because we decided to solely focus on this industry and invest in the industry, knowing that knowing that we can make a difference knowing that these solutions are needed. And knowing that this, this industry has a bright future ahead of it. And we want to play a role in that. So if we really want to make an impact in this industry, I don't think it serves us to serve other industries at the same time.
+
+John McMullen 
+
+Well, Carson, I really appreciate your time today. Again, it was great to meet you guys at World of Modular and I hope to see you again next year. And hopefully, hopefully, we can talk again before that.
+
+Carson Holmquist  
+
+That sounds great. Thanks, John. Thanks for everything you do. We listen to you often. And it's a big help for us to continue to educate ourselves and learn trends in the industry. So, we appreciate you.
+
+John McMullen 
+
+Well, thank you very much.
+
+My name is John McMullen. And this has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.

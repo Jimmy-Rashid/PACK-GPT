@@ -1,0 +1,181 @@
+John McMullen 
+
+Welcome everyone. My name is John McMullen. And I'm the Marketing Director here at MBI. Today I'm talking with Curtis Wong, founder and CEO of Cloud Apartments. Curtis will be talking about his fresh take on modular-based housing and the innovative ideas that are making it a reality.
+
+Curtis, welcome.
+
+Curtis Wong
+
+Hi, John, great to be here.
+
+John McMullen 
+
+Tell me about yourself. Curtis, what's what's your background? And how did you find yourself in the modular construction industry?
+
+Curtis Wong
+
+Sure, sure. So my I've been somewhat obsessed with modular construction, I'd say, for the last five years or so. So quick background on myself. I graduated from Stanford University with a Master's in structural engineering about 10 years ago. So I've worked in the industry in California and on buildings from Los Angeles to San Francisco, that's get my PE license.
+
+After that I did pivot, though, so in search for innovation, honestly, I went to SpaceX to work on LaunchPad. So I got to see a lot of cool stuff with the Falcon 9 vehicles. I got to see the first landing when we landed it back in the launch pad, and really learned a lot about innovation, and got me excited about engineering again.
+
+So let's see, after SpaceX, I did go to Harvard to get my MBA, and spent those two years really thinking about what I wanted to do after graduating. Ultimately, I ended up going back into my original industry, the construction, and really thought about housing as something I want to tackle. So, I grew up in San Francisco, I've seen the damage that not enough housing does to a city. And I also see the rise of things like modular construction. So unlimited demand for housing, solution and modular made a lot of sense to pursue a business. And that is ultimately what is now Cloud Apartments.
+
+So the last stop before departments was after graduating, I worked for this startup called StarCity. So StarCity raised over $50 million. And there I worked for a year on a tower called StarCity Minna. So it was a 16-story steel tower, and what would have been right in the middle of San Francisco, and I spent a year on that, as an engineer, as a developer, really got to see how you entitled something like that, how you make a tower like that in a seismic zone. So the engineering behind it had it had to build a modular tower and a strong unionized city like San Francisco. And we really got far on that project. I mean, unfortunately, also, it didn't get built, didn't have to do with modular however. But it made me so optimistic about modular construction as a solution to housing that I found investor. And I've been running with Cloud Apartments ever since.
+
+John McMullen 
+
+That's a pretty amazing background! Tell me about Cloud Apartments itself. It's a relatively new startup, right?
+
+Curtis Wong
+
+The idea is basically to start a new brand in multifamily rentals, using a product like a modular apartments. So thinking about it a bit differently. And the idea is to improve the quality for renters and really reduce costs for developers, we are really thinking about, consider how housing is built, and how it's evolving over time.
+
+So, what I just described to you I'm calling 1.0: conventional construction. Building with studs, building with poured concrete; everything is customized, it's all one-off. And what we're moving into, I would say is 2.0: modular construction. That's what we're all familiar with. That is where it's built in a factory, getting some efficiencies in there and you're starting to shave down time to build housing. But still issues cost isn't saved in the way module construction is done today.
+
+Where we're moving is 3.0: productized construction. That's what we're calling it. I see a lot of other players moving into this direction as well. So, for us productized construction is meant to reduce cost as well as time when you build and, for us, productized means we have three products: three apartments that we use for buildings. We’re calling it the Cloud S of studio apartments, the Cloud One, a one bedroom, and the Cloud Two, a two bedroom. And the characteristics of these are that they're as buildable as possible and as rentable as possible.
+
+So, you know, just quickly when I mean that buildable meaning we have a patented connection system that allows him to really snap together on the jobsite, pipes, ducts, wires, as well as structure and really drive down cost and rental meaning we are spending the time to really do user research and make that amazing apartment as far as having all of the amenities, that fixings that you'd expect, you know, ample storage, large windows, all of those things, but also really starting to integrate and embed some smart features. If you think about the smart home today, you have 10 different IoT devices trying to talk to each other through 10 different apps. We're trying to make one cloud apartment app where renters actually get to enjoy some of these amazing Smart Home conveniences right when they move in.
+
+John McMullen 
+
+Well, it certainly sounds like you guys have thought of this from a ton of different angles. I love that you've really put yourself in the renter shoes, thinking about storage and amenities and IoT devices and all that.
+
+You guys have been working with a lot of established MBI members, even though you're relatively new startup: Curtis Fletcher from Autovol, I think is advising you the guys at Architects Orange are helping with design. How did you go about assembling this team? And what influence have they had?
+
+Curtis Wong
+
+For sure, for sure. So a lot of the team came from my time at StarCity working on that tower, got to meet a lot of leaders in the modular industry, as well as go into all the modulars I went into 2020 conference, meet a lot of people. Yeah, it's a lot of people there to speak with. And I went. And the idea is to surround myself with the best and brightest I can have modular to all the leaders come from structural engineering architecture, to manufacturing, to contracting as many as I can and just learn everything. So, you know, Curtis Fletcher has been great. He’s working as an advisor to the company in his personal capacity. So, co-founder and CTO of Autovol there.
+
+The other ones I brought in just some quick names like Bruce Greenfield, principal at Architects Orange, absolutely incredible. He's been a great help as we design this user experience. Troy Dean is another principal at PCI Structural Engineers, and working with Troy on his patented connection system. So, PCI has done, needless to say, a ton of work within the industry.
+
+And just quickly, some other advisors I surrounded myself with include some module builders from RAD Urban. So RAD Urban really spearheaded a lot of innovation within steel, modular construction, especially in the bay area here. And you know, modular hotel chain Citizen M that uses a lot of modular for the hotels. So, it's really cool to have a team like that surrounding me.
+
+John McMullen 
+
+That's quite a team. That's quite a team. Kudos to you for finding those guys. And really surrounding yourself with a lot of talent. I think that potential is really unlimited there for sure.
+
+You spoke a little bit earlier about the idea behind Cloud Apartments, what you're trying to do for the renters and the developers, I was wondering if you could go a little bit further. You made a comment about reducing the costs for developers. So how exactly is Cloud Apartments going to do that? What's your goal there?
+
+Curtis Wong
+
+Sure, sure. Yes. So, focusing on the developer, who I would say is our ultimate customer here. So I, you know, I mentioned I have perspective working in real estate development on housing projects. And, you know, my take on it is that developing housing is very, very difficult. I mean, that's, that's as simple as I could say, you're looking at sites, like a dozen sites, like I mentioned, you try to put some concepts together with your architects, you try to price it with a GC, that pricing is a little bit finger in the wind, because you're working off a concept. So, $100 a square foot, you know, it's a bit of a guess you don't really know what you're going to build yet. And then you have to put a pro forma together, right? With that cost. That's a bit of a guess. You do a market study to see if there's renters in the area that will make this a profitable endeavor.
+
+So, you have to decide as a developer, if you want to put your own money in out of your own pocket to take down the land to get through entitlement, and hope that price and read those stick enough to get it capitalized on the other side. It's just very fuzzy and it's very risky, right? So, for us, we're seeing a little bit differently, like imagine where instead of doing that process I just mentioned, you start every business thing with this idea of building blocks that you start with that are pre designed, pre-approved, pre priced by contractors in factories, and prefabricated, right modular construction at these building blocks are used to really start. So, you have complete certainty immediately. Plus, you have cost savings that make those projects pencil.
+
+So, this idea, greatly streamline and make that hold on process much, much easier. And the ultimate goal. And I guess, John, the last thing: I would say they're a little more philosophical about how I see the industry because, you know, I'm a bit, I'm a bit of someone that wants to work together with people. So I see that the industry is a bit combative. I think we're all familiar with this. A lot of players having liability that they're fighting over who's liable for what, it's a bit fighting over low margins in the industry, it's a tough industry, I see a future where we really put together these elite team of builders that have, you know, this, this branded type of a product that we're trying to build, that really creates these higher margins through innovation. And that can be shared, you know, between everyone, developers, builders, and even renters alike. So like, that's how I see the housing crisis ultimately be solved.
+
+John McMullen 
+
+Well, that's, that's very cool. That's very cool.
+
+I want to switch gears just for a second, I was doing a little homework in preparation for this interview, and I was looking at your LinkedIn profile. And I saw a picture that you posted a couple of weeks ago, it's you sort of gazing into a big open warehouse space. I was worried if you could tell me about that space? And how big is it? And what pieces are you putting together there?
+
+Curtis Wong
+
+Sure, sure. So, the first thing we need to do so we're young company is to build a prototype. The prototype we're building is what I mentioned, it's the Cloud S (for the studio unit). It's the first one. And yeah, and that LinkedIn post, it's, it's the warehouse space we have it's in the Bay Area, I invite people to visit as much as they can. So please reach out to me and you can schedule a visit. It's a pretty small space. I think it's about 5000 square feet. And we're building that at Cloud.
+
+So, I have one of my hires, Matthew Rapa, he was a superintendent at RAD Urban. Honestly, I would say he's one of the most—if not the most—experienced modular builders or installers in the country. He's installed over 1000 modules himself from not just the structure, but through full fit up. So, connecting pipes, caking, wires, doing finish work on the scenes of the modules, all of that. So I'm fortunate to have Matthew Rapa helping me build this prototype. And, yeah, within three or four months, we should have completely functioning prototype, that will be the product that we use for upcoming building.
+
+John McMullen 
+
+Well, that's awesome. I've been looking at your website, and the cloud has really all the models, but they're, they're fancy!
+
+Curtis Wong
+
+I appreciate that.
+
+John McMullen 
+
+I particularly like to bed that goes into the ceiling.
+
+Curtis Wong
+
+Right, right. So I just mentioned or living as a partner that's there. I can't take credit for that. But we're partnering with Ori Living. Definitely check them out, they have some of the coolest movable furniture you can imagine.
+
+John McMullen 
+
+So you're building a prototype, and you mentioned this before, earlier in the interview. Tell me about the connection system that you've created for these modules. How was it developed? How does it work? And why is it so important to your projects?
+
+Curtis Wong
+
+For sure. So, the connection system is this proprietary system that I mentioned, working on it with CCI structural engineers. And I guess I can start with a little secret within modular construction. And it's not so much of a secret. But the onsite portion of a modular build, you could say the onsite portion of an offsite is where cost savings are ultimately lost. It's just there's a lot of difficulty when you bring the boxes to the jobsite after they're stacked, you have to coordinate, you know, half a dozen different subcontractors to finish hooking up everything and finishing all that a lot of cost savings or law are lost on that process. And that has to do with boxes not being aligned that you can't easily install risers and things of that nature. And that is where we are zeroing in on.
+
+So we really want to focus on that onsite portion. That is that if we can align everything with our patented system, we're key ailments or intolerance, and therefore we can really snap together those pipes and wires and ducts, like I mentioned on the job site. That's where we can really drive down the cost of construction and the time to build it. So not only do we have this patent system that we're working on, for us, we're actually you know, we're a product company with our apartments and we're installing our product.
+
+So, Matthew Rapa. The guy I mentioned will be leading his own crew for our clients. I'm in buildings, these projects that we work on and doing the final install, I will fit out. Because our team will be trained. You know, starting with the clouds prototype I mentioned, trained, you know, imagine like a NASCAR pit crew, just everyone knows exactly what they're doing. extremely efficient. Plumbers are working next to electricians, that kind of thing. And extremely efficiently connecting these cloud departments together on the job site and really driving the cost. So that's ultimately how we want to be this real plug and play solution for modular. And again, the project's pencil.
+
+John McMullen 
+
+So tell me about the development of your flagship building, it's in San Jose, I believe. Where are you in that process? And what's coming up next?
+
+Curtis Wong
+
+Sure thing. So we've, we've used this site as a case study. So we've done a pretty full design of that site, and really priced it. So what we've seen is that even on project one 30% cost saving per housing unit, that's using the system that I just mentioned. And that makes it tensile really nicely. So we're still a little bit early. Again, we're a young company. But the prototype we're building that Cloud S is actually the exact unit in terms of structural design and everything that could be inserted into that fan as a project. Okay, so that's how far we're going with it. As far as next steps, you know, we're still early on, but it's a very feasible site, and we are looking for, you know, capital partners to speak with about it.
+
+John McMullen 
+
+And why did you choose San Jose?
+
+Curtis Wong
+
+Sure, sure. So, one background I didn't mention myself is that I worked for the mayor of San Jose one summer a few years back. But there I saw that Mayor Sam Liccardo is incredibly innovative and pro-development. He wants to build housing. His fantasy is one of these cities that is truly, I guess, you could say YIMBY (yes in my backyard) versus NIMBY. And yeah, they're inviting a lot of builders, a lot of a lot of innovative builders are going to San Jose.
+
+John McMullen 
+
+What challenges have you had to overcome so far on this project?
+
+Curtis Wong
+
+I mean, it's ultimately being a young company, that's going to be the challenge within this industry, like real estate is difficult. Our solution to that is ultimately, we are a partnership type of company. So I mentioned the architects who factories, GCS, you name it that we're partnering with. And we're not, I'll say this, we're not trying to be like the Katerra, where we just vertically integrate and where the GC and architect and everything is in house to “Trust us, even though we've never done this before. Trust us.” It's more like we have a cool new product that we're working on with some really established partners. So that's ultimately how we want to break into an industry like real estate, but also probably the biggest challenge outside.
+
+John McMullen 
+
+What's the what's the timeline for this project? I know you're just building your first prototype. But do you have a general sort of timeline? And if so what do you hope to learn while this whole prototype project is being built?
+
+Curtis Wong
+
+As far as the timeline, it's a little bit up in the air. But once we get investors involved, that's where we can really shine. Like I said, we're fully designed, in a way we have a product line of apartments Poway design, and we've used it for the San Jose site. So far as I'm concerned, it's ready for permit right now. And as far as construction, we could build this right now. Right? We're talking with builders already. So time was a little bit up in the air, but I'd say once you hit Go is where we can start to really show off how fast and as well as the quality that we can build housing with.
+
+John McMullen 
+
+So walk me through the development of a brand new cloud apartment building. If I'm, if I'm interested in building one in in LA or Portland or Seattle, or you know, any other city, how do I start? What's the process?
+
+Curtis Wong
+
+Yeah, so the way we start is typically, a developer or an owner would send us a site, it could be a site that they either already have secured, or it could be a site that they're looking at. And what we can do with our, our building blocks that we have this new approach that I mentioned, is we can put together basically a feasibility study, really early on with really high detail. We have partners in place, and we have these pre-designed apartments so we can tell you exactly how much it'll cost and what partners can build it. We can go further to and tell you how much a Cloud S, Cloud One, or a Cloud Two rents in that market you're looking at. So, basically assuring your revenue and your costs in your pro forma.
+
+So, if that is up to the owner developers tastes that we move to next steps where we start to onboard ATC, you can say ACN with manufacturer team and really start going and we work somewhat as a partnership. So, we have preferred partners. We like that Understand, you know, these Cloud line of apartments. And we kind of form I like to call like a design build partnership, like we act like a design builder, because we're all building around this common building block. So, through this team, we can really accelerate through all the steps you need, through permitting, get your GMP in place and on to grandparents, and construction.
+
+John McMullen 
+
+Getting toward the end of the interview I wanted to ask before you go, though, and you mentioned this at the top, that you had gone to the 2020 world of modular and you'll be attending, sure, this year's World of Modular but as a speaker, I believe I'm really looking forward to meeting you there.
+
+Can you tell us a little bit about your presentation and what you hope people will take away from it?
+
+Curtis Wong
+
+Sure, sure. So really looking forward from the 2020, being an attendee, and getting to see some of these really cool presentations to, you know, 2022, being able to present…that's really cool.
+
+But as far as the presentation, there is one thing that I really want to challenge there is this idea that modular construction, in terms of costs, is on par with conventional, that the only thing you save on is time. I want to I want to push back against that, and really show that that, to me, is a complete fallacy. Like, the potential of modular is to save on cost as well as time. And that is why I'm so optimistic about this technology.
+
+So, part of the presentation will focus on exactly how to do that. The other parts will be just, you know, reaching out. And I'll say this for the podcast as well. I mean, we're not vertically integrated. Like I mentioned, we're really pursuing a partnership approach. So, I really want to invite architects, engineers, contractors, developers in factures, all of these players to reach out to me, I think, I think there's a way we could build some housing together.
+
+John McMullen 
+
+That's great. And I, you said it before, I think World of Modular is probably your best place to really get introduced to these people. Everyone will be there. And I'm, I'm looking forward to dropping in on your session. I think it'll be a good one.
+
+Curtis Wong
+
+I really appreciate that job. I do.
+
+John McMullen 
+
+Thank you again, Curtis. I really appreciate your time today. And like I said, I look forward to seeing you in April.
+
+Curtis Wong
+
+It's been a pleasure, John, thank you so much. See you there.
+
+John McMullen 
+
+My name is John McMullen. And this has been another episode of Inside modular the podcast of commercial modular construction. Until next time.

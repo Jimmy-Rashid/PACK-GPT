@@ -1,0 +1,167 @@
+Modular Design & Development 101: How to Start a Modular Building Project w/ LAI Design Group
+
+John McMullen 
+
+Hello and welcome to Inside Modular, the podcast of commercial modular construction, brought to you by the Modular Building Institute. Welcome, everyone. My name is John McMullen. I'm the Marketing Director here at MBI. Today I'm talking with Ken Puncerelli, CEO at LAI Design Group. Ken is here to talk about modular construction from an architectural and development point of view and give a preview of his upcoming session at MBI’s 2023 World of Modular. Ken, thanks for being here.
+
+Ken Puncerelli 
+
+Hey, John, thanks so much for setting this up. We really appreciate it. We're flattered to be here.
+
+John McMullen 
+
+It is absolutely my pleasure. So, let's dive in. Tell me about yourself. What's your background and how did you get started in architecture and development?
+
+Ken Puncerelli 
+
+Well, that's a really good question. The funny thing is, as a kid, I always loved real estate. It's the weirdest thing, I used to ride my bike through neighborhoods in Tenafly, New Jersey, which is near the George Washington Bridge and takes you to New York City. A friend of mine by the name of Jean Bowen, lived in a really nice neighborhood and I used to help him with his paper route. He and I had snow shoveling routes, lawn mowing routes, did landscaping and all this stuff. I really loved real estate and then I found myself through high school, junior high really working construction jobs for masons and carpenters back before they had child labor laws. I'm not sure if those are really good to have, I think kids should work, but anyway, I did that as a kid. When I got into college, I studied design and then at a graduate level, I also studied business and finance. I think finance is one of the most important things for a design professional, to kind of bring the whole world of development together, just because you then become the complete left brain, right brain professional, and you can be the best advocate for your client.
+
+John McMullen 
+
+I have not heard that point of view before that, but that makes a lot of sense. So, tell me about when you started incorporating modular construction into your portfolio. When did you get interested in that?
+
+Ken Puncerelli 
+
+Well, that's a good question. What actually ended up happening is modular found us we didn't find modular if the truth be told. That happened about either 2003 or 2004. We had a modular manufacturer by the name of Guerdon Enterprises, and they're very well known in the industry. They were fairly new, as well. I wouldn't say startup company, but they were a new company at that time in the early 2000s. We did a workforce housing project for them up in the mountains in Gypsum, Colorado. Then we didn't work together again for probably close to a decade and it wasn't by choice. It was just kind of happenstance.
+
+We all went different directions. Then we got reacquainted in the Bakken or Williston, North Dakota, when the oil boom was going on, from about 2010- 2011 until everything kind of died down from a development standpoint in early 2015. So, we found ourselves reacquainted and reengaged with Guerdon and others in that region of the US. It was actually pretty cool.
+
+John McMullen 
+
+So, tell me about the project itself. Did you have any challenges? I know modular can be sort of a very different sort of skill set when it comes to design and construction. What were your big hurdles for those first projects?
+
+Ken Puncerelli 
+
+Yeah, so that's something that really comes down to understanding the parameters for design as well as shipping, logistics, client expectations about what modular is and what it isn't. Now, my philosophy is that you can hang, when I say hang, you can ornament or put ornamentation on any building using modular or virtually any building using a modular construction delivery method. The biggest thing we had to wrap our brains around is okay, how big is a bedroom for example. Then how does that translate into a master ensuite? If you're thinking about apartments, how does that width translate into a hallway and then to a mirror image apartment on the other side? Once you start wrapping your brain around the minimum and maximum as well as optimum width of a modular box, the maximum lengths for shipping and putting that box on a lowboy truck, then the world kind of becomes your oyster, then you can kind of wrap your brain.
+
+John McMullen 
+
+So now that your brain is wrapped around modular construction, tell me about how your process starts now. Once you understand the scope of a project, what's your first step?
+
+Ken Puncerelli 
+
+So because our firm is involved we have landscape architects that do land planning and zoning. I myself am trained in both architecture and landscape architecture. We start by programming of the site, how big is the site, and then just like you would with a site build project, what's the intended building use, square footage, number of apartments that the developer wants, and hotels, or anything else like that. So, we start out really the same way that we would with a site built project and kind of go from there.
+
+John McMullen 
+
+So, one question I like asking architects and designers, because you have definitely a different point of view than manufacturers or anyone else, are most modular products very similar from your point of view or does each project need to have a unique module design that requires sort of starting from scratch?
+
+Ken Puncerelli 
+
+Okay, so conceptually, yes they're similar, but each is unique given the fact that each site is different. Oftentimes, each client because of either the site or the economic projections of a client's project, dictate something unique about it. That and site built projects have that same common denominator. We begin really by sketching prototypical floor plans using a modular grid system and using the pattern of sizes and shapes that can be produced in the factory using that system. Then, like I intimated before, we also need to keep in mind the maximum width and links for shipping purposes.
+
+So, we can't just think about design, we have to think about engineering and logistics. The optimum width of a modular box itself is about 14 feet wide. You can go down to 10, go up to about 20 and I've heard people talk about going to 21, or 22. When you get up to about 16 feet wide, you need additional assistance in the transportation of that project. So, you need escorts, the chaser cars, all them with the lights and everything to alert other drivers on the interstates that you've got a wide load semi, hauling these boxes down the road. So that's another part of it. Lastly, the one major difference with modular versus a site build is because the ground floor if it's not a site built ground floor like a podium parking garage, or the first floor of a hotel that's got all of the lobby and all of that kind of stuff in it. The first floor will have a crawl space underneath the foundation. So that's something you have to wrap your head around when designing a module.
+
+John McMullen 
+
+So, in terms of modular structures themselves, is there a difference in the design of a module that's intended say for a single family home versus a multifamily or a hotel project or are they all generally the same?
+
+Ken Puncerelli 
+
+The short answer is yes, they are different. So, a house falls under a different set of construction standards whereas multifamily hotel and other commercial structures have a host of additional requirements. These include sprinkler systems, fire rated assemblies, sound attenuation between apartments or hotels, ADA, which is the American Disabilities Act. This encapsulates design in hotels, in particular, sight impaired, hearing impaired, as well as wheelchair accessibility. Whereas oftentimes in a multifamily setting, it's often just the wheelchair accessibility.
+
+In addition to that there's occupancy loads for fire and fire separation. I think I mentioned sprinkler systems, as well as other structural considerations such as shear walls and a lot of these kinds of things. Shear walls are somewhat built into the modular design because each box has to be its own sustainable room, so to speak, and series of walls. A lot of people ask me, well is modular shoddy construction? I said, no it's actually better built than my own personal residence, which I was the designer.
+
+John McMullen 
+
+What don't people understand about designing for modular construction? Is there something you find yourself repeating to clients about the process?
+
+Ken Puncerelli 
+
+I do, especially lately. As I told you, we started in around 2003 or 2004, we picked it up again in the next decade, then it went away. We found in our shop that clients weren't asking for modular after 2015. It kind of just evaporated in our office until about 2020, when the pandemic hit and because of that, I now think it's here to stay. Whereas it was kind of ebb and flow because most people in the construction industry are late adopters. So, something new and different is scary than the way they've done it for 50 years.
+
+One thing with mod, when you say it's modular and it's manufactured in a factory, you still have to reiterate to a client that keep in mind, it's still construction. You're not buying an Ikea bookshelf that's perfectly pristine and without imperfections. This is still construction and there are things that need to be resolved in the field from time to time that weren't contemplated either in design, they were missed in the factory, or a host of other things. You should have a healthy appreciation that about 60% of the construction of your new building is done in a factory, the other 40% is on site. As a result of that, the other biggest thing that I say is make sure you have an experienced contractor build your project. I think that's key because as design or construction professionals, we're also psychologists. We have to be able to convey information, even bad news, and come up with solutions.
+
+John McMullen 
+
+As I mentioned at the top, you are planning to speak at MBI’s upcoming World of Modular. Your presentation is about the fundamentals of modular design. I noticed in your session description that you're going to touch on regulatory permitting considerations as well. Can you tell me more about what attendees can expect from that portion of your session?
+
+Ken Puncerelli 
+
+Yeah, and it'll be high level at the session, but it's important for the audience. Some are experienced developers of modular and others are trying to learn about it and get into it. One of the things that is important for people to understand, just like when you go through a planning and zoning submittal and there's multiple agencies within an application, the same is true for modular. It's not just pulling a building permit with the local building official, the plans actually are submitted to the state engineer’s office for review. Additionally, there's third party inspections that occur at the factory for compliance with codes. I always think, and sometimes this happens and sometimes it doesn't, I always think it's a really good idea to meet with local building officials. Do a workshop with them, explain how the project works, and have your contractor there in attendance. It's not only educational for a building official, but it's also a good relationship builder for all because once you're in the throes of construction, at least everybody's been briefed on this.
+
+I find that fear comes through ignorance. If enough people don't have a relationship to begin with and they don't have any information to begin with, then there's all kinds of distrust and fear. As a result of that, you can have some real conflicts in the field. What happens is, if you do a little workshop type of meeting with the building officials to begin with, I'm talking to local building officials that may not have experienced module before, it almost functions like a pre application or a prebuilding permit type of meeting to get everybody on the same page about construction details. What's different from what they're used to seeing, life safety, the ADA, fire rated assemblies, how we're addressing this or that, fire sprinkler systems, all kinds of things. It’s really just a great dialogue. I think as we all know in life, if you're failing to communicate, you're failing.
+
+John McMullen 
+
+You weren't kidding about the psychology aspect of your profession. It sounds like you've been well versed in all the ins and outs of good communication with your stakeholders. So, that's fantastic advice.
+
+Ken Puncerelli 
+
+Thank you. Well, my hair used to be black and I had more.
+
+John McMullen 
+
+So, without ruining too much of your presentation, I was wondering if you could walk me through the process of permitting a modular or prefabricated project, maybe a multifamily residential project. Are there common regulatory hurdles that projects face?
+
+Ken Puncerelli 
+
+Sure. So, as I stated the state permit process, once you're approved, you walk through the local jurisdiction. You submit to the state, then the local jurisdiction will review the plans. What happens is they'll typically defer to the state engineers office for approval. Typically, a local building department doesn't take over, but they will do periodic site inspections or inspections on site. This kind of goes back to my previous commentary about having that workshop meeting. Sometimes you can have a local inspector, that's new to the building inspection business, new to modular and perhaps wants to make a name for themselves. Sometimes you can get conflicting direction from the two agencies. At the end of the day, you have got to satisfy everybody and get the project built because delays are not good for projects.
+
+John McMullen 
+
+They never are and you have to forgive my ignorance. I'm going to ask perhaps what may be an obvious question. Is the permitting process different for different types of buildings? In your experience, does it really matter if the project is modular or not?
+
+Ken Puncerelli 
+
+Well, I think it does. It is different if it's modular or not. I think we've kind of cited some reasons but in addition to that, back to your question about multifamily versus hotel, the big items are exiting the building, smoke detection, fire dampers and your heating, ventilation, air conditioning systems, sprinklers, fire rated assemblies and ADA. So, a multifamily building and hotel are very similar. One is an R two type of building, which is the multifamily and the hotel is R one. So, there are similar things but a bit more intense because one is a much more intensified commercial building. So ADA, for hearing impaired and visually impaired, those types of things are more prevalent in hotels.
+
+John McMullen 
+
+What’s one piece of advice you might offer to an owner developer who's thinking about or has decided to use modular construction for the first time? What should he or she know at the outset?
+
+Ken Puncerelli 
+
+That's a really good question. For me, I would not advocate a developer who has never developed before site built to use modular. I would say, after they're seasoned from a site build perspective, then I would say their experiences and expectations about construction will align better. Honestly, like all construction projects, nothing is perfect. Sometimes you're making modifications in the field to make it work for a variety of reasons.
+
+John McMullen 
+
+Don't dive into the deep end of the pool essentially is what I'm hearing.
+
+Ken Puncerelli 
+
+That’s probably the best bit of advice. I just had a client ask me about that and he's never done development before. I said, you know, I would just do these townhomes that you want to do for rent as site build first to get your feet wet in development. There's enough headaches with construction and development without, as you said, diving into the deep end of the pool.
+
+John McMullen 
+
+Very good. Again, without ruining too much of your presentation because I don't want to do that, can you share what you're most looking forward to sharing with the attendees at World of Modular?
+
+Ken Puncerelli 
+
+I want to share design parameters for a variety of case study projects to attempt to take the mystery and myth out of design using a modular system. How I start out my presentation is showing really what modular perception is and what it really is. Then what I do is I go through a series of case studies, beginning with designing the most simple structure, a house. We go from there into more complex buildings, such as multifamily, student housing and hotels to just kind of show how the volumetric parameters of a modular box work in laying out floor plans. How this is the same stuff that you've seen before with onsite two by sixes and roofing nails, but it's a bit different.
+
+John McMullen  
+
+So you've presented at other shows before. What made you decide that the World of Modular show was a place you wanted to be? What about the show attracted you?
+
+Ken Puncerelli 
+
+I think there's a lot of great networking. There's a lot of different perspectives from people that you meet there. Vendors that serve the industry. So, it's really an opportunity to learn.
+
+John McMullen 
+
+What's next for you?
+
+Ken Puncerelli 
+
+We're looking at a student housing project in North Carolina that we did some conceptual design for about two years ago. Now it is actually coming to fruition with financing. So, we're looking at that starting up here probably summertime. Then another student housing project for a university down in Louisiana that will also be modular. We're doing a couple of townhome projects in Colorado. Workforce housing where speed to market is the key along with acknowledging a very short construction season. We're also looking at some hotel projects as well and Alabama.
+
+John McMullen 
+
+Very cool. Lastly, a question I like asking people from all different areas of modular construction, what do you think the next three to five years will be like for the modular construction industry?
+
+Ken Puncerelli 
+
+Well, as I stated earlier, I think the construction industry is predominantly populated by late adopters because you've done the same thing for 50 years and if you change, it’s scary. There can be liability associated with it and so forth. So, here's my take. I think the industry will better embrace this method of delivery now that it's been around and become more prevalent for a while due to labor shortages, tighter construction cycles, improvements in technology in the manufacturing process. Frankly, I think because of that it will likely result in better cost structures for developers.
+
+John McMullen 
+
+Excellent answer. Thank you, Ken. I really appreciate your time today. It's been great to talk with you and I'm very much looking forward to seeing you at World of Modular later on in March.
+
+Ken Puncerelli 
+
+We are too. Thank you so much. We appreciate the opportunity to speak with you and your audience.
+
+John McMullen 
+
+My name is John McMullen and this has been another episode of Inside Modular, the podcast of commercial modular construction. Until next time.

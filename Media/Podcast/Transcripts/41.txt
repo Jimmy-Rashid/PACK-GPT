@@ -1,0 +1,187 @@
+How Automation Can Fulfill the Potential of Modular Construction w/ Autovol
+
+John McMullen
+
+Welcome, everyone. My name is John McMullen. And I'm the Marketing Director here at MBI. Today I'm talking with Rick Murdock, co-founder and CEO of Autovol. Rick is here to talk about the formation of Autovol and about the potential for automation to revolutionize the modular construction industry.
+
+Rick, welcome.
+
+Rick Murdock
+
+How are you doing, John?
+
+John McMullen
+
+I am very well. Thank you very much.
+
+So, tell me about yourself. Rick, you've been in modular construction for a long time now. And you've got a slew of successful companies. How'd you get started?
+
+Rick Murdock
+
+You know, I got started 45 years ago as a young man into the mobile home or manufactured housing business in West Texas, and I just really loved it and enjoyed the manufacturing, I enjoyed seeing what you could build. And then most of all, I enjoyed all the people in the company and everyone that you could meet and work with, it was just a real pleasurable experience.
+
+So I kind of grew from there. I just stayed in the industry. I've been in it all my life, I went through several different companies, I was fortunate enough to receive my first manufacturing plant at a very early age, I think I was 26. And into a plant in the south, which was a challenge but also a great, a great challenge at that.
+
+The plant turned out to be very successful. I kind of went from there to other manufacturers and ran different companies and then finally ended up in Boise, Idaho in 1989.
+
+I was given a call from a recruiter and asked if I would be interested in coming up and trying to work with a company to get out of bankruptcy. I thought that would be an amazing experience. And something that would look good on a resume. And so I also took that opportunity. And fortunate enough, we were successful in turning that company around. And then, you know, it was probably 10 years, maybe 12 years later ended up going in partners and buying that company. And from that company, we transformed into the first multi-story, multifamily modular builder in the Western United States, and started building multifamily multistory for modular construction.
+
+I sold the company in 2015, along with my partners, and started Prefab Logic, which is really on the other side of the spectrum of our industry. It was more of the engineering services company that worked with architects, structural engineers, general contractors, and so forth on that side of the business, really helping them to understand the modular experience, being able to take products that they would want to build and, and modularize those and, and model those out so they can be built out of a manufacturing plant and delivered. That was very successful. We did the drawing packages and so forth those companies and really took off with Prefab Logic and grew that company.
+
+And I was entertained by an email inviting me to a automation event in Omaha, Nebraska. At that time, I was out of manufacturing and loving what I was doing with Prefab, but really was interested in the automation piece. And so I flew up there and was quite amazed at what I was seeing in automation. And not that it was in a factory setting, but it was automation that I could see that would work in manufacturing. And so I left there fully energized to talk to people and was bound determined to go out and get back into manufacturing. But do it with a different twist this time and try to change how we did it.
+
+And so we were able to put together and stake out of all which is the first fully automated robotic, modular manufacturing plant in the country.
+
+John McMullen
+
+Well, that's a that's an amazing story. Rick, I can I'm thinking back to when I was 26. I had no idea I wanted to do yet you were running companies.
+
+So let's talk about Autovol. You started that company, like you said a few years ago. You guys are really focused on automation and modular construction. What made you want to dive into that? You said you were energized coming out of seeing that, that automation, but what was going through your head? What was your big idea?
+
+Rick Murdock
+
+I did come out of that amazed. And the reason why I was amazed is through all my years in the industry, and all the different wonderful plants that I've worked with and all the divisions that I had, in that in that time. One thing stayed common throughout all the manufacturing plants that I was involved with. And that was the work that the labor had to do and go through all plants, it's heavy lifting, it's stretching, it's bending, it's 8-10 hours a day. And I was really watching the toll that was taken on people because I had done that very thing myself.
+
+And so the robotics and the automation was very cool. And I saw an opportunity to change the way we do construction and use that very cool robotics and automation, to take the heavy lifting off people and put it on machines, and freeing people up to use their minds and do more planning and just really sue people for the trades that I believe work for the human body. And, and that was all your trades, and that's electrical, plumbing and so forth.
+
+So the automation gave us an opportunity to do the construction work, all the heavy lifting of building and framing and securing and gluing and sheathing and put that on robots.
+
+John McMullen
+
+So what can you tell me about the factory itself? I'm interested in really like what you had to learn, in order to build a factory for automated construction, it seems very complicated.
+
+Rick Murdock
+
+Well, it is complicated. And I can tell you, it was a whole different education after being in manual manufacturing plants all my life, because now we were working with robots and robots. And the automation was extremely cool. But it really quickly you understand that the robots are no different than a hammer or a saw or anything else, they do nothing until it's programmed to do so.
+
+And so gathering that information, bringing in the people and collaborating with House of Design Robotics to successfully integrate all this was a brand new experience and one that I enjoyed and learned so much from because now we were operating the automation and the robotics and actually telling them the things that had to do. And so that was a new twist. Setting the plan up, getting all that organized, getting that integrated in so we could actually do all of our construction with automation took a lot of collaboration between our company, our previous company, Prefab Logic, who formed all the data, our integration company, simulating companies, all those things to bring this together. So it was a whole different animal to approach and really understanding the type of people that would have to come along in our industry to make that successful.
+
+John McMullen
+
+Wow, the hats off to you, sir. I'm in awe of people who can take technology and really apply it in new ways. I, I was proud of myself the other day, I reinstalled windows on my computer. I think that was my big accomplishment.
+
+Rick Murdock
+
+Ha! Good job!
+
+John McMullen
+
+I really I'm looking forward to watching you guys grow.
+
+What are the inherent benefits of automation? You touched on some of the benefits for people, you're not having to do all the heavy lifting. But specifically, when it comes to modular construction, what are the benefits of automation?
+
+Rick Murdock
+
+Well, again, I will touch on the people because taking the heavy lifting off people and putting it on machines. But it also deals with precision. Because robots don't get tired, they don't care about the weight. So they're going to do the same thing over and over as a program to do. And they're only as good as your program to do. So once you program your robots to either fasten or to frame and so forth. He'll do it the same way every time until it's instructed to do it differently.
+
+The other benefits was what we saw a little bit of but not near to the point of what we received. And that was the different education that had to come in to a manufacturing plant. People with degrees and in industrial engineering and electrical engineering and so forth software's writing programs, all those people suddenly became part of a manufacturing facility building modules. And they brought that education and those techniques with them to share with the rest of the group that would go out there and do the physical work and the trades.
+
+And so it opened up the door to a different type of construction worker that was coming into a manufacturing plant to grow it to a new level. And then it also opened up the door for a lot more women in the workplace. You know, the average, the average company has anywhere from seven to 8% women working in their workplace we have 30% and we have that because it's so technical. Again, the heavy lifting is out of it. And so we found a valuable resource in the workforce to really bring into our company and help us expand.
+
+John McMullen
+
+That's great. That's great. I wanted to touch back on something you alluded to just a minute ago, when you said it was just programming, are there limits to what robots can do when it comes to building or really isn't all just a matter of program.
+
+Rick Murdock
+
+There are limits. I mean, there are projects out there that modular construction does not work for and automation is really, you can do it, it's not really meant to do that. To get the most efficiency out of automation, what you want to try to do is you want to do your best to standardize and to be able to build in a certain manner, similar to what they would do with a F-150, out of Ford Motor Company, they're building the same product over and over, and they're adding different qualities to the product to make the difference. And in amenities that you're going to see, modular manufacturing is best if you can standardize and make it very repetitive, because more repetitive is, the more efficient it is.
+
+So that was a big help to us. And so we're building standardized products, and we can build buildings that look totally different from the next one, but have little changes in the actual construction.
+
+John McMullen
+
+So how about from an architects or engineers point of view? Do they have to approach these projects differently, given the automated nature of the construction?
+
+Rick Murdock
+
+They do, they have to approach it differently. First of all, because it's, it's modular, and it's done differently than what you would do in traditional, but also the automation. Because automation, you have to really design around its limitations. And so examples of that my friend would be, if you're building vaulted walls, or any things of that nature, that's not really a program that works very well for automation. It's more about Flat Top walls, at different heights, and so forth to give you everything you need is just didn't have the design. And so they need to understand the limitations of that and help design around it. And that's what prefab logic does. One of our companies is helps them understand what the capabilities are and what they're not.
+
+John McMullen
+
+So tell me about the process of teaching robots, how to build modules, what goes into that? And how long did that process take to figure out for Autovol?
+
+Rick Murdock
+
+Most of all, that is data. And that's getting the right data coming from engineering and come through the planning process. And then you take that data, and then you write scripts that really tell the robots what to do. And that process took a few months to get the right people in here with the right education that it really understood that and then to work with our collaborating partners, how to design robotics again, and the integration of that. And then our operators that have to manage and be able to send those signals off to the robots and the automation to make it work properly. So it was a few months and getting that under our belt and really understanding that and basically creating it.
+
+John McMullen
+
+So what's the biggest difference? In your view between modular construction and automated modular construction? What benefits have you seen so far?
+
+Rick Murdock
+
+Well, obviously, we've seen the benefit of the base that we got here for our employee base, and all of our solutioneers here. We have very little turnover here. We have our solution errs that are more concentrated on oversight, education, it's a lot easier work for them. Within that within that plant. It's bringing in a different education, which changes the culture of your company. And I think it betters it, and just building the culture of your company to where all people from different facets and different expertise can come in and form something that's never been done before that really makes a great impact on manufacturing.
+
+John McMullen
+
+I liked that answer. I also liked the words that you used: “solutioneers”, I think. Is that something you came up with?
+
+Rick Murdock
+
+You know, Autovol created that and actually, Merrick Macomber, my EA, she's one that came up with the word but the word was really created because as wonderful as the robots are and the automation is, and the creation of Autovol, what's most important are the people. We're still a people industry. And we're using automation and robotics as a tool to get the job done to make it easier for people and better for building. And so we don't refer to them as employees. We don't refer to him or workforce because we see them they're far more important to that they're the ones that are building our company and taking our company forward.
+
+So our attention is on the people here growing the people helping them grow and allowing them to go in and do what they're best at in creating this automation and robotic technology and finishing out modules.
+
+John McMullen
+
+Well I liked that very much. So kudos to Merrick for coming up with “solutioneers.” I like that a lot.
+
+Have you faced any challenges with automation? Anything unexpected?
+
+Rick Murdock
+
+So far, we've had so many unexpected things pop up at this that I don't even know if I could count them. And it seems that even though you've been in manufacturing all your lives, you haven't done it with automation robotics. And so there was anybody pick up the phone and say, Hey, what do I do now. So we're having to develop this and create this. And so there were plenty of surprises. limitations were surprises, some of the writings were surprises.
+
+And then it's, it's, it's funny with automation, you can go in, and you can make a change to a piece of software, and it repairs the problem that you're having, but it may cause another one somewhere else. And so it's how finite that has to be and how much focus you have to put on it. But we were able to come through all those the plants up and operating well, we've got probably 70% of our automation working right now we're finishing off the final line that will take it automated.
+
+So we've learned a lot. We've pioneered a lot and it's doing real well, x and I can tell you that for the guys that are out there manually building in front of this automation that's being developed. It's amazing to watch them when the automation is developed. And they're no longer doing the heavy lifting, and they're on to other things. So tell me about some of the projects you're working on now, what's coming out of your factory, where are these projects going? Well, our company is really focused on affordable housing. And so we are builders. And we're really what's come out of the factory since we started is five-story, multi-story multifamily.
+
+Finally, affordable housing. So we're building apartment buildings. And so far everything that we've built has gone into the state of California, because the costs are so higher and the needs are great for housing. And so we've built, we just started our sixth project in California. And that'll be another five-story apartment building there.
+
+So that's really what our concentration has been on. Are there certain types of buildings or projects that lend themselves better to automated construction, apartment buildings lends itself very well. Hotels lend themselves very well. Workforce Housing very well, student housing very well, all of those multi-story multifamily buildings where you're going to house quite a few people, we really have focused on the quarter type unit so that you'd have a quarter running down through the center of it. And you've got a living unit on either side, very much like you'd see in a hotel or a large apartment building. Those things lend themselves very well to modular manufacturing.
+
+John McMullen
+
+What have you learned about automation, now that everything is up, you're rolling, things are going relatively smoothly? What have you learned about automation, and I was wondering if maybe you think there's still potential for bigger and better and more efficiency?
+
+Rick Murdock
+
+Well, the first thing that I learned and we had to do is prove it. And we've proven it works. We've proven it work in our products, we've proven it worked in our manufacturing process, we've also proven it works in in obtaining volume, to be a high-volume plant. The other thing we learned is there's still lots of opportunity for automation. There's other areas in manufacturing, that automation can be adapted to, and really help out the cause, especially with all the labor shortages or our country's going through right now. It's lend itself to to help be helpful in that. So there's still a lot, a lot to be done with automation, a lot of progression that needs to happen.
+
+John McMullen
+
+You mentioned all these opportunities for automation, I can only assume that there will be more companies like Autovol popping up in the near future. Do you have any advice for the future Rick Murdock's of the world who are starting these automated construction companies?
+
+Rick Murdock
+
+I do. And the first one was, is really have a desire to be a risk taker, be able to collaborate with everyone because it takes it takes quite a few different types of companies to come in and really create this created with the mindset that you're designing the manufacturing plant for the product you want to build. And so that all the data that you're feeding in to create these plants, reflects exactly the products that you want to build. Those are the things I would do that and then patients, you have to have patience, because with automation, and especially with software's and so forth. There's always something that's jumping up in the way that you have to defeat. And so with patience, and just constant drive, you'll get it done and work very well for you.
+
+John McMullen
+
+Very good. Here's one of my favorite questions. What are the next five to 10 years look like for modular construction, I guess particularly automated modular construction and where are we headed?
+
+Rick Murdock
+
+Well, in my opinion, we've got a housing crisis that reaches all the way across our country. In fact, it reaches across the globe. And so I think that the future of manufacturing housing is going to look very much like the automobile business, right, we're going to be able to automate, we're going to be able to use robots in the building of this, we're going to be able to produce more with less, and we're gonna be able to grow our manufacturing facilities to really fight the need that we have for housing.
+
+Right now what the demand is for housing far outreach is what we're capable of building. And I believe that our industry is going to move in a direction to where traditional construction and automated modular manufacturing, we're going to see that they need to be linked together, to better provide the numbers that are needed, and also the costs that are needed.
+
+John McMullen
+
+So last question, we are getting towards the end of April, which means world of modular is right around the corner, I know you'll be there. What can you tell me about your presentation? And world of modular? What do you think attendees will learn? And what are you excited to share?
+
+Rick Murdock
+
+Well, I'm going to be talking about the reason why we need automation, robotics and humans working together, and what that looks like what the future looks like, and why I believe it's necessity. And so that's really what the my discussion is going to be about and talking to the people and I'm hoping to share that information and get others interested.
+
+John McMullen
+
+Well, I really appreciate your time today, Rick, I know that you will be in San Antonio with all of us next week. So you probably got travel plans this weekend. So again, I appreciate your time. I'm excited for you and for Autovol, and I look forward to seeing you next week.
+
+Rick Murdock
+
+Thanks, John. Look forward to seeing you.
+
+John McMullen
+
+My name is John McMullen. And this has been another episode of Inside modular the podcast of commercial modular construction. Until next time.

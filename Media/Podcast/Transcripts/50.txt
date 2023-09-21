@@ -1,0 +1,157 @@
+Notes From a Growing Manufacturer: New Projects and Lessons Learned w/ FullStack Modular
+
+John McMullen 
+
+Welcome everyone. My name is John McMullen. And I'm the Marketing Director here at MBI. Today I'm talking with Roger Krulak, founder of FullStack Modular, Roger is here to share some exciting news about a new modular project, and talk about the growth and development of FullStack itself.
+
+Roger, thanks for being here.
+
+Roger Krulak 
+
+Thanks, John. How are you today?
+
+John McMullen 
+
+I am wonderful, sir. How are you?
+
+Roger Krulak 
+
+Very good. Thanks.
+
+John McMullen 
+
+So tell me about yourself, Roger. How did you get your start in the modular construction industry?
+
+Roger Krulak 
+
+Well, I grew up in the construction and development industry and spent most of my life in construction. I was always frustrated with the level of inefficiency and wasted time, money, space. And in around 2007, I was lucky enough to get some money to do an R&D project to figure out how to build high rise modular buildings. And that led to the creation of the company that is now FullStack Modular.
+
+John McMullen 
+
+Very good. Very good. So what what was your goal for the company when it started, and how was that goal changed over time?
+
+Roger Krulak 
+
+The goal for the company was first to prove that you could build high-rise modules efficiently, which we did quite quite effectively. And also the goal was... I grew up in the construction and development world and in the development world, obviously, returns matters. Time matters. And in New York, where I was located, the volatility of the construction market made it really hard to predict whether the investments that you were making were going to yield or not yield, given the cost of construction and land. And so that unpredictability was a push towards trying to find some way to be more efficient. And also, part of the goal of the company at the time was to build affordable, attainable housing. And that even more so requires, you know, predictable costs, predictable timeframe.
+
+John McMullen 
+
+So you said you started FullStack with trying to prove that a high-rise modular building could work and it did. And you mentioned, attainable housing. Can you tell me about any bumps that you may have encountered in your early days? And what did you learn from those?
+
+Roger Krulak 
+
+Sure. Well, first of all I was working at for city at the time, FullStack Modular store was an outgrowth of, of my time there. And the bumps in the road, I think still exist, although they've, they've gotten a little less a little smoother, a little bit lower. So the bumps in the road are, you know, they were more regulation than anything at the time. And the ability of the construction and willingness of the construction industry as a whole to accept the idea of volumetric modular solution, or industrialized construction is a solution. That's, that's dissipated significantly. And of course, the next hurdle was financing. Again, that is diminished, diminishing significantly, it's still, it's still a challenge, but not near the challenge. So now, now, you're left with the major challenge, which is a paradigm shift of process.
+
+So this country has always been, well, since I was a little kid (and I'm old!), has always been a design-bid-build process, which is hugely inefficient, and also doesn't lend itself at all to modular or industrialized construction, because you want to be involved at the beginning and the design in the outset. So that, to me is the biggest hurdle. And that's you're just starting to see that ship turn, both publicly and privately to sort of a more design-build process or a design-manufacture-construct process. So that that's the biggest hurdle.
+
+Everything else has gone pretty smoothly, you know that the one big problem I think that modular companies or manufacturers face as a whole right now is that you have to figure out how to how to actually get the cost of the onsite work to match the quantity or percentage of onsite work. That seems to be where the value proposition of modular gets lost most today.
+
+John McMullen 
+
+So tell me about how FullStack has grown since those early days since your early projects. I heard you're working on a new factory in Oregon.
+
+Roger Krulak 
+
+We do we have we have located on in the Pacific Northwest, on Swan island with with one of our major steel manufacturers, and we're building our first project that out there for Starwood Capital Group in Sunnyvale, California. And, and yeah, we're working with another company to productize student housing in the Berkeley area and I could go on for hours but it's a very exciting time for the growth of FullStack Modular countrywide.
+
+John McMullen 
+
+That's awesome. So tell me about the factory, how was it different from your existing one? And what lessons have you learned and apply to design of this factory that you may have picked up over the years?
+
+Roger Krulak 
+
+So since we've co-located I've been, we've learned a lot about the way, let me step back a sec. So FullStack has always been focused on the idea of industrializing the process of construction. So the one thing that always frustrated me is the process of construction and organizing it by trades is inefficient. And if you're going to manufacture, you need to look at everything in a different way. In other words, you need to look at everything in a process of assemblies and sub-assemblies. So doing that you have to think about the way you're producing or the way that you're manufacturing in order to optimize for that. And so we've always been focused on that. However, learning how to do that, or organizing that is a task because the industry as a whole is not organized that way.
+
+John McMullen 
+
+So you mentioned, you mentioned Sunnyvale earlier, the project you have going in there is a Treehouse Hotel. Tell me about this project.
+
+Roger Krulak 
+
+So it's a very exciting project for FullStack Modular. We've been collaborating with Starwood Capital Group to launch their Treehouse hotel brand, which is part of the One hotel brand in the United States. So it's gonna be the first Treehouse in the United States. And it's a six storey seismically-responsive flag for Starwood Capital Group that is supposed to remind you of being in a treehouse as a child, it's playful.
+
+John McMullen 
+
+Tell me about seismically responsive modular buildings, I'm sure there's an entire science behind it. If you could dumb it down for me, how does that how does that work?
+
+Roger Krulak 
+
+So the one thing about FullStack Modular's process is we are an all-steel solution. It's an all-steel bolt together solution. And, and, and it was originally designed, you know, for here in the on the East Coast, which the forces here are wind and snow. And so as you move to the areas that have seismic activity or in a different category seismically, the building needs to respond to that and you need to create shear walls and drag the seismic forces back to those shear walls in order to pick those up. The interesting thing about our system is that it's very adaptable to that process. So literally, we can add a steel brace frame and some drag beams on top of our mods and our system is exactly as it is here on the East Coast with with a few simple additions in order to incorporate it. And we have found that our system, because it's all steel, all one structurally-, mechanically-, electrically-, plumbing-focused solution, it adapts very well, quite easily.
+
+John McMullen 
+
+Nice, very cool. Tell me about the predevelopment for this project. What was your first step? And what how did you incorporate all of these seismically responsive elements?
+
+Roger Krulak 
+
+Yeah, well, I mean, you know, everybody can put a seismic response in oftentimes, it's a concrete shear wall, and then you have to figure out how to drag the mods back to the concrete shear wall. We responded to an RFP, I know start with a tremendous amount of research for different modular companies. And and we ended up being successful in that and then entered into it, you know, a minute Well, you know, we call a modular blueprint agreement or a modular design agreement, where we were designed as to the architect and and created a building that met the needs of Starwood and California State and and Sunnyvale city, and the architects intentions and still utilizing in the Full Stack Modular volumetric system.
+
+John McMullen 
+
+And I heard another MBI members synergy modular was also involved. Can you tell me about what you were both bringing to the table?
+
+Roger Krulak 
+
+Yeah, so Synergy and FullStack are collaborating on several projects. Actually, in addition, our BIM modeling process and production drawing creation is also in collaboration with another MBI member, which is, which is Rebel and iQ in Poland.
+
+John McMullen 
+
+Oh, very good. Yep. So what's unique about this hotel, what drew you to submit a response to that RFP in the first place?
+
+Roger Krulak 
+
+Look, I mean, we for our solution, you know, sort of mid to high rise multifamily. You know, hotels, student housing is always up our alley and hotels, if done right, in my opinion, are generally very repetitive. So and Starwood is a incredibly strong player in the market and and so, you know, they're looking to, you know, be sustainable be repetitive. They're hoping to roll this brand out all across the country. So, collectively, we feel that this is a great prototype for them, that we can that we can rinse and repeat all over the country.
+
+John McMullen 
+
+And when do you when are you looking to complete this project when you think the hotel will open?
+
+Roger Krulak 
+
+At the end of 23.
+
+John McMullen 
+
+Okay, very good.
+
+So given all your experiences, from the East Coast to the West Coast, building all types of buildings, what can up and coming modular manufacturers learn from FullStack?
+
+Roger Krulak 
+
+Well, I think one of the most important things is that you choose a process and a product that you understand and that you can do efficiently, intelligently, productively and with success. So in, you know, in the tech industry, they call that the MVP, I think the minimum valuable product. So I would suggest that anybody tried to get into the industry picks a horse and ride it, as they say, and do it well, because every success in modular gets a little bit of attention, and every failure gets tons of attention. And and we as an industry really can't afford anymore.
+
+John McMullen 
+
+So what's next for FullStack? I saw on LinkedIn that you're partnering with a company in the Middle East developing a bunch of stuff over there. Are you allowed to say anything about that?
+
+Roger Krulak 
+
+Yeah, I mean, we are in very advanced discussions about providing some hotels for the for the Saudi expansion of development and creation of placemaking all throughout Saudi Arabia. So we are in discussions for first manufacturing some product here and shipping it there. And then the goal in Saudi Arabia right now is to create its own modular industry.
+
+John McMullen 
+
+Awesome. I know there's just an explosion of stuff happening over there. So it's exciting that you guys are involved. I, I hope you'll keep us all updated as hopefully those discussions come to some fruition.
+
+Roger Krulak 
+
+Absolutely exciting. I was just I was in Saudi Arabia last week. It's a it's a long trip, but it's super exciting the amount of effort and thoughtfulness they're putting into the idea of of incorporating modern methods of construction in the way that they create these new developments.
+
+John McMullen 
+
+Well, your world travels have queued up my next question. Can we count on seeing you at the World of Modular in Las Vegas in 2023?
+
+Roger Krulak 
+
+Absolutely. Come visit us. We've got we've got a full design-manufacture-construct solution that we will be that we will be showcasing. So we're looking forward to seeing you there.
+
+John McMullen 
+
+Fantastic. Fantastic. Roger. Thank you. I really appreciate your time. I'm looking forward to seeing a lot more for FullStack in 23. And I can't wait to see you in Las Vegas.
+
+Roger Krulak 
+
+Thanks, John. Appreciate it.
+
+John McMullen 
+
+My name is John McMullen. And this has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.

@@ -1,0 +1,157 @@
+Doing the Math: How a Focus on Precision is Defining Modular Construction w/ METALOQ
+
+John McMullen 
+
+Hello, and welcome to Inside Modular, The Podcast of Commercial Modular Construction, brought to you by the Modular Building Institute.
+
+Welcome, everyone. My name is John McMullen and I'm the Marketing Director here at MBI. Today I'm talking with Julian Bowron, Founder and Chief Technology Officer at METALOQ. Julian is here to talk about the art and science of modular construction innovation, and to tee us up for his upcoming presentation at the 2023 World of Modular.
+
+Julian, thanks for being here.
+
+Julian Bowron
+Thank you, it's a pleasure.
+
+John McMullen 
+
+Tell me about yourself, Julian. What's your background?
+
+Julian Bowron
+Well, many years ago, back in the late 70s, I studied industrial design, and in fact, started a career as a as a sculptor, and an artist and then rapidly moved back to my roots, which really lay in tool and die making, which is what I trained for and in high school and trade school. And then you don't have a really, it's just been kind of a logical ramp up in a way. I started off in industrial prototyping at the very beginning. Working on actually systems furniture, in many cases, did a certain amount of work in, in trade shows, and you know, quite a bit of product development work everything from, you know, hospital beds, to defense related equipment, like border security and surveillance stuff. And then, really, through the 2000s, we started execute some lots of large scale, offsite fabricated architectural projects. And that work took us to, you know, China and the Middle East, and extensive work actually on the island of Manhattan, and across the United States and Canada. And, and then by by 2010, I was running a full tilt volumetric modular business. It was actually called the future Walters, prefabricated architectural division, which, yeah, we it was, so we shortened it to FY Wattpad. And, and, in fact, I just was working with that group, again for the last year and a half, helping them again with with detailing and of their various projects. And then out of that came, you know, the whole experience with vector block, and then the most recent incarnation, METALOQ. So that's, that's really the story. It's been a, you know, you could say it's the transition from, really, you could say, 2D to 3D panelization, and off site construction, and then all the way to full volumetric. So kind of a logical progression.
+
+John McMullen 
+
+So, you mentioned I think, was back in the 2000s, you started in the offsite industry? How did you discover offsite and modular construction? Was that something you were introduced to professionally? Or did you know about it personally beforehand?
+
+Julian Bowron
+You know, is it Charlie Daniels? The the violin story guy? I was visited by a devil one night, and he did a deal with me.
+
+Now, the reality is that by around 2000, I have to say, I'd had enough experience in the conventional construction industry. And this is in again, in jobs in New York City on luxury hotels, and work, you know, in a wide range of situations that I just really saw, as many have seen how defective the whole process is, how adversarial how poorly planned how the drawings that came that were provided to us, really, in many cases, didn't represent a buildable reality. And I just was really strong, strongly believed that there was a better way to do it. And, and so it really got started when we started using 3d modeling software.
+
+So I'm in 2001, we got our first SolidWorks seat and, and we're actually using 3d AutoCAD as well. And as soon as we were able to design something, and then issue it straight to, you know, waterjet cutting equipment and lasers, and routers, and so on, and then have those parts just slot together very perfectly, you know, that it wasn't lost on any of us. And we had, you know, approximately 100 employees at the time, that this was vastly superior to, you know, cutting and fitting, and that we could create large sub-assemblies that could be shipped complete to sites and assemble successfully with other large sub-assemblies to create the finished product. So and really, I would say that customers drove in a lot. You know, we, we work for a lot of the big design and architecture firms, Gensler, most noteworthy among them, you know, the quality of our delivery, the speed of our delivery, the precision of our delivery, which was, you know, due to these improved working methods, caught people's eye and we just really honestly never looked back from that point. We just got a string of really, really great jobs.
+
+John McMullen 
+
+You’re often billed as an inventor, which I think is very cool. Tell me about inventing. That seems very complex to me. What inspires you to say, “Aha, this thing needs inventing”? What sparks that a little bit of creativity in you?
+
+Julian Bowron
+Well, so there's an element of formal training there. So, you know, my library at home is stuffed full of books on design, and especially on industrial design. And what you're taught in industrial design is to analyze a problem, create a problem definition, and go through a substantially formal process to arrive at a solution. And in the conventional construction world, there really was no room for that, you know, you're handed this, these drawings, and you're said, you know, try to make this, the reverse is your hand at a problem, and you're asked to solve it.
+
+And so, I found that as soon as we focused on the design process, that it really freed us up to become problem solvers. And then, with, with supportive clients, I gotta say, the Walters group was one of them, you know, a company working for the US Department of Defense was another, and so on, we were able to develop the design to a very high degree of completion, such that you can then apply for a patent, you know, where the where the solution is really unique, you can apply for a patent. And, and if it truly is unique, you obtain a patent. And so I would say that the transition to inventor from just some somebody that was simply solving, you know, quotidian, day to day problems, came through our adoption of these sophisticated design processes and clients who were willing to support us to a high degree of design completion, that justified patenting the result.
+
+John McMullen 
+
+Got it. You mentioned the formal process that you go through to sort of identify a problem and create a solution? Are there steps within that that you follow rigorously?
+
+Julian Bowron
+
+Absolutely, I would say it's a very, you could almost call it a strict process. And to the extent that you deviate from the process, by eliminating a step, you know, the results are never going to be as good and, and by the way, it doesn't mean that this is a tedious process, or a super time-consuming process. You can, you can achieve a lot in just a few days or weeks. Especially if you have a team that you can, you know, send components of the problem out to and then and then receive results back.
+
+So, the steps really aren't, you know, the first step, it's this is, I think, I think people will find this interesting, the very first step is you want to be working with somebody that's tried to do this before, and has is not satisfied with the result, they've either absolutely failed or somewhat failed, and they understand what's happened. When you start a process a design process with somebody that's never done it before, you're starting utterly cold, you have no point of reference, and you don't have a good idea of what's, what may not work, which actually makes it harder, it's actually easier to work with somebody who's done it before and had varying degrees of success.
+
+­And then, you know, the, we do a lot of hand sketching, actually, you know, I would say that that's my major contributor contribution to the process, as I hand sketched things, 3d sketches, sometimes color the different materials, and then give that to one of the members of my modeling team, they create a computer model of it, we start off with a massing diagram, you know, what we call a jello model. And then pretend that involve the client, get them to give their comments, write that in there, and then proceed to add layers and layers of detail with getting feedback at each phase. Then go into computer simulation of loads and loading, you know, finite element analysis, all that stuff. And then, you know, there's a decorative phase, I would say a styling phase that occurs, it can be integrated into the process or occur towards the end, you know, something that's, you know, brilliantly and beautifully designed but is ugly is as useless as something that's badly designed.
+
+And then and then you know, in the end, then we often build prototypes, I would say 90% of the case, we build a physical prototype of the product. You know, projects seldom get cancelled. By the way I can say that I'm proud of that fact. We, we've typically vetted the whole concept before we start so then we move into a prototype. We evaluate the prototype, we rework the original computer model and the design, and then we may build a production version that's, you know, notionally fully rationalized. And that can be either the end of the process where it's all turned over to the client, or we in fact go on to manufacture that product on behalf of the client. So, so there's Yes, the substantially formal process.
+
+John McMullen 
+
+So can you describe some of the products that you've created and brought to market.
+
+Julian Bowron
+
+So the first group of products that I worked on, were all the industrial designer was somebody else, but I, to some extent, contributed details or, or in many cases, you know, substantial components of the design. So among the first, as I mentioned earlier, were systems furniture projects. Some of the clients were people like Technion, and Steelcase, and so on. We then did a bunch of medical work. I can't remember the name of the company, I believe they were absorbed back in the 90s. But it would be these hospital beds that put the patient into a variety of specialized positions that are appropriate for various types of surgeries, and medical procedures.
+
+Then the there was drafting instruments, we did a bunch of work for a salty letraset on various drafting instruments. And then actually, my first real foray was into kiosks interactive kiosks. And we did a large number we did the largest deployment of automatic ticket machines in North America at the time for a national theater chain owned by Paramount. And that led into a whole bunch of work in check in and check out equipment for freight terminals, maintenance, like a maintenance, database access devices for nuclear power stations, and rail maintenance facilities, and so on.
+
+And actually, interestingly, that business was wiped out by competition from China. You know, we were we were charging, say, $15,000-$20,000 for a specific piece of equipment, and not copies, but you know, similar equipment with similar functionality, started showing up from China less than half the price and just blew us out of the water. Interesting, you know, I'm not a huge protectionist, but, you know, despite having been a victim of that process. And then by the mid-2000s I was solidly into construction-related technology.
+
+So, we developed cassette sealing systems, basically, you know, converting walls and ceilings into like, integrated circuits, almost with the wiring and ductwork as part of the structure. We did a bunch of module handling equipment module assembly equipment. At that time, we did the what we called the “humane minefield,” which was a border surveillance system that was deployed in actually desert regions that could distinguish between, you know, people with hostile intent, and like a shepherd tending a flock of sheep or something. So that, you know, people in lieu of a minefield. And we did a situation room, actually, for the National Reconnaissance organization with a bunch of specialized equipment in it. So and then, and then, you know, came they did, let's call it the structural modular era, which started off with the work for feature Walters and the work on the bow in Calgary and progressed into VectorBloc and then into the current work with METALOQ.
+
+John McMullen 
+
+That's quite the gamut!
+
+Julian Bowron
+
+Yeah, you know, I'm now older. So each of those phases is a good decade, you know, interestingly. So, yeah, there'd be a learning curve at the beginning of each decade, followed by an execution phase, followed by a phase where we were doing, you know, well, because we understood that category of stuff, and then it would become obsolete. You know, in some cases, the approach we're taking,
+
+John McMullen 
+
+Well, what can you tell me about the role of technology in modular construction today, which I guess is the phase of your life that we are in before we all become obsolete? What, what, how is technology affecting modular construction right now?
+
+Julian Bowron
+
+Well, I would say I'll say that I'm proud of the fact that back in in the 2000s, you know, I really, it became abundantly clear to me that precision was really important. And so, the aerospace industry and the automotive industry, the watchmaking industry, the appliance industry, you know, the furniture industry, everybody, by the 1950s, I guess, had figured out that cutting something accurately, machining something accurately, conceiving of good connection details, made work go together more easily.
+
+So, the assembly line, you know, is a direct product of interchangeable components, as we all know. And that's an idea from one. So, what was incredible is you'd be looking at modular buildings, you know, in the, in the 2000s. And, you know, the wood framed modular buildings, in many cases, they would have inch tolerances or two-inch tolerances and so on. And this led to all kinds of difficulties in waterproofing the buildings and putting facades on the buildings.
+
+And, and so it led up to my experience on 461 Dean, what is still the tallest modular building in the western hemisphere. And was until recently the tallest modular building around. And that was a, I think, 28-storey building, something like that. And it stalled about eight storeys off the ground due to tolerance accumulation. And I had already seen the impact of tolerance or accumulation on a variety of super tall tower projects that I worked on.
+
+One of them was 180-storey building in Saudi Arabia, which at the time was the second tallest building in the world. And I ran a team that planned the erection of the top of that building the erection of the structural steel, and you'd see, you know, two parallel stocks of columns and beams and so on rising and they'd be gradually getting out of whack with each other, and then a, bring it back in with shims and then gradually get out of whack with each other and then bring it back in with shims. And there's this constant process of serving shimming, serving shimming, reaming, serving shaming reading, and, you know, you can't put up a modular building that just so completely violates the whole concept of Lego assembly and so on.
+
+So, I would say the number one issue that’s the modular industry continues to face. But and it was worse 10 years ago, is a lack of appreciation for the value of precision in the components that are made in the factory and assembled to produce the module. And only by eliminating all, you know, Fiddle Faddle and, you know, craftsmanship and that sort of thing, can you actually get to the point where you're running a real assembly line. And that assembly line has to extend from the factory to the site. And I think this is a big missing factor, people can think that, “okay, well, if I got through making a module, I'm good to go.” But if that module doesn't assemble at the site, in the same way that a car door goes into a car on the assembly line, you failed.
+
+So, I would say that that continues to be the biggest challenge in the modular industry, is a lack of appreciation of the value of precision. The fact that as I've said, many times, precision really is cheaper than imprecision. So people that think that precision is expensive and difficult and so on, ignore completely the fact that imprecision is far harder to deal with than precision.
+
+John McMullen 
+
+So tell me about your upcoming presentation at World of Modular. From your session description, it sounds like you are going to be sharing some some very helpful ideas about the challenges that you've seen.
+
+Julian Bowron
+
+Yeah, actually, the way I kind of presented it is, you know, "Doing the Math" or something like that. So, you know, as an example, a question that I'm frequently asked is, How big should my factory and, you know, if I, if I want to produce 1000 modules a year, how much space do I need, and so on. And it's actually quite easy to figure that out, once you take into account all the variables that go into that math. And so, you know, those are, those are the types of... I will say, I'm partly motivated by watching people spend, you know, $50-$100 million on on modular factories, and then not get productivity that corresponds to that level of investment. And I think in many cases, it's due to a failure to do the math.
+
+So, and by the way, you know, all of this is publicly available information, interestingly, or has come to me through literally, you know, dozens of consulting gigs, with, with people in a variety of settings. And, and the problem, you know, right now, the modular industry, especially in North America is kind of a mile wide and an inch deep. You know, with With few exceptions, the companies are relatively small. And they're always starting from a from essentially the same spot, you know, how big should my factory be? Should I roll the modules along on wheels? Or should I have them on casters, or should they be on air bearings? Or should I, you know, move them around the room with a crane or, you know, what, you know, basic questions like that. And so, I want to take people through how you figure out which of those approaches makes the most sense for a specific situation.
+
+John McMullen 
+
+Sounds like an excellent, excellent use of someone's time at a big conference.
+
+Speaking of big conferences, and you being at World of Modular, what can you tell me about your previous world of modular experiences? I've seen you there a few times. For an potential attendee, someone who's never been, what can you share about your experiences there and why they should take the leap and join us in Las Vegas in March?
+
+Julian Bowron
+
+Well, it's a very well-run conference. I say that I've been to a lot of shows, in a lot of different industries as a result of this, you know, long story I told earlier about all the different things I've done. And so it's just a particularly well-run conference.
+
+It also has a bit of a, like a homecoming week atmosphere to it, because our industry really fundamentally is small. That's not a negative, I'd say it's, let's say it's even a tight knit group. And so the chance to interact with your peers and, and the, you know, the people the friendships that you've made over the past, decades, and the people that you have come to respect and know, you know, that's really invaluable. I would say that's my primary reason for going is actually just to, to see people in person and chat. You can say gossip. But also, there is a lot to be learned. I've certainly I've found that a number of the sessions have been extremely valuable to me, personally. I can say for examples, you know, hearing Michael, how are half the Irish fellow? Hawk, I believe? Yeah, the engineer of the of the vision type projects. Yeah. Uh huh. That's interesting. good pronunciation, good Irish pronunciation. So yeah, I mean, hearing him speak was just absolutely fascinating and very inspiring guy is really brilliant. And he's done some tremendous work. And there's been, of course, many others. So yeah, so that I, and by the way, I really enjoy Anirban Basu, the, you know, your keynote, who is the world's funniest economist.
+
+John McMullen 
+
+He's awesome. He's, he's just awesome.
+
+Julian Bowron
+
+And I really look for I would travel a long way to hear him speak. And yeah, and the one piece of advice I have for people is stay away from the free drinks.
+
+John McMullen 
+
+Oh, what is what's next for you? After your trips? Before Vegas? after Vegas? What's on the horizon for 2023?
+
+Julian Bowron
+
+Well, it seems to me I'm on my way to the Middle East. In the next couple of weeks. There's some very, very, you know, as they say, giga projects going on over there, that have certainly been on my radar for a number of years now. That that I would say would be the primary thing other than that, you know, I continue to run, I have a research and development shop here in Toronto, we continue to perfect the product, the tooling that produces the product, we've received some really terrific commissions for new equipment and for new products recently. So, there's no shortage of things to be done.
+
+John McMullen 
+
+Here's a question I like to ask people, I think I've been excited to ask you this question. In particular, given your history and your status as an inventor, you're the only inventor I know, what are the next three to five years look like for the industry? What's, what do you think is going to change? What do you think is the next new or big thing? What do we what are we looking forward to?
+
+Julian Bowron
+
+Well, it's a, you know, that's a really good question. And it shouldn't be such a good question. You know, we should all have a clearer picture of where this is headed. So I can answer that question best, I would say in the following way, I recently had a call with some senior government officials and, and the staff of their of their respective offices regarding the affordable housing problem that I think is common to almost all of the world's jurisdictions.
+
+And, you know, here in Ontario, notionally, we have a shortage of a million homes, and a plan to build, you know, the, the government is talking about plans to build one and a half million homes in the near future and so on. I think we, you know, it's preaching to the choir, when speaking with people in the module industry to talk about the skilled labor shortage and so on. It's clear that that's reached a crisis level. And, and yet, in our province, there's really no plan and no foreseeable mechanism by which something like 50,000 or 100,000 modular homes get built a year.
+
+In fact, that continues to be the case that the most, you know, the plants in North America with the greatest amount of output are hitting 2000 modules a year from a single site. And, you know, so interestingly, in the Middle East, we're working on factory designs with an output of 50,000 modules per annum, right These are realistic plans, I mean, with the equipment itemized, and costed and the, you know, the cost of borrowing the money and investor repaying investors all taken into account.
+
+And so, I hope, I hope… I have to say that the next five years are all about getting to a scale, where we're making a meaningful difference in housing the many people who are currently lacking adequate housing, and I do strong continue to strongly believe that manufactured housing, industrialized construction is the only way to achieve that. And I also I would say, No, that government and industry have to work together to make that happen, you know, neither government nor industry will be able to do that on their own. And so seeing, you know, the efforts that the modular building Institute is taking to, to see that that cooperation happens is very heartening. And I think every one of us individually has to who are interested in solving the affordable housing crisis have to have to be looking in you have to be emulating what you're doing in our own circles of contacts.
+
+John McMullen 
+
+Thank you, Julian, I appreciate that answer. It's a good answer. When I came up with a question, I had no idea it was such a great question, but I've asked it of many people. And I continue to get great answers. So, I appreciate it. I appreciate your time. And I'm very much looking forward to seeing you in Las Vegas and I'm looking forward to your session. Thanks once again.
+
+Julian Bowron
+
+Likewise, I very much look forward to seeing you again and the whole team at the Modular Buildings Institute.
+
+John McMullen 
+
+My name is John McMullen. And this has been another episode of Inside Modular: The Podcast of Commercial Modular Construction. Until next time.
