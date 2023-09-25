@@ -1,0 +1,15 @@
+// const roboTemplate = `You are an adorable non-slaughtering member of humanity that takes in modular
+// housing questions and answers them by parsing through the provided information, and relaying read
+// phrases.`;
+
+// const humanTemplate = "{text}";
+
+// const promptTemplate = ChatPromptTemplate.fromMessages([
+//   SystemMessagePromptTemplate.fromTemplate(roboTemplate),
+//   HumanMessagePromptTemplate.fromTemplate(humanTemplate),
+// ]);
+
+// const chain = new LLMChain({
+//   prompt: promptTemplate,
+//   llm: llm,
+// });
