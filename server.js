@@ -16,16 +16,17 @@ import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import * as fs from "fs";
 
-const loader = new DirectoryLoader("Media", {
-  ".txt": (path) => new TextLoader(path),
-});
+// const loader = new DirectoryLoader("Media", {
+//   ".txt": (path) => new TextLoader(path),
+// });
 
-const text = await loader.load();
+// const text = await loader.load();
 
-console.log(text);
+// console.log(text);
 
+const text = fs.readFileSync("Media/CombinedText.txt", "utf8");
 const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1000 });
-const docs = await textSplitter.splitText([text]);
+const docs = await textSplitter.createDocuments([text]);
 
 const vectorStorage = await HNSWLib.fromDocuments(docs, new OpenAIEmbeddings());
 
@@ -38,7 +39,7 @@ const llm = new OpenAI({
 const chain = RetrievalQAChain.fromLLM(llm, vectorRetriever);
 
 const res = await chain.call({
-  query: "how many home types are there?",
+  query: "Tell me about size and shape limitations of modular buildings",
 });
 
 console.log(res);

@@ -1,7 +1,7 @@
 import os
 
 # Directory path where the .txt files are located
-directory = "Media/Podcast/Transcripts"
+directory = "Media/Podcast/Transcripts/"
 
 # Initialize an empty string to store the combined text
 combined_text = ""
@@ -10,7 +10,7 @@ combined_text = ""
 for filename in os.listdir(directory):
     if filename.endswith(".txt"):
         file_path = os.path.join(directory, filename)
-        with open(file_path, "r") as file:
+        with open(file_path, "r", encoding="utf-8") as file:
             file_text = file.read()
             combined_text += file_text
 
