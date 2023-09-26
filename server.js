@@ -16,15 +16,7 @@ import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import * as fs from "fs";
 
-// const loader = new DirectoryLoader("Media", {
-//   ".txt": (path) => new TextLoader(path),
-// });
-
-// const text = await loader.load();
-
-// console.log(text);
-
-const text = fs.readFileSync("Media/CombinedText.txt", "utf8");
+const text = fs.readFileSync("Burnaby Media/Burnaby Text.txt", "utf8");
 const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1000 });
 const docs = await textSplitter.createDocuments([text]);
 
@@ -33,14 +25,14 @@ const vectorStorage = await HNSWLib.fromDocuments(docs, new OpenAIEmbeddings());
 const vectorRetriever = vectorStorage.asRetriever();
 
 const llm = new OpenAI({
-  temperature: 0,
+  temperature: 0.5,
 });
 
 const chain = RetrievalQAChain.fromLLM(llm, vectorRetriever);
 
 const res = await chain.call({
-  query: "Tell me about size and shape limitations of modular buildings",
+  query:
+    "What sort of rental revenue can i expect from renting a 1000 square foot laneway site in a lower value area, can you provide some samples based on general assumptions",
 });
 
 console.log(res);
-// pipe for loop?

@@ -1,0 +1,1862 @@
+Housing choices program:
+financial analysis for laneway units and suites in
+semis
+26 september 2022
+prepared for:
+city of burnaby
+by:
+housing choices program: financial analysis for laneway units and suites in semis
+page i
+table of contents
+1.0 introduction........................................................................................................... 1
+1.1 background...........................................................................................................................1
+1.2 professional disclaimer.......................................................................................................1
+2.0 concepts and scenarios analyzed ..................................................................... 3
+2.1 laneway homes ...................................................................................................................3
+2.2 secondary suites in semi-detached units........................................................................4
+3.0 laneway housing analysis.................................................................................. 5
+3.1 approach...............................................................................................................................5
+3.1.1 approach to rental laneway housing analysis....................................................5
+3.1.2 approach to strata laneway housing analysis.....................................................5
+3.2 key assumptions .................................................................................................................6
+3.3 summary of laneway home findings ...............................................................................7
+3.3.1 rental laneway unit analysis ...............................................................................7
+3.3.2 strata laneway housing analysis .......................................................................10
+3.4 experience in other municipalities...................................................................................13
+3.5 key findings of laneway analysis ..................................................................................14
+4.0 evaluation of secondary suites in semi-detached homes ............................ 15
+4.1 approach.............................................................................................................................15
+4.2 key assumptions ...............................................................................................................15
+4.3 findings...............................................................................................................................16
+4.4 implications.........................................................................................................................16
+5.0 conclusions ........................................................................................................ 17
+6.0 attachments........................................................................................................ 19
+6.1 assumptions for laneway financial analysis ................................................................19
+6.1.1 revenue assumptions for financial analysis......................................................19
+6.1.1.1 strata laneway revenue assumptions............................................... 19
+6.1.1.2 rental laneway revenue assumptions .............................................. 20
+6.1.2 cost assumptions for laneway financial analysis .............................................20
+housing choices program: financial analysis for laneway units and suites in semis
+page ii
+6.1.3 impact of reduction in lot size on value of remainder of single family lot ....21
+6.2 detailed laneway financial analysis...............................................................................22
+6.3 summary proformas for laneway scenarios..................................................................31
+housing choices program: financial analysis for laneway units and suites in semis
+page 1
+1.0 introduction
+1.1 background
+the city of burnabys housing choices program is a multi-phased program to introduce missing middle
+housing types to burnabys single and two family neighbourhoods. Missing middle housing can include
+ground-oriented forms of housing such as laneway homes, duplexes, houseplexes, townhouses and lowrise
+apartment buildings. These infill housing forms can often be introduced into existing single family
+neighbourhoods without impacts on neighbourhood character and can provide a variety of significant benefits,
+including housing options that are more affordable than new single detached houses, the potential for rental
+units, options for existing neighbourhood residents to downsize (freeing up existing housing stock), more
+efficient use of land and infrastructure, reduction in energy use, improved public realm, and more walkable
+urban areas.
+The first phase of burnabys program focuses on laneway homes and secondary suites in semi-detached
+homes (suites in semis):
+ laneway homes are smaller homes built in the backyard of a main house, facing the lane. Laneway
+homes can provide additional space for families or serve as a new source of rental housing while also
+providing income for the homeowner.
+ Suites in semis are secondary suites in semi-detached (duplex) homes. A semi-detached home could
+potentially have two secondary suites, one in each unit. Secondary suites will not be allowed in stacked
+duplexes.
+A key driver for this program is to increase rental housing and to help address housing affordability by creating
+new more affordable housing options. Therefore, where possible, the program is intended to include
+measures to support rental housing and minimize any upward pressure on existing property values.
+As input to this planning program, the city of burnaby retained coriolis consulting corp. To
+1. Analyze the likely financial performance of constructing new laneway units in existing single family zoning
+districts in burnaby.
+2. Analyze the likely financial performance of constructing suites in semis in existing duplex zoning districts
+in burnaby.
+3. Determine whether laneway homes on single family lots and suites in semis are likely financially viable
+for construction by builders and/or home owners.
+4. Evaluate whether these new forms of missing middle housing will likely have impacts on existing property
+values in single family and duplex locations in burnaby.
+5. Evaluate the financial ability of each type of housing to provide amenity contributions or incorporate below
+market housing.
+This report provides a summary of our analysis and identifies the key findings and implications.
+1.2 professional disclaimer
+this document may contain estimates and forecasts of future growth and urban development prospects,
+estimates of the financial performance of possible future urban development projects, opinions regarding the
+housing choices program: financial analysis for laneway units and suites in semis
+page 2
+likelihood of approval of development projects, and recommendations regarding development strategy or
+municipal policy. All such estimates, forecasts, opinions, and recommendations are based in part on forecasts
+and assumptions regarding population change, economic growth, policy, market conditions, development
+costs and other variables. The assumptions, estimates, forecasts, opinions, and recommendations are based
+on interpreting past trends, gauging current conditions, and making judgments about the future. As with all
+judgments concerning future trends and events, however, there is uncertainty and risk that conditions change
+or unanticipated circumstances occur such that actual events turn out differently than as anticipated in this
+document, which is intended to be used as a reasonable indicator of potential outcomes rather than as a
+precise prediction of future events.
+Nothing contained in this report, express or implied, shall confer rights or remedies upon, or create any
+contractual relationship with, or cause of action in favor of, any third party relying upon this document.
+In no event shall coriolis consulting corp. Be liable to the city of burnaby or any third party for any indirect,
+incidental, special, or consequential damages whatsoever, including lost revenues or profits.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 3
+2.0 concepts and scenarios analyzed
+2.1 laneway homes
+the city completed architectural testing for different laneway home concepts on a variety of different lot sizes.
+The concepts considered different design approaches, including single level homes, multi-level homes and
+homes with basements. For this analysis, the city asked us to analyze four different assumed laneway home
+sizes on different lot sizes ranging from about 4,000 square feet up to about 10,700 square feet. The assumed
+laneway home size increase as the lot size increases.
+Because market values (rents and sales prices) vary by location, we examined these concepts in different
+neighbourhoods to model the potential financial impact of differing market values by location. So, in total we
+analyzed seven different case studies that varied by lot size, laneway home size and location, including:
+ case study 1 is a 650 square foot laneway home on a 4,359 square foot lot in the 5000 block of norfolk
+street. This represents a lower value location for burnaby.
+ Case study 2 is a 650 square foot laneway home on a 4,026 square foot lot in the 4100 block of pandora
+street. This represents a higher value location for burnaby.
+ Case study 3 is a 1,000 square foot laneway home on a 5,550 square foot lot in the 6700 block of fulton
+avenue. This represents a lower value location for burnaby.
+ Case study 4 is a 1,000 square foot laneway home on a 6,100 square foot lot in the 4000 block of trinity
+street. This represents a higher value location for burnaby.
+ Case study 5 is a 1,200 square foot laneway home on an 8,052 square foot lot in the 9200 block of 10th
+avenue. This represents a lower value location for burnaby.
+ Case study 6 is a 1,200 square foot laneway home on a 7,500 square foot lot in the 7200 block of braeside
+drive. This represents a higher value location for burnaby.
+ Case study 7 is a 1,400 square foot laneway home on a 10,737 square foot lot in the 7500 block of
+colleen street. This represents a higher value location for burnaby.
+For each of the seven case studies, we analyzed four different scenarios:
+ scenario 1 assumes that the new laneway unit is a market rental unit and is built as an infill unit without
+any changes to the existing single family home on the lot (infill scenario).
+ Scenario 2 assumes that the new laneway unit is a market rental unit and it is built as part of the
+redevelopment of the entire lot (i. E. A new single family home and laneway unit are built simultaneously).
+ Scenario 3 assumes that the new laneway unit is a market strata (ownership) unit and is built as an infill
+unit without any changes to the existing single family home on the lot (infill scenario).
+ Scenario 4 assumes that the new laneway unit is a market strata (ownership) unit and it is built as part
+of the redevelopment of the entire lot (i. E. A new single family home and laneway unit are built
+simultaneously).
+Therefore, we analyzed 28 different laneway unit scenarios in total.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 4
+2.2 secondary suites in semi-detached units
+for our analysis of secondary suites in semi-detached or duplex projects, we analyzed two different
+scenarios1
+that varied based on the assumed size of the secondary suite:
+ a scenario that assumes a smaller 600 square foot 1 bedroom secondary suite in a new duplex unit.
+ A scenario that assumes a larger 900 square foot 2 bedroom secondary suite in a new duplex unit.
+1 our analysis focuses on building a suite as part of a new semi-detached project. The financial performance of building a new suite
+inside an existing semi-detached unit would vary from property to property depending on a variety of factors such as the age of the
+existing building, the extent to which code upgrades are required, and the existing design/layout of the unit.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 5
+3.0 laneway housing analysis
+3.1 approach
+our analysis is designed to test the incremental costs and revenues associated with building a new laneway
+unit. So our financial analysis excludes the revenues and costs associated with the new single detached
+home (and secondary suite) which is already permitted under current zoning.
+The cost of creating the laneway unit, achievable sales prices, and achievable rents are based on market
+conditions as of mid-2022.
+3.1.1 approach to rental laneway housing analysis
+for the rental laneway housing scenarios, we completed the following steps:
+1. Estimated the likely total costs of creating the new laneway unit (municipal fees, demolition, site prep,
+servicing, hard costs, landscaping, professional fees, soft costs, financing, gst, and other project
+costs).
+2. Estimated the achievable monthly market rent for the new unit.
+3. Estimated the net annual income that would be generated by the new unit (rent less operating costs
+and property taxes).
+4. Compared the annual net income with the total estimated cost to determine the annual yield (return on
+costs). We would expect an annual yield of about 4.5% to 5.0% to be the minimum required from an
+investment perspective for this type and scale of project.
+5. Estimated the potential additional lot value created by the new laneway housing opportunity, assuming
+a builder would accept a profit in the range of 10% to 15% of total costs.
+6. Compared the monthly mortgage payment that would be required to finance the entire laneway cost
+(under current mortgage rates) with the likely net monthly income.
+3.1.2 approach to strata laneway housing analysis
+for the strata laneway housing scenarios, we completed the following steps:
+1. Estimated the likely total cost of creating the new laneway unit.
+2. Estimated the market value for the new unit.
+3. Evaluated the impact of the reduced lot size on the market value of the remainder of the single family
+lot (even though permitted floorspace for the new single family home does not decline, the smaller lot
+size will negatively impact the single family house and lot value).
+4. Estimated the profit margin on total costs (including the reduced lot value of the remaining lot).
+5. Estimated the potential additional lot value created by the new strata laneway housing opportunity,
+assuming a builder would accept a profit in the range of 10% to 15% of total costs.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 6
+3.2 key assumptions
+attachment 6.0 summarizes the detailed financial assumptions used in our analysis. Other key assumptions
+used for both the rental and strata laneway housing analysis are as follows:
+1. The analysis assumes that the city changes the zoning of properties in advance (pre-zone) so that
+builders are not required to rezone.
+2. The floorspace for new laneway unit does not reduce the permitted floorspace for the main single family
+home. The laneway unit floorspace is additional permitted density on the site.
+3. A secondary suite would also still be permitted in the main single family home.
+4. Municipal connection fees would apply to the new laneway unit if built as an infill unit. However, these
+are allocated to the new single family home in scenarios that involve full redevelopment of the lot.
+5. Municipal dccs are not required as there are fewer than four units on the lot2
+.
+6. Burnaby would not require any significant off-site servicing or infrastructure upgrades to create the new
+laneway unit.
+7. The laneway unit is treated as a market priced unit. No affordable units are included in the analysis.
+8. No amenity contributions are required from the builder.
+2
+if the city elects to implement a dcc for laneway homes, it would likely have a minor negative impact on the findings of our analysis
+as it would account for a small share of overall project costs.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 7
+3.3 summary of laneway home findings
+our detailed financial analysis for the rental laneway scenarios is included in attachment 6.0. This section
+summarizes the findings.
+We divided the results of our financial analysis into two parts:
+ rental laneway unit scenarios.
+ Strata (ownership) laneway unit scenarios.
+3.3.1 rental laneway unit analysis
+this section includes exhibits that summarize the findings of our rental laneway housing analysis. The exhibits
+include:
+ a brief description of the scenario.
+ The location of the lot.
+ The existing zoning district.
+ The lot size (in square feet).
+ The assumed laneway unit size (in square feet).
+ The estimated achievable monthly market rent for the new unit.
+ The total estimated cost to create the new laneway unit. This varies between the infill scenarios and the
+redevelopment scenarios. It is less expensive to construct a new laneway unit as part of the full
+redevelopment of the lot where a new single family home is already being constructed than to construct
+a new laneway unit while retaining the existing single family home.
+ The estimated net annual income that could be generated to the owner by the new laneway unit. The net
+income is the gross rent less the operating costs and property taxes associated with the new unit (we
+also included a modest allowance for vacancy in this calculation).
+ The estimated annual yield to the owner from the laneway unit. This is the net income divided by the total
+costs associated with creating the new unit. A yield of at least 4.5% to 5.0% is likely required to make it
+attractive to create a new unit from an investment perspective. It is possible this will not be sufficient for
+many homeowners as the owner of the single family home will lose the use of their back yard to the
+laneway unit so some homeowners may require a higher profit to be interested.
+ The potential land value created by the new laneway unit (this is in addition to the existing value of the
+property under current use and zoning). This is the market value of the future income stream from the
+unit less the costs to create the unit less an allowance for a profit to cover the time and risks associated
+with the project. We considered two different profit scenarios for this estimate. A lower profit scenario of
+10% on total project costs and a higher profit scenario of 15% on total project costs.
+ A comparison of the mortgage payment associated with financing 100% of the laneway unit creation cost
+with the net monthly income from the new unit. This shows whether or not the cost of the new unit could
+be fully financed through the potential rent, helping facilitate new construction.
+ Whether or not the scenario is likely financially attractive for builders or homeowners.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 8
+exhibit 1 summarizes our financial analysis for rental laneway housing scenarios that assume the existing
+house is retained and a new laneway unit is added (infill scenarios).
+Exhibit 1: summary of infill rental laneway housing analysis
+scenario 1 2 3 4 5 6 7
+description
+small lot in
+a lower
+value area
+small lot in
+a higher
+value area
+mid sized
+lot in a
+lower value
+area
+mid sized
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot in
+a higher
+value area
+larger lot in
+a higher
+value area
+block/address
+5000 block
+of norfolk
+street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block
+of colleen
+street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+assumed monthly rent $2,125 $2,225 $2,850 $3,000 $3,000 $3,150 $3,500
+total laneway unit
+costs $603,973 $604,016 $699,984 $700,053 $737,712 $737,781 $838,354
+net operating income $20,873 $22,049 $28,860 $30,466 $30,513 $32,087 $36,045
+annual yield on costs 3.5% 3.7% 4.1% 4.4% 4.1% 4.3% 4.3%
+supportable
+land value
+10%
+profit zero zero zero zero zero zero zero
+15%
+profit zero zero zero zero zero zero zero
+estimated monthly
+mortgage $3,014 $3,014 $3,493 $3,493 $3,681 $3,682 $4,183
+estimated monthly net
+income $1,739 $1,837 $2,405 $2,539 $2,543 $2,674 $3,004
+net position after debt
+service -$1,274 -$1,177 -$1,088 -$955 -$1,138 -$1,008 -$1,180
+financially attractive possibly possibly possibly possibly possibly possibly possibly
+housing choices program: financial analysis for laneway units and suites in semis
+page 9
+exhibit 2 summarizes our financial analysis for rental laneway housing scenarios that assume a new single
+family home is built at the same time as the new laneway unit (redevelopment scenarios).
+Exhibit 2: summary of rental laneway housing analysis as part of lot redevelopment
+1 2 3 4 5 6 7
+description
+small lot in
+a lower
+value area
+small lot in
+a higher
+value area
+mid sized
+lot in a
+lower value
+area
+mid sized
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot in
+a higher
+value area
+larger lot in
+a higher
+value area
+block/address
+5000 block
+of norfolk
+street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block
+of colleen
+street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+assumed monthly rent $2,125 $2,225 $2,850 $3,000 $3,000 $3,150 $3,500
+total laneway unit costs $500,135 $500,178 $572,773 $572,841 $634,412 $634,481 $726,983
+net operating income $20,873 $22,049 $28,860 $30,466 $30,513 $32,087 $36,045
+annual yield on costs 4.2% 4.4% 5.0% 5.3% 4.8% 5.1% 5.0%
+supportable
+land value
+10%
+profit zero zero $4,504 $36,702 zero $12,727 $287
+15%
+profit zero zero zero $11,411 zero zero zero
+estimated monthly
+mortgage $2,496 $2,496 $2,858 $2,859 $3,166 $3,166 $3,628
+estimated monthly net
+income $1,739 $1,837 $2,405 $2,539 $2,543 $2,674 $3,004
+net position after debt
+service -$756 -$659 -$453 -$320 -$623 -$492 -$624
+financially attractive possibly possibly yes yes yes yes yes
+the key findings of the rental laneway housing analysis are:
+1. Depending on the size of the laneway unit, the total costs of creating a new laneway unit (construction,
+soft costs, municipal fees, gst, other costs) will be about:
+ $600,000 to $840,000 if the existing home is retained (about 65% of this is hard construction costs).
+ $500,000 to $725,000 if a new home is built at the same time as the laneway unit (about 70% of this
+is hard construction costs).
+2. Current achievable monthly rents are likely in the range of $2,125 to $3,500 per month depending on unit
+size and the number of bedrooms.
+3. Building a new infill laneway unit is likely to generate a relatively low profit. Therefore, this type of laneway
+housing opportunity will likely be primarily of interest to homeowners who are interested in creating
+housing to accommodate family rather than homeowners interested in an income producing investment
+opportunity.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 10
+4. Building a new laneway unit along with a new single family home performs significantly better than an
+infill laneway unit due to reduced costs for the laneway unit if part of a full lot redevelopment3
+. This option
+is likely financially attractive from an investment perspective in many of the scenarios we analyzed.
+5. From an investment perspective, rental laneway units of roughly 1,000 square feet are likely more
+attractive than units which are significantly smaller or larger.
+6. Rental laneway units are unlikely to create any significant upward pressure on existing single family lot
+values.
+7. Given that the profitability of building a rental laneway unit is low:
+ market rents are likely required in order to make laneway housing development financially attractive
+to most homeowners and builders. Laneway unit development is unlikely to be financially viable if
+rents are required to be set below market rent.
+ Rental laneway units do not have the financial ability to support any significant contributions toward
+community amenities.
+It is important to note that construction costs in metro vancouver have increased at a relatively rapid pace
+during 2021 and 2022. Based on available data and discussions with developers, costs have likely increased
+by at least 15% to 20% over the past year or so. It is possible that some of the cost pressures are due to
+factors that may be temporary (such as materials cost which can increase or decrease over time).
+Therefore, we completed some sensitivity analysis to test the impact of lower construction costs on our
+findings. Based on our analysis, even if costs declined by about 10% from current levels (which is likely
+optimistic), the key findings of our financial analysis would not change.
+3.3.2 strata laneway housing analysis
+details about our financial analysis for the strata laneway housing scenarios are included in attachment 6.0.
+This section includes exhibits that summarize the findings of the strata laneway housing scenarios. The
+exhibits include:
+ a brief description of the scenario.
+ The location of the lot.
+ The existing zoning district.
+ The lot size (in square feet).
+ The assumed laneway unit size (in square feet).
+ The total estimated cost to create the new laneway unit. This varies between the infill scenarios and the
+redevelopment scenarios. It is less expensive to construct a new laneway unit as part of the full
+redevelopment of the lot where a new single family home is already being constructed than to construct
+a new laneway unit while retaining the existing single family home.
+ The potential negative impact on the value of the remainder of the single family lot due to the reduction
+in lot size. The single family home size will not be reduced, but the yard space and parking area will be
+reduced due to the introduction of the new laneway unit (which will be sold off to the laneway owner).
+This reduced lot size will negatively affect the value of the remaining single family lot and home.
+3 there are construction cost efficiencies associated with building a larger project and some project costs such as connection fees
+and servicing could be allocated to the main single family house rather than the laneway unit.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 11
+ the estimated market value of the new laneway unit if sold as a strata unit.
+ The profit margin to the builder of the new laneway unit. This is the sales value of the unit less the creation
+cost less the impact on the remaining single family lot value. Typically a builder would target a minimum
+profit margin in the range of 10% to 15% for this type of project. Some builders would require an even
+higher profit margin in order to proceed.
+ The potential land value created by the new strata laneway unit (this is in addition to the existing value of
+the property under current use and zoning). This is the market value of the unit less the costs to create
+the unit, less the impact on the existing single family lot value less an allowance for a profit to cover the
+time and risks associated with the project.
+ Whether or not the scenario is likely financially attractive for builders or homeowners.
+Exhibit 3 summarizes our financial analysis for the strata laneway scenarios that assume the existing house
+is retained and a new laneway unit is added (infill scenarios).
+Exhibit 3: summary of infill strata laneway analysis
+1 2 3 4 5 6 7
+description
+small lot in
+a lower
+value area
+small lot in a
+higher value
+area
+mid sized
+lot in a
+lower
+value area
+mid sized
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot in
+a higher
+value area
+larger lot in a
+higher value
+area
+block/address
+5000 block
+of norfolk
+street
+4100 block of
+pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block of
+colleen street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+total laneway costs $602,124 $603,456 $702,475 $704,472 $743,269 $745,666 $802,662
+impact on remaining
+lot value $82,750 $102,750 $92,994 $117,700 $79,294 $108,813 $115,931
+strata laneway unit
+value $730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+profit on costs 7% 10% 35% 40% 53% 58% 60%
+supportable
+land value
+10%
+profit zero $2,795 $170,458 $209,802 $304,287 $351,622 $394,284
+15%
+profit zero zero $130,181 $166,715 $257,078 $301,041 $339,207
+financially attractive possibly yes yes yes yes yes yes
+housing choices program: financial analysis for laneway units and suites in semis
+page 12
+exhibit 4 summarizes our financial analysis for strata laneway scenarios that assume a new single family
+home is built at the same time as the new laneway unit (redevelopment scenarios).
+Exhibit 4: summary of strata laneway analysis as part of lot redevelopment
+1 2 3 4 5 6 7
+description
+small lot in a
+lower value
+area
+small lot in
+a higher
+value area
+mid sized
+lot in a
+lower value
+area
+mid sized
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot in
+a higher
+value area
+larger lot in a
+higher value
+area
+block/address 5000 block of
+norfolk street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block of
+colleen street
+location
+douglas
+road/ central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+total laneway costs $503,231 $504,562 $581,321 $583,319 $644,888 $647,285 $697,393
+impact on remaining
+lot value $82,750 $102,750 $92,994 $117,700 $79,294 $108,813 $115,931
+strata laneway unit
+value $730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+profit on costs 25% 28% 59% 64% 74% 79% 81%
+supportable
+land value
+10%
+profit $71,666 $94,496 $285,377 $324,721 $397,605 $444,940 $494,137
+15%
+profit $44,315 $65,323 $245,100 $281,634 $350,396 $394,359 $439,060
+financially attractive yes yes yes yes yes yes yes
+the key findings of the strata laneway analysis are:
+1. Depending on the size of the laneway unit, the total costs of creating a new laneway unit (demolition, site
+prep, construction, soft costs, municipal fees, financing, other costs) will be about:
+ $600,000 to $800,000 if the existing home is retained.
+ $500,000 to $700,000 if a new home is built at the same time as the laneway unit.
+2. Market values for strata laneway units are likely in the range of $730,000 to $1,470,000 depending on
+unit size.
+3. Building a new strata laneway unit will likely generate significantly profits, even after accounting for the
+impact on the value of the main single family lot and house.
+4. Building a new strata laneway unit along with a new single family home performs better than an infill
+laneway unit.
+5. If permitted, strata laneway units will likely create significant upward pressure on existing single family lot
+values. The scenarios that we analyzed indicate that lot values could increase by between $40,000 and
+$490,000 depending on the location, lot size and permitted size of the strata laneway unit.
+6. Given that the profitability of building a strata laneway unit is relatively high:
+ strata laneway development would likely be financially attractive if sales prices were restricted to a
+below market price (affordable home ownership). However:
+housing choices program: financial analysis for laneway units and suites in semis
+page 13
+a) the supportable price discount will vary widely depending on the size of the unit and the location
+of the property so it will be difficult to apply uniform discount across the entire city.
+B) it would be difficult to determine market price if all strata laneway units are sold at below market
+prices which would make it difficult to establish the discount to apply to the unit.
+C) it would require the creation of an affordable ownership program and ongoing administration and
+monitoring by city staff.
+ Strata laneway units have the financial ability to support significant contributions toward community
+amenities. However:
+a) the supportable contribution will vary depending on the size of the unit and the location of the
+property so it will be difficult to establish a uniform contribution across the entire city that is viable
+for laneway projects. For example, the potential value ranges from $40,000 to $490,000 for the
+scenarios we analyzed.
+B) amenity contributions are collected upfront by municipalities as part of the approvals process for
+a new project. Many single family homeowners may not be able to provide a significant amenity
+contribution until after the strata unit is built and sold. Therefore, this would be an obstacle for
+homeowners to create new infill strata laneway units. Most interest would likely need to come
+from builders who are redeveloping the entire lot and are already financing a larger project.
+3.4 experience in other municipalities
+strata laneway units (or other types of detached infill strata units) are not common in metro vancouver. When
+permitted, strata infill units typically occur in very specific circumstances, such as part of an agreement to
+upgrade and retain a heritage home (to provide a financial incentive to retain the existing heritage home).
+However, a number of municipalities in metro vancouver permit rental laneway homes, including the city of
+vancouver, the city of north vancouver, the district of north vancouver, new westminster, coquitlam and
+others. Outside of vancouver (and the city of north vancouver), the rate of rental laneway construction has
+been relatively slow.
+We completed a high level review of the rate of rental laneway construction in vancouver, the rents being
+achieved, and the impact on single family lot prices. Based on our review:
+1. Laneway homes have been permitted in vancouver since late 2009. Since then, there has been a
+significant amount of rental laneway construction in all neighbourhoods in the city of vancouver. Our
+understanding is about 4500 laneway units have been built to date.
+2. Vancouver does not regulate the rents in the laneway units. Rents are set at market. This is consistent
+with the other metro vancouver municipalities that permit laneway homes.
+3. Rental laneway builders in vancouver (and other municipalities) are not required to provide amenity
+contributions or density bonus contributions as part of the approval process.
+4. The opportunity to build rental laneway homes has not had an upward influence on single family lot
+values. Although lot values in vancouver have increased materially since laneway homes were first
+introduced, the increase has been due to other market factors:
+ we compared the sales prices of newer single family homes in vancouver that include a laneway
+home with newer single family homes that do not include a laneway home. After adjusting for house
+size, lot size, location and timing, the sales data indicates that the inclusion of a laneway home
+increases the overall market value of the property. However, the increase is not greater than the cost
+housing choices program: financial analysis for laneway units and suites in semis
+page 14
+of creating the laneway home. So this indicates that rental laneway homes in vancouver are not
+adding to lot value.
+ Single family home prices in vancouver have actually increased at a slower rate in the city of
+vancouver than the rest of the lower mainland since laneway homes were first permitted in
+vancouver in 2009 (based on data from the real estate board of greater vancouver as of july 2022).
+If laneway homes added to lot value, then we would have expected the rate of price growth to have
+been higher in vancouver than the rest of the lower mainland.
+3.5 key findings of laneway analysis
+the key findings of our laneway analysis can be summarized as follows:
+1. Under current market conditions, the profitability associated with constructing a new rental laneway unit
+in burnaby will likely be modest. Based on our analysis:
+ infill rental laneway units (retaining the existing house on the lot) will likely achieve a low profit for
+the homeowner. This opportunity will likely be primarily of interest to homeowners who are
+interested in creating housing to accommodate family rather than homeowners interested in an
+income producing investment opportunity.
+ Building a new laneway unit along with a new single family home performs significantly better from
+a financial perspective than an infill laneway due to reduced creation costs for the laneway unit
+when it is part of a full lot redevelopment. This option is financially attractive from an investment
+perspective and we would expect builders to be interested.
+ From an investment perspective, rental laneway units of roughly 1,000 square feet are likely more
+attractive than units which are significantly smaller or larger.
+2. Allowing rental laneway units is unlikely to have any material impact on the value of single family lots.
+3. Given that the profitability of building a rental laneway unit is low:
+ market rents are likely required in order to make laneway development financially attractive to most
+homeowners and builders. Laneway development is unlikely to be viable if rents are required to be
+set below market rent.
+ Rental laneway units do not have the financial ability to support any significant contributions toward
+community amenities.
+4. Strata laneway units would be very profitable and attractive from a financial perspective. If permitted,
+we would expect interest from homeowners and builders in this option.
+5. Allowing strata laneway units would likely create significant upward pressure on single family lot values
+unless the city:
+ requires a significant amenity contribution as part of the approval for a strata laneway unit.
+However, the supportable contribution will vary widely depending on the size of the unit and the
+location of the property. In addition, many single family homeowners may not be able to provide a
+significant amenity contribution until after the strata unit is built and sold which would create an
+obstacle to creating new units.
+ Requires the new unit to be sold at a below market price. The supportable price discount will vary
+depending on the size of the unit and the location of the property. This approach would require the
+creation of an affordable home ownership program as well as ongoing administration and
+monitoring by city staff. In addition, it will be difficult to determine market price if all strata laneway
+units are required to be sold at below market prices.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 15
+4.0 evaluation of secondary suites in semi-detached
+homes
+this section summarizes our evaluation of allowing secondary suites in semi-detached and duplex homes.
+4.1 approach
+our analysis tests the incremental costs and revenues associated with building a new secondary suite in a
+semi-detached (duplex) unit. So our financial evaluation excludes the revenues and costs associated with
+building the new duplex which is already permitted under current zoning.
+The cost of creating the secondary suite and achievable rents are based on market conditions as of mid2022.
+We completed the following steps:
+1. Estimated the likely total costs of creating the secondary suite.
+2. Estimated the achievable monthly market rent for the new unit.
+3. Estimated the net annual income that would be generated by the new unit (rent less operating costs
+and property taxes).
+4. Compared the monthly mortgage payment that would be required to finance the entire secondary suite
+cost (under current mortgage rates) with the likely net monthly income.
+5. Compared the actual sales prices of new(er) duplex units with secondary suites and new(er) duplex
+units without secondary suites in other municipalities (vancouver and city of north vancouver) to
+determine if suites increase the price of new duplex units.
+6. Identified the implications of secondary suites on:
+ duplex unit sales prices.
+ Duplex lot values.
+ The ability of builders to provide below market rents or an amenity contribution.
+4.2 key assumptions
+the key assumptions for the secondary suite analysis are as follows:
+1. The analysis assumes that the city changes the zoning of properties in advance (prezone) so that
+builders are not required to rezone.
+2. The secondary suites range from 600 square feet to 900 square feet (within duplex units ranging in size
+from about 1200 square feet to 2000 square feet).
+3. The floorspace for new secondary suite comes from the density currently permitted for a duplex
+building. The city does not increase the permitted floorspace on the lot.
+4. The secondary suite is treated as a market priced unit. No affordable units are included in the analysis.
+Rents are assumed to range from $1,700 to $1,800 per month for 600 square foot units and $2,400 to
+$2,600 per month for 900 square foot units (based on market rents for new(er) secondary suites in
+burnaby).
+5. Total costs to create the suite as part of a new semi-detached unit range from $60,000 to $80,000
+(based on input from builders who are active in burnaby and vancouver).
+Housing choices program: financial analysis for laneway units and suites in semis
+page 16
+6. The costs associated with creating the suite are financed through a mortgage at a rate of 3.5%4
+(the
+lowest discounted 5 year variable rate available as of august 2022).
+7. No amenity contributions are required.
+4.3 findings
+our analysis indicates that the achievable net operating income for a new secondary suite in burnaby will
+significantly exceed the mortgage payments required to finance the full incremental cost of the suite.
+Depending on the scenario analyzed, the estimated net monthly income from the suite exceeds the estimated
+monthly mortgage payments (at current interest rates) by between $1,100 and $1,900 per month. This
+indicates that it is financially attractive to create a secondary suite in a new duplex unit and purchasers of
+duplex units could use the income from the suite to help finance part of the overall duplex purchase price.
+However, based on actual sales evidence, the potential net income from a secondary suite is unlikely to result
+in a significant increase in the sales price of the duplex unit. We examined 258 recent sales of newer duplex
+units in the city of vancouver and the city of north vancouver, where suites are permitted in duplex units.
+Of these sales, about 108 included suites and about 150 did not include a suite.
+After adjusting for location, time of sale and unit size, the sales evidence show that there is no material
+difference in the sales price of duplex units with suites and duplex units without suites. In some cases the unit
+with a suite sold at a slightly higher price, which makes sense given that there are extra costs to create the
+suite. However, in other cases, there was no evidence that the suite increased the sales price.
+Duplex units with a suite do not sell for a materially higher price because the purchaser of the unit only has
+the use of a portion of the overall unit. So the benefit of the income stream from the suite is offset by the
+reduced living area for the owner of the duplex.
+4.4 implications
+our evaluation indicates that permitting rental suites in semi-detached and duplex units will:
+1. Help encourage the creation of new rental housing stock in burnaby.
+2. Create a potential income stream that prospective duplex purchasers can use to help them finance a
+portion of the duplex purchase price. This will likely help some prospective purchasers fund a duplex
+purchase who would not currently be able to afford the duplex.
+3. Not lead to any significant increase in duplex sales prices or increased duplex lot values.
+4 mortgage rates are currently rising so it is possible that rates will be higher going forward than assumed in our analysis. Higher
+borrowing costs will increase the overall cost of creating a new secondary suite if the costs are financed. However, increased rates
+will only have a small cost on the overall cost of creating a new secondary suite so higher rates would not change the key findings of
+our analysis.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 17
+5.0 conclusions
+the key findings of our analysis can be summarized as follows:
+1. Allowing laneway units and secondary suites in semi-detached units will increase the rental housing stock
+in burnaby and the housing choices for burnaby residents.
+2. Under current market conditions, the profitability associated with constructing a new rental laneway unit
+in burnaby will likely be modest. Based on our analysis:
+ infill rental laneway units (retaining the existing house on the lot) will likely achieve a low profit for
+the homeowner. This opportunity will likely be primarily of interest to homeowners who want to
+accommodate family members rather than homeowners interested in an income producing
+investment opportunity.
+ Building a new laneway unit along with a new single family home performs significantly better from
+a financial perspective than an infill laneway unit due to reduced creation costs for the laneway unit
+when it is part of a full lot redevelopment. This option is financially attractive from an investment
+perspective and we would expect builders and homeowners to be interested.
+ From an investment perspective, rental laneway units of roughly 1,000 square feet are likely more
+attractive than significantly smaller or larger units.
+3. Allowing rental laneway units is unlikely to have any material impact on the value of single family lots.
+4. Given that the estimated profitability of building a rental laneway unit is relatively low:
+ market rents are likely required in order to make laneway development financially attractive to most
+homeowners and builders. Laneway development is unlikely to be viable if rents are required to be
+set below market rent.
+ Rental laneway units do not have the financial ability to support any significant contributions toward
+community amenities.
+5. Strata laneway units would be very profitable and attractive from a financial perspective. If permitted,
+we would expect interest from homeowners and builders in this option.
+6. Allowing strata laneway units would likely create significantly upward pressure on single family lot
+values unless the city:
+ requires a significant amenity contribution as part of the approval for a strata laneway unit.
+However, the supportable contribution will vary widely depending on the size of the unit and the
+location of the property. In addition, many single family homeowners may not be able to provide a
+significant amenity contribution until after the strata unit is built and sold which would create an
+obstacle to creating new units.
+ Requires the new unit to be sold at a below market price. The supportable price discount will vary
+depending on the size of the unit and the location of the property. This approach would require the
+creation of an affordable home ownership program as well as ongoing administration and
+monitoring by city staff. In addition, it will be difficult to determine market price if all strata laneway
+units are required to be sold at below market prices.
+7. Allowing rental suites in semi-detached units will:
+ help encourage the creation of new rental housing stock in burnaby.
+ Create a potential income stream that prospective duplex purchasers can use to help them finance
+a portion of the duplex purchase price. This will likely help some prospective purchasers who would
+not currently be able to afford a duplex.
+ Not lead to any significant increase in duplex sales prices or increased duplex lot values.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 18
+8. Rental laneway units and secondary suites are not well suited to provide below market rental units.
+ Our financial analysis indicates that market rents are likely required in order to make laneway
+development financially attractive to most homeowners and builders. Laneway development is
+unlikely to be viable if rents are required to be set below market rent.
+ Many laneway units and secondary suites will likely be occupied by family or relatives of the
+property owner, not rented out.
+ Requiring below market rents would create ongoing administration and monitoring by city staff,
+even though there would only be one potential below market unit per property.
+9. The greatest opportunity for affordable housing is through higher density apartment rezonings. It is
+possible that other forms of missing middle housing (such as townhouse projects or lowrise apartments)
+will create better opportunities for below market units (rental or affordable home ownership). However,
+this will depend on the density that the city considers appropriate for these types of missing middle
+projects. The higher the permitted density, the greater the opportunity to support a below market
+component.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 19
+6.0 attachments
+this section includes the following attachments:
+ the key financial assumptions used in our laneway financial analysis.
+ The detailed proformas for the four scenarios analyzed for one of the case study sites. We have not
+included the detailed proformas for all 28 different scenarios at the seven sites that we analyzed.
+However, the proformas attached for this one case study site are illustrative of all of the proformas.
+ Summary proformas for all 28 laneway scenarios that we analyzed.
+6.1 assumptions for laneway financial analysis
+the key financial assumptions used in our proforma analysis are based on detailed market research that we
+completed mid 2022. The assumptions are summarized below.
+6.1.1 revenue assumptions for financial analysis
+6.1.1.1 strata laneway revenue assumptions
+there is limited sales evidence for sales of stratified laneway units because they are only allowed in a few
+municipalities in metro vancouver. To determine the likely sales prices that are achievable for the strata
+laneway scenarios, we considered different indicators:
+ we examined the sales price (per square foot) of new duplex, townhouse and apartment units in burnaby
+by neighbourhood.
+ We analyzed sales prices for new(er) detached infill units allowed under the heritage retention program
+in vancouver. We compared these strata infill unit sales in vancouver to sales of new(er) nearby
+townhouse and duplex sales in vancouver to determine how detached strata unit values compare toe
+attached unit values. We then used this comparison to adjust sales of new townhouse and duplex units
+in burnaby to estimate the achievable burnaby laneway values. The estimated strata laneway unit sales
+prices vary based on neighbourhood and size of the unit. Larger units sell at a higher total price point,
+but the sales price per square foot declines as units increase in size.
+The units in the scenarios that we tested range from 650 square feet to 1,400 square feet. Based on our
+market research, we would expect laneway strata units in this size range in burnaby to sell between about
+$730,000 and $1,470,000, or between about $1,050 and $1,200 per square foot.
+Exhibit 5 summarizes the strata revenue assumptions for each case study site.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 20
+exhibit 5: sales prices by case study site
+site number 1 2 3 4 5 6 7
+description
+small lot in a
+lower value
+area
+small lot in a
+higher value
+area
+medium lot
+in a lower
+value area
+medium lot
+in a higher
+value area
+large lot in a
+lower value
+area
+large lot in a
+higher value
+area
+larger lot in
+a higher
+value area
+laneway size
+(sf) 650 650 1,000 1,000 1,200 1,200 1,400
+assumed
+strata laneway
+sales price
+$730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+assumed sales
+price psf $1,123 $1,200 $1,075 $1,150 $1,050 $1,125 $1,050
+6.1.1.2 rental laneway revenue assumptions
+to determine the likely achievable rents for the rental laneway scenarios, we examined different indicators:
+ we reviewed the market rents for new townhouse and apartment units in burnaby by unit size and
+neighbourhood.
+ We examined rents for new(er) laneway houses in east vancouver and the city of north vancouver
+which both have a large inventory of rental laneway units and are in close proximity to burnaby.
+The units in the scenarios that we tested range from 650 square feet to 1,400 square feet. Based on our
+market research, we would expect units in this size range to rent for between $2,125 and $3,500 per month.
+Exhibit 6 summarizes the rental revenue assumptions for each scenario.
+Exhibit 6: rental rates by case study site
+site number 1 2 3 4 5 6 7
+description
+small lot in a
+lower value
+area
+small lot in a
+higher value
+area
+medium lot
+in a lower
+value area
+medium lot
+in a higher
+value area
+large lot in a
+lower value
+area
+large lot in a
+higher value
+area
+larger lot in
+a higher
+value area
+laneway size
+(sf) 650 650 1,000 1,000 1,200 1,200 1,400
+assumed
+achievable
+monthly rent
+$2,125 $2,225 $2,850 $3,000 $3,000 $3,150 $3,500
+to estimate the completed value of the rental laneway unit, we capitalized the annual net operating income
+at 4.5% to estimate the value of the unit to an investor.
+6.1.2 cost assumptions for laneway financial analysis
+as input to the financial analysis we interviewed multiple builders with extensive experience building new
+laneway homes in metro vancouver about the typical costs (under current conditions) to build new laneway
+homes. We were also provided detailed budgets from some builders for actual laneway projects that are
+underway in vancouver. Based on the information provided by laneway home builders, our analysis makes
+the following assumptions about costs:
+1. For the infill scenarios, hard construction costs are assumed to range from $400 to $575 per square foot
+of gross floorspace depending on the unit size. Costs for smaller units are at the high end of this range
+while costs for larger units are at the lower end of this range. The analysis assumes that hard costs for
+housing choices program: financial analysis for laneway units and suites in semis
+page 21
+laneway homes built simultaneously to a new main single family house are about $25 to $50 lower per
+square foot than these figures (depending on unit size).
+2. A $50,000 allowance for site work (such as demolition of a garage, recycling, trenching for required
+services, excavation) is included. This will vary from lot to lot.
+3. Sewer, water and storm connections are assumed to cost $33,600 based on estimates provided by city
+of burnaby staff. Connection fees are assumed to be covered by the new main house when the laneway
+is built concurrently.
+4. A landscaping and fencing allowance of $20,000 is included for the infill laneway and $10,000 if built
+along with a new home.
+5. Sales commissions on the strata units are assumed to be 7% on the first $100,000 and 2.5% on the
+balance (typical mls fees).
+6. Project management, contingency, professional fees and other soft costs (permits, engineering, design,
+legal, survey, appraisal, accounting, insurance, deficiencies, and other professional fees) range from 15%
+to 19% of hard costs.
+7. Development cost charges are not required as there are fewer than four units on the lot.
+8. Property taxes are based on existing tax rates.
+9. A new home warranty fee is included at $3,610 for the strata laneway units, but not the rental units.
+10. Gst is calculated at 5% of the rental laneway creation cost.
+11. Financing is charged on 75% of costs at 3.5% per year5
+. This is currently the lowest discounted 5 year
+variable mortgage rate available. In addition, a 1.5% financing fee is included.
+12. Property transfer tax on the estimated increased land value supported by the laneway unit is calculated
+using the existing property transfer tax rates.
+6.1.3 impact of reduction in lot size on value of remainder of single
+family lot
+the value of a single family lot is comprised partly of the rights to build a single family house and partly of the
+yard and lot area that the homeowner enjoys.
+For the strata laneway scenarios, a portion of the property will be sold to the strata unit buyer. This will reduce
+the lot size that remains for the main single family home which should negatively affect the value of the lot
+and home. However, the impact on value will be mitigated because the size of the permitted single family
+home will not be reduced. Effectively, the main single family home will be permitted to be the same size, but
+it will come with reduced outdoor area.
+5 mortgage rates are currently rising so it is possible that rates will be higher going forward than assumed in our analysis. Higher
+borrowing costs will increase the overall cost of creating a new laneway unit if the costs are financed. However, increased rates will
+only have a small cost on the overall cost of creating a new unit, so higher rates would not change the key findings of our analysis.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 22
+it is challenging to isolate the value of the lot and yard area versus the development rights associated with a
+single family home. We do not think it is reasonable to assume that 100% of the value of a lot is attributable
+to the development rights, because buyers of lots do tend to use yard space for outdoor amenities (patios,
+lawns) or parking. So some of the value is created by the outdoor area at the lot.
+To determine the split in value between the lot area and the house size, the ideal approach would be to
+examine differences in sales prices for a set of properties with the same house size but different lot sizes. By
+deducting the cost of house construction, one could estimate the extra land value attributed to the ability to
+build a larger house. However, almost all new single family houses in burnaby are built to the maximum
+allowable size for the lot so this type of sales evidence (similar sized new houses on different lot sizes) is not
+available.
+Our analysis assumes (and we acknowledge that this is approximate) that the impact of the reduced lot area
+is equal to about 25% of the value of land (with 75% going the development rights associated with the house).
+We also think it is reasonable to assume that that the strata laneway uses about 25% of the existing lot. To
+illustrate the impact on the value of the remaining single family lot, we use case study 4 (an old single family
+home on a medium sized lot in a higher value area) as an example.
+The property is 6,100 square feet, zoned r3 and currently assessed at $1,885,000 (mostly land value). The
+simple way to account for the impact is to estimate the reduced value of the property as a 4,575 square foot
+lot (25% smaller). However this would overstate the impact because the existing homeowner maintains their
+existing development rights. The development rights for the laneway are allowed on top of the existing single
+family density.
+For case study 4, using our approach, the impact can be calculated as $309 per square foot of site area
+multiplied by 25% (value of outdoor space) multiplied by the site area lost to the laneway (1,525 square feet)
+equals about $118,000 of impact. As the location and lot sizes of the case study sites differ the impact also
+varies across case study sites.
+6.2 detailed laneway financial analysis
+our analysis included 28 different proformas so we have not included all of the detailed proformas in this
+report. However, to illustrate the approach to the analysis, this section includes the detailed proformas for
+case study site 4. It includes four proforma scenarios for site 4.
+ Scenario 1 assumes that the new laneway unit is a market rental unit and it is built as an infill unit without
+any changes to the existing single family home on the lot.
+ Scenario 2 assumes that the new laneway unit is a market rental unit and it is built as part of the
+redevelopment of the entire lot (i. E. A new single family home and laneway unit are built simultaneously).
+ Scenario 3 assumes that the new laneway unit is a market strata (ownership) unit and it is built as an infill
+unit without any changes to the existing single family home on the lot.
+ Scenario 4 assumes that the new laneway unit is a market strata (ownership) unit and it is built as part
+of the redevelopment of the entire lot (i. E. A new single family home and laneway unit are built
+simultaneously).
+Each proforma includes two pages. The first page includes the assumptions and the second includes the
+detailed calculations.
+Housing choices program: financial analysis for laneway units and suites in semis
+page 23
+exhibit 7: scenario 1  infill rental laneway
+major assumptions (shading indicates figures that are inputs; unshaded cells are formulas)
+concept
+site size 6,100 sq. Ft.
+Additional density allowed for laneway house 0.16 far
+laneway house floorspace 1,000 sq. Ft.
+Surface parking stalls 1 stalls
+share of existing lot dedicated to laneway house 25% or 1,525 sq. Ft.
+Laneway house revenue
+assumed laneway house value $675,000 or $675 per sq. Ft.
+Pre-construction costs
+rezoning application fee $0
+construction costs
+site work $50,000
+connection fees (water, sewer, storm) $33,600
+landscaping $20,000
+hard cost used in analysis $455
+soft costs 5.0% of hard costs, site prep/servicing costs
+project management 5.0% of hard costs, site prep/servicing costs, soft costs, marketing
+contingency on hard and soft costs 5.0% of hard and soft costs
+local government levies
+gvrd water and liquid waste levy $0 per unit
+translink dccs $0 per unit
+burnaby residential dccs $0 per unit
+financing assumptions
+financing rate on construction costs 3.5% on 50% of costs, assuming a 1.00 year construction period
+and a total loan of 100% on costs
+financing fees 1.5% of financed costruction costs
+commissions
+commissions/sales costs 0.0% of gross residential revenue
+property taxes, gst and other fees
+new home warranty fees $0 per unit
+net gst on rental unit 5.0% of creation costs
+tax rate 0.317% of assessed value
+assumed assessment during construction $337,500 (50% of completed project value)
+housing choices program: financial analysis for laneway units and suites in semis
+page 24
+analysis
+revenue
+laneway house completed value $675,000
+less commissions and sales costs $0
+net sales revenue $675,000
+project costs
+rezoning application fee $0
+site work $50,000
+connection fees (water, sewer, storm) $33,600
+landscaping $20,000
+hard construction costs $455,000
+soft costs $26,930
+project management $28,277
+contingency on hard and soft costs $30,690
+gvrd water and liquid waste levy $0
+translink dccs $0
+burnaby residential dccs $0
+less property tax allowance during development $1,070
+new home warranty fees $0
+construction financing $11,297
+financing fees/costs $9,853
+less net gst $33,336
+total project costs before land related $700,053
+profit analysis
+profit -$25,053
+profit on costs -4%
+rental analysis
+annual yield on costs 4.4%
+interest rate 3.5%
+effective monthly rate 0.3%
+amortization 25 years
+estimated monthly mortgage payment required to finance laneway creation $3,493
+estimated monthly noi $2,539
+difference in monthly mortgage payment and monthly noi -$955
+land residual analysis (higher profit)
+allowance for developer's profit 15.0% of total costs, or 13.0% of gross revenue
+allowance for developer's profit $88,020
+residual to land and land carry -$113,073
+less financing on land during construction $0
+less financing fee on land loan $0
+less property closing costs $0
+residual land value -$113,073
+residual value per sq. Ft. Buildable (fsr) -$113
+residual value per sq. Ft. Of site area -$19
+land residual analysis (lower profit)
+allowance for developer's profit 10.0% of total costs, or 9.1% of gross revenue
+allowance for developer's profit $61,358
+residual to land and land carry -$86,410
+less financing on land during construction $0
+less financing fee on land loan $0
+less property closing costs $0
+residual land value -$86,410
+residual value per sq. Ft. Buildable (fsr) -$86
+residual value per sq. Ft. Of site area -$14
+housing choices program: financial analysis for laneway units and suites in semis
+page 25
+exhibit 8: scenario 2  rental laneway as part of full lot redevelopment
+major assumptions (shading indicates figures that are inputs; unshaded cells are formulas)
+concept
+site size 6,100 sq. Ft.
+Additional density allowed for laneway house 0.16 far
+laneway house floorspace 1,000 sq. Ft.
+Surface parking stalls 1 stalls
+share of existing lot dedicated to laneway house 25% or 1,525 sq. Ft.
+Laneway house revenue
+assumed laneway house value $675,000 or $675 per sq. Ft.
+Pre-construction costs
+rezoning application fee $0
+construction costs
+site work $50,000
+connection fees (water, sewer, storm) $0
+landscaping $10,000
+hard cost used in analysis $405
+soft costs 5.0% of hard costs, site prep/servicing costs
+project management 3.0% of hard costs, site prep/servicing costs, soft costs, marketing
+contingency on hard and soft costs 5.0% of hard and soft costs
+local government levies
+gvrd water and liquid waste levy $0 per unit
+translink dccs $0 per unit
+burnaby residential dccs $0 per unit
+financing assumptions
+financing rate on construction costs 3.5% on 50% of costs, assuming a 1.00 year construction period
+and a total loan of 100% on costs
+financing fees 1.5% of financed costruction costs
+commissions
+commissions/sales costs 0.0% of gross residential revenue
+property taxes, gst and other fees
+new home warranty fees $0 per unit
+net gst on rental unit 5.0% of creation costs
+tax rate 0.317% of assessed value
+assumed assessment during construction $337,500 (50% of completed project value)
+housing choices program: financial analysis for laneway units and suites in semis
+page 26
+analysis
+revenue
+laneway house completed value $675,000
+less commissions and sales costs $0
+net sales revenue $675,000
+project costs
+rezoning application fee $0
+site work $50,000
+connection fees (water, sewer, storm) $0
+landscaping $10,000
+hard construction costs $405,000
+soft costs $22,750
+project management $14,333
+contingency on hard and soft costs $25,104
+gvrd water and liquid waste levy $0
+translink dccs $0
+burnaby residential dccs $0
+less property tax allowance during development $1,070
+new home warranty fees $0
+construction financing $9,244
+financing fees/costs $8,063
+less net gst $27,278
+total project costs before land related $572,841
+profit analysis
+profit $102,159
+profit on costs 18%
+rental analysis
+annual yield on costs 5.3%
+interest rate 3.5%
+effective monthly rate 0.3%
+amortization 25 years
+estimated monthly mortgage payment required to finance laneway creation $2,859
+estimated monthly noi $2,539
+difference in monthly mortgage payment and monthly noi -$320
+land residual analysis (higher profit)
+allowance for developer's profit 15.0% of total costs, or 13.0% of gross revenue
+allowance for developer's profit $88,020
+residual to land and land carry $14,139
+less financing on land during construction $460
+less financing fee on land loan $7
+less property closing costs $2,260
+residual land value $11,411
+residual value per sq. Ft. Buildable (fsr) $11
+residual value per sq. Ft. Of site area $2
+land residual analysis (lower profit)
+allowance for developer's profit 10.0% of total costs, or 9.1% of gross revenue
+allowance for developer's profit $61,358
+residual to land and land carry $40,801
+less financing on land during construction $1,328
+less financing fee on land loan $20
+less property closing costs $2,752
+residual land value $36,702
+residual value per sq. Ft. Buildable (fsr) $37
+residual value per sq. Ft. Of site area $6
+housing choices program: financial analysis for laneway units and suites in semis
+page 27
+exhibit 9: scenario 3  infill strata laneway
+major assumptions (shading indicates figures that are inputs; unshaded cells are formulas)
+concept
+site size 6,100 sq. Ft.
+Additional density allowed for laneway house 0.16 far
+laneway house floorspace 1,000 sq. Ft.
+Surface parking stalls 1 stalls
+share of existing lot dedicated to laneway house 25% or 1,525 sq. Ft.
+Laneway house revenue
+assumed laneway house sales price $1,150,000 or $1,150 per sq. Ft.
+Pre-construction costs
+rezoning application fee $0
+construction costs
+site work $50,000
+connection fees (water, sewer, storm) $33,600
+landscaping $20,000
+hard cost used in analysis $455
+soft costs 5.0% of hard costs, site prep/servicing costs
+project management 5.0% of hard costs, site prep/servicing costs, soft costs, marketing
+contingency on hard and soft costs 5.0% of hard and soft costs
+local government levies
+gvrd water and liquid waste levy $0 per unit
+translink dccs $0 per unit
+burnaby residential dccs $0 per unit
+financing assumptions
+financing rate on construction costs 3.5% on 50% of costs, assuming a 1.00 year construction period
+and a total loan of 100% on costs
+financing fees 1.5% of financed costruction costs
+commissions
+commissions/sales costs 2.9% of gross residential revenue
+property taxes, gst and other fees
+new home warranty fees $3,610 per unit
+net gst on rental unit 0.0% of creation costs
+tax rate 0.317% of assessed value
+assumed assessment during construction $575,000 (50% of completed project value)
+housing choices program: financial analysis for laneway units and suites in semis
+page 28
+analysis
+revenue
+laneway house completed value $1,150,000
+less commissions and sales costs $33,250
+net sales revenue $1,116,750
+project costs
+rezoning application fee $0
+site work $50,000
+connection fees (water, sewer, storm) $33,600
+landscaping $20,000
+hard construction costs $455,000
+soft costs $26,930
+project management $28,277
+contingency on hard and soft costs $30,690
+gvrd water and liquid waste levy $0
+translink dccs $0
+burnaby residential dccs $0
+less property tax allowance during development $1,822
+new home warranty fees $3,610
+construction financing $11,374
+financing fees/costs $9,920
+less net gst $0
+total project costs before land related $671,222
+profit analysis
+profit $445,528
+profit on costs 63%
+allowance for impact on value of remainder of lot $117,700
+profit after allowing for impact on remainder of lot $327,828
+profit on costs after allowing for impact on remainder of lot 40%
+land residual analysis (higher profit)
+allowance for developer's profit 15.0% of total costs, or 13.0% of gross revenue
+allowance for developer's profit $149,960
+allowance for impact on value of remainder of lot $117,700
+residual to land and land carry $177,868
+less financing on land during construction $5,790
+less financing fee on land loan $87
+less property closing costs $5,276
+residual land value $166,715
+residual value per sq. Ft. Buildable (fsr) $167
+residual value per sq. Ft. Of site area $27
+land residual analysis (lower profit)
+allowance for developer's profit 10.0% of total costs, or 9.1% of gross revenue
+allowance for developer's profit $104,535
+allowance for impact on value of remainder of lot $117,700
+residual to land and land carry $223,293
+less financing on land during construction $7,268
+less financing fee on land loan $109
+less property closing costs $6,113
+residual land value $209,802
+residual value per sq. Ft. Buildable (fsr) $210
+residual value per sq. Ft. Of site area $34
+housing choices program: financial analysis for laneway units and suites in semis
+page 29
+exhibit 10: scenario 4  strata laneway as part of full lot redevelopment
+major assumptions (shading indicates figures that are inputs; unshaded cells are formulas)
+concept
+site size 6,100 sq. Ft.
+Additional density allowed for laneway house 0.16 far
+laneway house floorspace 1,000 sq. Ft.
+Surface parking stalls 1 stalls
+share of existing lot dedicated to laneway house 25% or 1,525 sq. Ft.
+Laneway house revenue
+assumed laneway house sales price $1,150,000 or $1,150 per sq. Ft.
+Pre-construction costs
+rezoning application fee $0
+construction costs
+site work $50,000
+connection fees (water, sewer, storm) $0
+landscaping $10,000
+hard cost used in analysis $405
+soft costs 5.0% of hard costs, site prep/servicing costs
+project management 3.0% of hard costs, site prep/servicing costs, soft costs, marketing
+contingency on hard and soft costs 5.0% of hard and soft costs
+local government levies
+gvrd water and liquid waste levy $0 per unit
+translink dccs $0 per unit
+burnaby residential dccs $0 per unit
+financing assumptions
+financing rate on construction costs 3.5% on 50% of costs, assuming a 1.00 year construction period
+and a total loan of 100% on costs
+financing fees 1.5% of financed costruction costs
+commissions
+commissions/sales costs 2.9% of gross residential revenue
+property taxes, gst and other fees
+new home warranty fees $3,610 per unit
+net gst on rental unit 0.0% of creation costs
+tax rate 0.317% of assessed value
+assumed assessment during construction $575,000 (50% of completed project value)
+housing choices program: financial analysis for laneway units and suites in semis
+page 30
+analysis
+revenue
+laneway house completed value $1,150,000
+less commissions and sales costs $33,250
+net sales revenue $1,116,750
+project costs
+rezoning application fee $0
+site work $50,000
+connection fees (water, sewer, storm) $0
+landscaping $10,000
+hard construction costs $405,000
+soft costs $22,750
+project management $14,333
+contingency on hard and soft costs $25,104
+gvrd water and liquid waste levy $0
+translink dccs $0
+burnaby residential dccs $0
+less property tax allowance during development $1,822
+new home warranty fees $3,610
+construction financing $9,321
+financing fees/costs $8,129
+less net gst $0
+total project costs before land related $550,069
+profit analysis
+profit $566,681
+profit on costs 97%
+allowance for impact on value of remainder of lot $117,700
+profit after allowing for impact on remainder of lot $448,981
+profit on costs after allowing for impact on remainder of lot 64%
+land residual analysis (higher profit)
+allowance for developer's profit 15.0% of total costs, or 13.0% of gross revenue
+allowance for developer's profit $149,960
+allowance for impact on value of remainder of lot $117,700
+residual to land and land carry $299,021
+less financing on land during construction $9,733
+less financing fee on land loan $146
+less property closing costs $7,508
+residual land value $281,634
+residual value per sq. Ft. Buildable (fsr) $282
+residual value per sq. Ft. Of site area $46
+land residual analysis (lower profit)
+allowance for developer's profit 10.0% of total costs, or 9.1% of gross revenue
+allowance for developer's profit $104,535
+allowance for impact on value of remainder of lot $117,700
+residual to land and land carry $344,446
+less financing on land during construction $11,212
+less financing fee on land loan $169
+less property closing costs $8,345
+residual land value $324,721
+residual value per sq. Ft. Buildable (fsr) $325
+residual value per sq. Ft. Of site area $53
+housing choices program: financial analysis for laneway units and suites in semis
+page 31
+6.3 summary proformas for laneway scenarios
+this section includes summary proformas for each of the 28 laneway scenarios that we analyzed, organized
+into the following groups:
+ scenario 1 assumes that the new laneway unit is a market rental unit and is built as an infill unit without
+any changes to the existing single family home on the lot.
+ Scenario 2 assumes that the new laneway unit is a market rental unit and it is built as part of the
+redevelopment of the entire lot (i. E. A new single family home and laneway unit are built simultaneously).
+ Scenario 3 assumes that the new laneway unit is a market strata (ownership) unit and is built as an infill
+unit without any changes to the existing single family home on the lot.
+ Scenario 4 assumes that the new laneway unit is a market strata (ownership) unit and it is built as part
+of the redevelopment of the entire lot (i. E. A new single family home and laneway unit are built
+simultaneously).
+Housing choices program: financial analysis for laneway units and suites in semis
+page 32
+exhibit 11: summary proformas for scenario 1  infill rental laneway
+1 2 3 4 5 6 7
+description
+small lot in
+a lower
+value area
+small lot in
+a higher
+value area
+medium
+lot in a
+lower
+value area
+medium
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot
+in a higher
+value area
+larger lot in
+a higher
+value area
+block/address
+5000 block
+of norfolk
+street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block
+of colleen
+street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+assumed monthly rent $2,125 $2,225 $2,850 $3,000 $3,000 $3,150 $3,500
+yield analysis
+annual revenue $25,500 $26,700 $34,200 $36,000 $36,000 $37,800 $42,000
+less annual operating costs $4,117 $4,117 $4,656 $4,814 $4,767 $4,957 $5,115
+less allowance for vacancy $510 $534 $684 $720 $720 $756 $840
+annual net operating
+income $20,873 $22,049 $28,860 $30,466 $30,513 $32,087 $36,045
+hard construction costs $378,750 $378,750 $455,000 $455,000 $485,000 $485,000 $565,000
+other project costs $225,223 $225,266 $244,984 $245,053 $252,712 $252,781 $273,354
+total project costs $603,973 $604,016 $699,984 $700,053 $737,712 $737,781 $838,354
+calculated yield on costs 3.5% 3.7% 4.1% 4.4% 4.1% 4.3% 4.3%
+land residual
+analysis
+capitalized value of rental
+income $465,000 $490,000 $635,000 $675,000 $675,000 $715,000 $800,000
+less hard construction costs $378,750 $378,750 $455,000 $455,000 $485,000 $485,000 $565,000
+less other project costs $225,223 $225,266 $244,984 $245,053 $252,712 $252,781 $273,354
+less allowance for
+developers profit
+10%
+profit $42,269 $44,541 $57,722 $61,358 $61,358 $64,994 $72,720
+15%
+profit $60,636 $63,896 $82,804 $88,020 $88,020 $93,236 $104,320
+less allowance for
+land related costs
+10%
+profit $0 $0 $0 $0 $0 $0 $0
+15%
+profit $0 $0 $0 $0 $0 $0 $0
+potential
+supportable land
+value
+10%
+profit $0 $0 $0 $0 $0 $0 $0
+15%
+profit $0 $0 $0 $0 $0 $0 $0
+housing choices program: financial analysis for laneway units and suites in semis
+page 33
+exhibit 12: summary proformas for scenario 2  rental laneway as part of full lot redevelopment
+1 2 3 4 5 6 7
+description
+small lot in
+a lower
+value area
+small lot in
+a higher
+value area
+medium
+lot in a
+lower
+value area
+medium
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot
+in a higher
+value area
+larger lot in
+a higher
+value area
+block/address
+5000 block
+of norfolk
+street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block
+of colleen
+street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+assumed monthly rent $2,125 $2,225 $2,850 $3,000 $3,000 $3,150 $3,500
+yield analysis
+annual revenue $25,500 $26,700 $34,200 $36,000 $36,000 $37,800 $42,000
+less annual operating costs $4,117 $4,117 $4,656 $4,814 $4,767 $4,957 $5,115
+less allowance for vacancy $510 $534 $684 $720 $720 $756 $840
+annual net operating income $20,873 $22,049 $28,860 $30,466 $30,513 $32,087 $36,045
+hard construction costs $346,250 $346,250 $405,000 $405,000 $455,000 $455,000 $530,000
+other project costs $153,885 $153,928 $167,773 $167,841 $179,412 $179,481 $196,983
+total project costs $500,135 $500,178 $572,773 $572,841 $634,412 $634,481 $726,983
+calculated yield on costs 4.2% 4.4% 5.0% 5.3% 4.8% 5.1% 5.0%
+land residual
+analysis
+capitalized value of rental
+income $465,000 $490,000 $635,000 $675,000 $675,000 $715,000 $800,000
+less hard construction costs $346,250 $346,250 $405,000 $405,000 $455,000 $455,000 $530,000
+less other project costs $153,885 $153,928 $167,773 $167,841 $179,412 $179,481 $196,983
+less allowance for
+developers profit
+10%
+profit $42,269 $44,541 $57,722 $61,358 $61,358 $64,994 $72,720
+15%
+profit $60,636 $63,896 $82,804 $88,020 $88,020 $93,236 $104,320
+less allowance for
+land related costs
+10%
+profit $0 $0 $2 $4,100 $0 $2,799 $10
+15%
+profit $0 $0 $0 $2,728 $0 $0 $0
+potential
+supportable land
+value
+10%
+profit $0 $0 $4,504 $36,702 $0 $12,727 $287
+15%
+profit $0 $0 $0 $11,411 $0 $0 $0
+housing choices program: financial analysis for laneway units and suites in semis
+page 34
+exhibit 13: summary proformas for scenario 3  infill strata laneway
+1 2 3 4 5 6 7
+description
+small lot in
+a lower
+value area
+small lot in
+a higher
+value area
+medium
+lot in a
+lower
+value area
+medium
+lot in a
+higher
+value area
+large lot in
+a lower
+value area
+large lot
+in a higher
+value area
+larger lot in
+a higher
+value area
+block/address
+5000 block
+of norfolk
+street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block
+of colleen
+street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+profit
+analysis
+unit value $730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+less commission $22,750 $24,000 $31,375 $33,250 $36,000 $38,250 $41,250
+less hard construction costs $378,750 $378,750 $455,000 $455,000 $485,000 $485,000 $530,000
+less other project costs $200,624 $200,706 $216,100 $216,222 $222,269 $222,416 $231,412
+less impact on remaining lot
+value $82,750 $102,750 $92,994 $117,700 $79,294 $108,813 $115,931
+calculated profit $45,126 $73,794 $279,532 $327,828 $437,437 $495,521 $551,406
+calculated profit on costs 7% 10% 35% 40% 53% 58% 60%
+land residual analysis
+unit value $730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+less commissions $22,750 $24,000 $31,375 $33,250 $36,000 $38,250 $41,250
+less hard construction costs $378,750 $378,750 $455,000 $455,000 $485,000 $485,000 $530,000
+less other project costs $200,624 $200,706 $216,100 $216,222 $222,269 $222,416 $231,412
+less impact on remaining lot
+value $82,750 $102,750 $92,994 $117,700 $79,294 $108,813 $115,931
+less allowance
+for developers
+profit
+10% profit $66,357 $70,902 $97,718 $104,535 $114,534 $122,715 $133,623
+15% profit $95,192 $101,712 $140,180 $149,960 $164,304 $176,040 $191,688
+less allowance
+for land
+related costs
+10% profit $0 $97 $11,356 $13,491 $18,617 $21,185 $23,499
+15% profit $0 $0 $9,171 $11,153 $16,055 $18,440 $20,511
+potential
+supportable
+land value
+10% profit zero $2,795 $170,458 $209,802 $304,287 $351,622 $394,284
+15% profit zero zero $130,181 $166,715 $257,078 $301,041 $339,207
+housing choices program: financial analysis for laneway units and suites in semis
+page 35
+exhibit 14: summary proformas for scenario 4  strata laneway as part of full lot redevelopment
+1 2 3 4 5 6 7
+description
+small lot
+in a lower
+value area
+small lot
+in a higher
+value area
+medium lot
+in a lower
+value area
+medium lot
+in a higher
+value area
+large lot in
+a lower
+value area
+large lot in
+a higher
+value area
+larger lot in
+a higher
+value area
+block/address
+5000 block
+of norfolk
+street
+4100 block
+of pandora
+street
+6700 block
+of fulton
+avenue
+4000 block
+of trinity
+street
+9200 block
+of 10th
+avenue
+7200 block
+of braeside
+drive
+7500 block of
+colleen
+street
+location
+douglas
+road/
+central
+burnaby
+burnaby
+heights
+highgate/
+edmonds
+burnaby
+heights
+cariboo/
+east
+burnaby
+westridge government
+road
+zoning district r12 r12 r3 r3 r2 r2 r1
+lot size (sf) 4,359 4,026 5,550 6,100 8,052 7,500 10,737
+laneway unit size (sf) 650 650 1,000 1,000 1,200 1,200 1,400
+profit analysis
+unit value $730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+less commission $22,750 $24,000 $31,375 $33,250 $36,000 $38,250 $41,250
+less hard construction costs $346,250 $346,250 $405,000 $405,000 $455,000 $455,000 $495,000
+less other project costs $134,231 $134,312 $144,946 $145,069 $153,888 $154,035 $161,143
+less impact on remaining
+lot value $82,750 $102,750 $92,994 $117,700 $79,294 $108,813 $115,931
+calculated profit $144,019 $172,688 $400,685 $448,981 $535,819 $593,903 $656,676
+calculated profit on costs 25% 28% 59% 64% 74% 79% 81%
+land residual analysis
+unit value $730,000 $780,000 $1,075,000 $1,150,000 $1,260,000 $1,350,000 $1,470,000
+less commissions $22,750 $24,000 $31,375 $33,250 $36,000 $38,250 $41,250
+less hard construction costs $346,250 $346,250 $405,000 $405,000 $455,000 $455,000 $495,000
+less other project costs $134,231 $134,312 $144,946 $145,069 $153,888 $154,035 $161,143
+less impact on remaining
+lot value $82,750 $102,750 $92,994 $117,700 $79,294 $108,813 $115,931
+less
+allowance for
+developers
+profit
+10% profit $66,357 $70,902 $97,718 $104,535 $114,534 $122,715 $133,623
+15% profit $95,192 $101,712 $140,180 $149,960 $164,304 $176,040 $191,688
+less
+allowance for
+land related
+costs
+10% profit $5,996 $7,290 $17,591 $19,725 $23,679 $26,247 $28,916
+15% profit $4,513 $5,652 $15,406 $17,388 $21,118 $23,503 $25,928
+potential
+supportable
+land value
+10% profit $71,666 $94,496 $285,377 $324,721 $397,605 $444,940 $494,137
+15% profit $44,315 $65,323 $245,100 $281,634 $350,396 $394,359 $439,060
