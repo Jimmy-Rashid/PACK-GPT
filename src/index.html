@@ -6,116 +6,112 @@
     <title>PACK GPT</title>
     <link href="/dist/output.css" rel="stylesheet" />
   </head>
-  <body>
-    <nav class="bg-packgreen-dark">
-      <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-        <div class="relative flex h-16 items-center justify-between">
-          <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
-            <!-- Mobile menu button-->
-            <button
-              type="button"
-              class="relative inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
-              aria-controls="mobile-menu"
-              aria-expanded="false"
-            >
-              <span class="absolute -inset-0.5"></span>
-              <span class="sr-only">Open main menu</span>
-              <!--
-                Icon when menu is closed.
-    
-                Menu open: "hidden", Menu closed: "block"
-              -->
-              <svg
-                class="block h-6 w-6"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke-width="1.5"
-                stroke="currentColor"
-                aria-hidden="true"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
-                />
-              </svg>
-              <!--
-                Icon when menu is open.
-    
-                Menu open: "block", Menu closed: "hidden"
-              -->
-              <svg
-                class="hidden h-6 w-6"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke-width="1.5"
-                stroke="currentColor"
-                aria-hidden="true"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  d="M6 18L18 6M6 6l12 12"
-                />
-              </svg>
-            </button>
-          </div>
+  <body class="overflow-hidden">
+    <nav class="relative z-10 bg-packgreen-dark">
+      <div class="mx-auto max-w-7xl px-3 lg:px-8">
+        <div class="relative flex h-16 items-center justify-between z-10">
           <div
-            class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start"
+            class="flex flex-1 items-center sm:items-stretch sm:justify-start"
           >
-            <div class="flex flex-shrink-0 items-center">
+            <div class="flex flex-shrink-0">
               <img
                 class="h-8 w-auto"
                 src="/Public/logo.png"
                 alt="PACK Buildings"
               />
             </div>
-            <div class="hidden sm:ml-6 sm:block">
-              <div class="flex space-x-4">
-                <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                <a
-                  href="#"
-                  class="text-white hover:bg-packgreen-light hover:text-packgreen-dark rounded-md px-3 py-2 text-sm font-medium"
-                  >Home</a
-                >
-              </div>
-            </div>
           </div>
           <div
             class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0"
           >
-          <!-- Add button for home href here -->
+            <div class="flex space-x-4">
+              <a
+                href="https://www.packbuildings.com"
+                class="text-white hover:bg-packgreen-light hover:text-packgreen-dark rounded-md px-3 py-2 text-sm font-medium"
+                >Home</a
+              >
+            </div>
           </div>
         </div>
       </div>
+    </nav>
 
-      <!-- Mobile menu, show/hide based on menu state. -->
-      <div class="sm:hidden" id="mobile-menu">
-        <div class="space-y-1 px-2 pb-3 pt-2">
-          <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-          <a
-            href="#"
-            class="bg-gray-900 text-white block rounded-md px-3 py-2 text-base font-medium"
-            aria-current="page"
-            >Dashboard</a
+    <!-- blur-3xl -->
+
+    <div class="relative isolate px-6 lg:px-8">
+      <div
+        class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+        aria-hidden="true"
+      >
+        <div
+          class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#507e71] to-[#9db9ad] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+          style="
+            clip-path: polygon(
+              9% 14%,
+              50% 38%,
+              86% 57%,
+              60% 86%,
+              10% 100%,
+              32% 74%,
+              13% 34%,
+              53% 54%,
+              45% 99%,
+              76% 31%,
+              97% 10%,
+              64% 9%
+            );
+          "
+        ></div>
+      </div>
+      <div class="mx-auto max-w-2xl sm:py-12 lg:py-32">
+        <div class="text-center">
+          <h1
+            class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl"
           >
-          <a
-            href="#"
-            class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium"
-            >Team</a
-          >
-          <a
-            href="#"
-            class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium"
-            >Projects</a
-          >
-          <a
-            href="#"
-            class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium"
-            >Calendar</a
-          >
+            PACK Buildings <br />
+            PACK GPT
+          </h1>
+          <p class="mt-6 text-lg leading-8 text-gray-600">
+            Enter a query about modular construction to get started!
+          </p>
+          <div class="mt-9 flex">
+            <input id="messageBox" name="message" type="message" autocomplete="message" required class="min-w-0 flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-packgreen-dark sm:text-sm sm:leading-6" placeholder="How large of a laneway home can I build on my property...">
+            <button type="submit" id="triggerButton" class="flex-none rounded-md bg-packgreen-dark px-5 text-sm font-semibold text-white shadow-sm hover:bg-packgreen-light focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-packgreen-dark">Ask</button>
+          </div>
+        </div>
+        <div id="slideUpModal" class="fixed bottom-0 left-0 right-0 bg-white p-4 transform translate-y-full transition-transform duration-300 ease-in-out">
+          <h1>
+            slide up ?!
+          </h1>
         </div>
       </div>
-    </nav>
+      <div
+        class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]"
+        aria-hidden="true"
+      >
+        <div
+          class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#507e71] to-[#9db9ad] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
+          style="
+            clip-path: polygon(
+              60% 24%,
+              100% 39%,
+              86% 57%,
+              94% 83%,
+              45% 91%,
+              5% 84%,
+              17% 75%,
+              29% 59%,
+              47% 64%,
+              55% 48%,
+              100% 19%,
+              84% 0
+            );
+          "
+        ></div>
+      </div>
+    </div>
   </body>
+
+  <script src="index.js"></script>
+
 </html>
