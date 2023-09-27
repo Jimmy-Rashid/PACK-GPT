@@ -16,5 +16,8 @@
     "hnswlib-node": "^1.4.2",
     "langchain": "^0.0.153",
     "openai": "^4.10.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
   }
 }
