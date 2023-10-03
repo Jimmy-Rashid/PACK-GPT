@@ -75,11 +75,88 @@
             Enter a query about modular construction to get started!
           </p>
           <div class="mt-9 flex">
-            <input id="messageBox" name="message" type="message" autocomplete="message" required class="min-w-0 flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-packgreen-dark sm:text-sm sm:leading-6" placeholder="How large of a laneway home can I build on my property...">
-            <button type="submit" id="triggerButton" class="flex-none rounded-md bg-packgreen-dark px-5 text-sm font-semibold text-white shadow-sm hover:bg-packgreen-light focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-packgreen-dark">Ask</button>
+            <input
+              id="messageBox"
+              name="message"
+              type="message"
+              autocomplete="message"
+              required
+              class="min-w-0 flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-packgreen-dark sm:text-sm sm:leading-6"
+              placeholder="How large of a laneway home can I build on my property..."
+            />
+            <button
+              type="submit"
+              id="triggerButton"
+              class="flex-none rounded-md bg-packgreen-dark px-5 text-sm font-semibold text-white shadow-sm hover:bg-packgreen-light focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-packgreen-dark"
+            >
+              Ask
+            </button>
           </div>
         </div>
-        <div id="slideUpModal" class="z-0 fixed top-28 bottom-0 left-14 right-14 bg-packgreen-light p-4 transform translate-y-full transition-transform duration-300 ease-in-out">
+        <div
+          id="slideUpModal"
+          class="fixed top-28 bottom-0 left-14 right-14 bg-packgreen-light p-4 transform translate-y-full transition-transform duration-300 ease-in-out"
+        >
+          <div class="bg-white h-full">
+            <div class="p-10">
+              <div class="right-0">
+                <button
+                  type="button"
+                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-packgreen-dark"
+                >
+                  <span class="sr-only">Close menu</span>
+                  <!-- Heroicon name: outline/x -->
+                  <svg
+                    class="h-6 w-6"
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    aria-hidden="true"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  </svg>
+                </button>
+              </div>
+              <div
+                class="grid grid-cols-5 gap-5 text-xl text-white"
+                style="
+                  overflow-wrap: break-word;
+                  word-wrap: break-word;
+                  -webkit-hyphens: auto;
+                  -ms-hyphens: auto;
+                  -moz-hyphens: auto;
+                  hyphens: auto;
+                "
+              >
+                <div
+                  class="p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl"
+                >
+                  Wow what a great question!
+                </div>
+                <div
+                  class="p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl"
+                >
+                  I know right?
+                </div>
+                <div
+                  class="p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl"
+                >
+                  Your free trial has expired.
+                </div>
+                <div
+                  class="p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl"
+                >
+                  Awww... that sucks...
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div
@@ -110,5 +187,4 @@
   </body>
 
   <script src="index.js"></script>
-
 </html>

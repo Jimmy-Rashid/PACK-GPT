@@ -21,12 +21,9 @@ import * as fs from "fs";
 
 // For Burnaby laneway housing guidelines
 const text = fs.readFileSync("Burnaby Media/Burnaby Text.txt", "utf8");
-
 const textSplitter = new RecursiveCharacterTextSplitter({ chunkSize: 1000 });
 const docs = await textSplitter.createDocuments([text]);
-
 const vectorStorage = await HNSWLib.fromDocuments(docs, new OpenAIEmbeddings());
-
 const vectorRetriever = vectorStorage.asRetriever();
 
 const llm = new OpenAI({
@@ -44,7 +41,9 @@ const res = await chain.call({
     // "Are laneway homes expensive?",
     // "Are laneway homes a good investement?",
     // "What is the general opinion about modular laneway homes?",
-    "how large is a module?",
+    "How long would it take me to get a building permit in Burnaby, BC?",
+
+    // Power apps, low coder
 });
 
 console.log(res);
