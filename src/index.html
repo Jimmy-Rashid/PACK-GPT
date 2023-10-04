@@ -80,7 +80,6 @@
               name="message"
               type="message"
               autocomplete="message"
-              required
               class="min-w-0 flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-packgreen-dark sm:text-sm sm:leading-6"
               placeholder="How large of a laneway home can I build on my property..."
             />
@@ -99,31 +98,7 @@
         >
           <div class="rounded-lg bg-white h-full">
             <div class="p-10">
-              <div class="right-0">
-                <button
-                  id="slideDownButton"
-                  type="button"
-                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-packgreen-dark"
-                >
-                  <span class="sr-only">Close menu</span>
-                  <!-- Heroicon name: outline/x -->
-                  <svg
-                    class="h-6 w-6"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                    stroke="currentColor"
-                    aria-hidden="true"
-                  >
-                    <path
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
-                      d="M6 18L18 6M6 6l12 12"
-                    />
-                  </svg>
-                </button>
-              </div>
+              <div class="right-0"></div>
               <div
                 class="grid grid-cols-5 gap-5 text-xl text-white"
                 style="
@@ -135,6 +110,12 @@
                   hyphens: auto;
                 "
               >
+                <!-- Bot message template: -->
+                <!-- class="p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl" -->
+
+                <!-- User Message template: -->
+                <!-- class="p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl" -->
+
                 <div
                   class="p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl"
                 >
@@ -155,6 +136,43 @@
                 >
                   Awww... that sucks...
                 </div>
+              </div>
+            </div>
+            <div class="absolute flex bottom-6">
+              <div class="col-auto ml-2">
+                <button
+                  id="slideDownButton"
+                  type="button"
+                  class="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none ring-gray-500 ring-1 focus:ring-2 focus:ring-inset focus:ring-packgreen-dark"
+                >
+                  <span class="">Restart</span>
+                  <!-- Heroicon name: outline/x -->
+                  <!-- <svg
+                  class="h-6 w-6"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  aria-hidden="true"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M6 18L18 6M6 6l12 12"
+                  />
+                </svg> -->
+                </button>
+              </div>
+              <div class="col-auto w-full mx-2">
+                <input
+                  id="responseBox"
+                  name="message"
+                  type="message"
+                  autocomplete="message"
+                  class="w-full rounded-md ring-gray-500 bg-white/5 px-3.5 py-2 shadow-sm ring-1 focus:outline-none focus:ring-packgreen-dark focus:ring-inset focus:ring-2 sm:text-sm sm:leading-6"
+                  placeholder=". . ."
+                />
               </div>
             </div>
           </div>

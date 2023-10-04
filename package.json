@@ -12,6 +12,7 @@
   "author": "Jimmy Rashid",
   "license": "ISC",
   "dependencies": {
+    "bottleneck": "^2.19.5",
     "dotenv": "^16.3.1",
     "hnswlib-node": "^1.4.2",
     "langchain": "^0.0.153",
