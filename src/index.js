@@ -3,8 +3,12 @@ const triggerButton = document.getElementById("triggerButton");
 const slideUpModal = document.getElementById("slideUpModal");
 const slideDownButton = document.getElementById("slideDownButton");
 
+let queryMessageBox = document.getElementById("queryMessageBox");
+
 triggerButton.addEventListener("click", () => {
-  localStorage.setItem("query", messageBox.value);
+  query = messageBox.value;
+
+  // localStorage.setItem("query", messageBox.value);
   // console.log(localStorage.getItem('query'));
 
   // For release / testing
@@ -20,8 +24,36 @@ triggerButton.addEventListener("click", () => {
   //   })();
 
   slideUpModal.classList.remove("translate-y-full");
+  queryMessageBox.innerHTML = query;
+  triggerBotResponse();
 });
 
+
+
+// The restart button
 slideDownButton.addEventListener("click", () => {
   slideUpModal.classList.add("translate-y-full");
+  setTimeout(() => {
+    clearResponse();
+  }, 300);
 });
+
+function triggerBotResponse() {
+  let botResponse = document.createElement("div");
+  botResponse.id = "botResponse";
+  botResponse.className =
+    "p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl";
+  let botResponseContent = document.createTextNode(
+    "This is a test response to a query"
+  );
+  botResponse.appendChild(botResponseContent);
+
+  queryMessageBox.insertAdjacentElement("afterend", botResponse);
+}
+
+async function clearResponse() {
+  let botResponse = document.getElementById("botResponse");
+  if (botResponse) {
+    botResponse.remove();
+  }
+}

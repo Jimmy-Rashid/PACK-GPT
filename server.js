@@ -1,3 +1,6 @@
+import express from "express";
+const app = express();
+
 import { config } from "dotenv";
 config();
 
@@ -16,6 +19,19 @@ import { OpenAIEmbeddings } from "langchain/embeddings/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import Bottleneck from "bottleneck";
 import * as fs from "fs";
+
+// Server Configuration
+
+const port = 3000;
+app.listen(port, () => console.log("Port:" + port));
+
+app.use(express.static("public"));
+app.use(express.json());
+
+app.get("/", (req, res) => {
+});
+
+// GPT Configuration
 
 const limiter = new Bottleneck({
   reservoir: 40,

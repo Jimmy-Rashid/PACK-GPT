@@ -97,7 +97,7 @@
           class="fixed rounded-lg top-28 bottom-0 left-14 right-14 bg-packgreen-light p-4 transform translate-y-full transition-transform duration-300 ease-in-out"
         >
           <div class="rounded-lg bg-white h-full">
-            <div class="p-10">
+            <div class="p-10" id="messageBoxParent">
               <div class="right-0"></div>
               <div
                 class="grid grid-cols-5 gap-5 text-xl text-white"
@@ -116,7 +116,10 @@
                 <!-- User Message template: -->
                 <!-- class="p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl" -->
 
-                <div
+                <!-- Example conversation -->
+                <!-- -------------------- -->
+
+                <!-- <div
                   class="p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl"
                 >
                   Wow what a great question!
@@ -135,6 +138,15 @@
                   class="p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl"
                 >
                   Awww... that sucks...
+                </div> -->
+
+                <!-- -------------------- -->
+
+                <div
+                  class="p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl"
+                  id="queryMessageBox"
+                >
+                  . . .
                 </div>
               </div>
             </div>
