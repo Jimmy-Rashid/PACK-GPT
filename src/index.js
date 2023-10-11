@@ -5,6 +5,7 @@ const slideUpModal = document.getElementById("slideUpModal");
 const slideDownButton = document.getElementById("slideDownButton");
 
 let queryMessageBox = document.getElementById("queryMessageBox");
+let n = 0;
 
 triggerButton.addEventListener("click", () => {
   query = messageBox.value;
@@ -26,13 +27,14 @@ triggerButton.addEventListener("click", () => {
 
   slideUpModal.classList.remove("translate-y-full");
   queryMessageBox.innerHTML = query;
-  triggerBotResponse();
+  triggerBotResponse(query, n);
 });
 
 responseBox.addEventListener("keypress", function (e) {
   if (e.key === "Enter") {
     response = responseBox.value;
-    sendHumanResponse(response);
+    sendHumanResponse(response, n);
+    n++;
   }
 });
 
@@ -44,33 +46,38 @@ slideDownButton.addEventListener("click", () => {
   }, 300);
 });
 
-function triggerBotResponse() {
+function triggerBotResponse(response, n) {
   let botResponse = document.createElement("div");
-  botResponse.id = "botResponse";
   botResponse.className =
     "p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl botResponse";
   let botResponseContent = document.createTextNode(
-    "This is a test response to a query"
+    "This is a test response to the query: " + response
   );
   botResponse.appendChild(botResponseContent);
 
-  queryMessageBox.insertAdjacentElement("afterend", botResponse);
+  try {
+    bottomHumanResponse = document.getElementsByClassName("humanResponse")[n];
+    bottomHumanResponse.insertAdjacentElement("afterend", botResponse);
+  } catch {
+    queryMessageBox.insertAdjacentElement("afterend", botResponse);
+  }
 }
 
-function sendHumanResponse(response) {
+function sendHumanResponse(response, n) {
   let humanResponse = document.createElement("div");
-  humanResponse.id = "humanResponse";
   humanResponse.className =
     "p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl humanResponse";
   let humanResponseContent = document.createTextNode(response);
   humanResponse.appendChild(humanResponseContent);
 
-  bottomBotResponse = document.getElementsByClassName("botResponse")[0];
+  bottomBotResponse = document.getElementsByClassName("botResponse")[n];
 
   bottomBotResponse.insertAdjacentElement("afterend", humanResponse);
+  triggerBotResponse(response, n);
+  responseBox.value = "";
 }
 
-async function clearResponse() {
+function clearResponse() {
   // let botResponse = document.getElementById("botResponse");
   // if (botResponse) {
   //   botResponse.remove();
