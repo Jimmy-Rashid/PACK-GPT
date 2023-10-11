@@ -7,24 +7,14 @@ const restartButton = document.getElementById("restartButton");
 let queryMessageBox = document.getElementById("queryMessageBox");
 let n = 0;
 
+messageBox.addEventListener("keypress", function (e) {
+  if (e.key === "Enter") {
+    queryCheck();
+  }
+});
+
 triggerButton.addEventListener("click", () => {
-  query = messageBox.value;
-
-  // For release / testing
-
-  //   (async () => {
-  //     if (messageBox.value.length >= 10) {
-  //       slideUpModal.classList.remove("translate-y-full");
-  //     } else if (messageBox.value.length > 0) {
-  //       alert("Please enter a more specific query!");
-  //     } else if (messageBox.value == "") {
-  //       alert("Please enter a query!");
-  //     }
-  //   })();
-
-  slideUpModal.classList.remove("translate-y-full");
-  queryMessageBox.innerHTML = query;
-  triggerBotResponse(query, n);
+  queryCheck();
 });
 
 responseBox.addEventListener("keypress", function (e) {
@@ -56,6 +46,26 @@ restartButton.addEventListener("click", () => {
     clearResponse();
   }, 300);
 });
+
+function queryCheck() {
+  query = messageBox.value;
+
+  // For release / testing
+
+  //   (async () => {
+  //     if (messageBox.value.length >= 10) {
+  //       slideUpModal.classList.remove("translate-y-full");
+  //     } else if (messageBox.value.length > 0) {
+  //       alert("Please enter a more specific query!");
+  //     } else if (messageBox.value == "") {
+  //       alert("Please enter a query!");
+  //     }
+  //   })();
+
+  slideUpModal.classList.remove("translate-y-full");
+  queryMessageBox.innerHTML = query;
+  triggerBotResponse(query, n);
+}
 
 function triggerBotResponse(response, n) {
   let botResponse = document.createElement("div");

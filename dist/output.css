@@ -628,6 +628,14 @@ video {
   grid-column-start: 3;
 }
 
+.row-auto {
+  grid-row: auto;
+}
+
+.row-span-full {
+  grid-row: 1 / -1;
+}
+
 .mx-2 {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
