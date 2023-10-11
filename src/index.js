@@ -2,16 +2,13 @@ const messageBox = document.getElementById("messageBox");
 const responseBox = document.getElementById("responseBox");
 const triggerButton = document.getElementById("triggerButton");
 const slideUpModal = document.getElementById("slideUpModal");
-const slideDownButton = document.getElementById("slideDownButton");
+const restartButton = document.getElementById("restartButton");
 
 let queryMessageBox = document.getElementById("queryMessageBox");
 let n = 0;
 
 triggerButton.addEventListener("click", () => {
   query = messageBox.value;
-
-  // localStorage.setItem("query", messageBox.value);
-  // console.log(localStorage.getItem('query'));
 
   // For release / testing
 
@@ -32,6 +29,20 @@ triggerButton.addEventListener("click", () => {
 
 responseBox.addEventListener("keypress", function (e) {
   if (e.key === "Enter") {
+    // For release / testing
+
+    // (async () => {
+    //   if (responseBox.value.length >= 10) {
+    //     response = responseBox.value;
+    //     sendHumanResponse(response, n);
+    //     n++;
+    //   } else if (responseBox.value.length > 0) {
+    //     alert("Please enter a more specific query!");
+    //   } else if (responseBox.value == "") {
+    //     alert("Please enter a query!");
+    //   }
+    // })();
+
     response = responseBox.value;
     sendHumanResponse(response, n);
     n++;
@@ -39,7 +50,7 @@ responseBox.addEventListener("keypress", function (e) {
 });
 
 // The restart button
-slideDownButton.addEventListener("click", () => {
+restartButton.addEventListener("click", () => {
   slideUpModal.classList.add("translate-y-full");
   setTimeout(() => {
     clearResponse();
@@ -71,17 +82,11 @@ function sendHumanResponse(response, n) {
   humanResponse.appendChild(humanResponseContent);
 
   bottomBotResponse = document.getElementsByClassName("botResponse")[n];
-
   bottomBotResponse.insertAdjacentElement("afterend", humanResponse);
   triggerBotResponse(response, n);
   responseBox.value = "";
 }
 
 function clearResponse() {
-  // let botResponse = document.getElementById("botResponse");
-  // if (botResponse) {
-  //   botResponse.remove();
-  // }
-
   location.reload();
 }
