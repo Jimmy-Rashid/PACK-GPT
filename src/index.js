@@ -1,4 +1,5 @@
 const messageBox = document.getElementById("messageBox");
+const responseBox = document.getElementById("responseBox");
 const triggerButton = document.getElementById("triggerButton");
 const slideUpModal = document.getElementById("slideUpModal");
 const slideDownButton = document.getElementById("slideDownButton");
@@ -28,7 +29,12 @@ triggerButton.addEventListener("click", () => {
   triggerBotResponse();
 });
 
-
+responseBox.addEventListener("keypress", function (e) {
+  if (e.key === "Enter") {
+    response = responseBox.value;
+    sendHumanResponse(response);
+  }
+});
 
 // The restart button
 slideDownButton.addEventListener("click", () => {
@@ -42,7 +48,7 @@ function triggerBotResponse() {
   let botResponse = document.createElement("div");
   botResponse.id = "botResponse";
   botResponse.className =
-    "p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl";
+    "p-4 col-start-1 col-span-3 bg-packgreen-light rounded-xl botResponse";
   let botResponseContent = document.createTextNode(
     "This is a test response to a query"
   );
@@ -51,9 +57,24 @@ function triggerBotResponse() {
   queryMessageBox.insertAdjacentElement("afterend", botResponse);
 }
 
+function sendHumanResponse(response) {
+  let humanResponse = document.createElement("div");
+  humanResponse.id = "humanResponse";
+  humanResponse.className =
+    "p-4 col-start-3 col-span-3 bg-packgreen-dark rounded-xl humanResponse";
+  let humanResponseContent = document.createTextNode(response);
+  humanResponse.appendChild(humanResponseContent);
+
+  bottomBotResponse = document.getElementsByClassName("botResponse")[0];
+
+  bottomBotResponse.insertAdjacentElement("afterend", humanResponse);
+}
+
 async function clearResponse() {
-  let botResponse = document.getElementById("botResponse");
-  if (botResponse) {
-    botResponse.remove();
-  }
+  // let botResponse = document.getElementById("botResponse");
+  // if (botResponse) {
+  //   botResponse.remove();
+  // }
+
+  location.reload();
 }

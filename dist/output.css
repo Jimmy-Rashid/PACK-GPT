@@ -658,10 +658,6 @@ video {
   display: grid;
 }
 
-.hidden {
-  display: none;
-}
-
 .aspect-\[1155\/678\] {
   aspect-ratio: 1155/678;
 }
