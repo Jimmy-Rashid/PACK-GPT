@@ -670,6 +670,10 @@ video {
   display: grid;
 }
 
+.contents {
+  display: contents;
+}
+
 .aspect-\[1155\/678\] {
   aspect-ratio: 1155/678;
 }

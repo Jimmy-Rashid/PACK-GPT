@@ -7,16 +7,19 @@ const restartButton = document.getElementById("restartButton");
 let queryMessageBox = document.getElementById("queryMessageBox");
 let n = 0;
 
+// Checks if enter is pressed to send first query messsage
 messageBox.addEventListener("keypress", function (e) {
   if (e.key === "Enter") {
     queryCheck();
   }
 });
 
+// Checks if the "Ask" button is pressed instead to send first query messsage
 triggerButton.addEventListener("click", () => {
   queryCheck();
 });
 
+// Checks if enter is pressed to send followup response
 responseBox.addEventListener("keypress", function (e) {
   if (e.key === "Enter") {
     // For release / testing
@@ -39,7 +42,7 @@ responseBox.addEventListener("keypress", function (e) {
   }
 });
 
-// The restart button
+// Checks if the "Restart" button is pressed to refresh page contents
 restartButton.addEventListener("click", () => {
   slideUpModal.classList.add("translate-y-full");
   setTimeout(() => {
@@ -47,6 +50,7 @@ restartButton.addEventListener("click", () => {
   }, 300);
 });
 
+// Makes sure initial query is long enough
 function queryCheck() {
   query = messageBox.value;
 
