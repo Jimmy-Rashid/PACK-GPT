@@ -17,7 +17,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "hnswlib-node": "^1.4.2",
-    "langchain": "^0.0.153",
+    "langchain": "^0.1.3",
     "openai": "^4.10.0",
     "pdf-parse": "^1.1.1"
   },

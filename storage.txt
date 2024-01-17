@@ -13,3 +13,12 @@
 //   prompt: promptTemplate,
 //   llm: llm,
 // });
+
+// Queries
+
+// "What sort of rental revenue can i expect from renting a 1000 square foot laneway site in a lower value area, can you provide some samples based on general assumptions",
+// "How long does it take to get a building permit",
+// "Are laneway homes expensive?",
+// "Are laneway homes a good investment?",
+// "What is the general opinion about modular laneway homes?",
+// "How long would it take me to get a building permit in Burnaby, BC?",
